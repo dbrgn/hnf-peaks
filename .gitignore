@@ -1,0 +1,5 @@
+*.swp
+osmosis/
+*.tgz
+*.pbf
+peaks_ch/
