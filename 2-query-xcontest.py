@@ -13,6 +13,7 @@ import requests
 # Config
 
 DB = 'peaks_ch'
+RADIUS = 300
 
 
 # Functions
@@ -20,7 +21,7 @@ DB = 'peaks_ch'
 def query_xcontest(lng: float, lat: float) -> Dict[str, Any]:
     data = {}  # type: Dict[str, Any]
 
-    r = requests.get(f'https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D={lng}+{lat}&filter%5Bradius%5D=200&list%5Bsort%5D=pts&list%5Bdir%5D=down')
+    r = requests.get(f'https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D={lng}+{lat}&filter%5Bradius%5D={RADIUS}&list%5Bsort%5D=pts&list%5Bdir%5D=down')
     soup = BeautifulSoup(r.text, 'html.parser')
 
     flights = int(soup.find('form', class_='filter').find('div', class_='wsw').find('p').find('strong').text)

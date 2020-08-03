@@ -18,7 +18,7 @@ elevation >1000m:
 ## 2: Query XContest
 
 This will process all peaks and query XContest for the number of flights that
-launched from within 200m around the peak:
+launched from within 300m around the peak:
 
     ./2-query-xcontest.py
 
