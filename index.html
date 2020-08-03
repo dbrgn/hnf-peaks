@@ -80,7 +80,7 @@
 
             // Add POIs
             const request = new XMLHttpRequest();
-            request.open('GET', '../geojson-2020-08-03.json', true);
+            request.open('GET', 'geojson-2020-08-03.json', true);
             request.onload = function() {
                 if (this.status == 200) {
                     const data = JSON.parse(this.response);
