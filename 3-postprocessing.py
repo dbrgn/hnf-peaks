@@ -42,6 +42,7 @@ def geojson(argv: List[str], data: csv.DictReader):
             'properties': {
                 'title': line['name'],
                 'ele': line['ele'],
+                'flights': int(line['flights']),
                 'top': {
                     'pilot': line['top_pilot'],
                     'dist': line['top_dist'],
