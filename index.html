@@ -1,10 +1,11 @@
 <!doctype html>
 <html>
     <head>
+        <meta charset="utf-8"/>
         <title>Hike & Fly Peaks Switzerland</title>
 
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
-        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+        <script src='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js'></script>
+        <link href='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css' rel='stylesheet' />
 
         <style type="text/css">
             html {
@@ -21,7 +22,11 @@
                 height: 600px;
                 width: 100%;
             }
-            .leaflet-popup-content p {
+            .mapboxgl-popup-content h3 {
+                margin-top: 4px;
+                margin-bottom: 8px;
+            }
+            .mapboxgl-popup-content p {
                 margin-top: 0px;
                 margin-bottom: 8px;
             }
@@ -30,8 +35,8 @@
     <body>
         <div id="header">
             <h1>Hike & Fly Peaks Switzerland</h1>
-            <p>Included are peaks with an elevation over 1000 m and flights within 300 m from the peak. Transparent markers mean that no flights were found from that location.</p>
-            <p>Note: Due to the large number of markers, rendering the map may be a bit slow :)</p>
+            <p>Included are peaks with an elevation over 1000 m and launches within 300 m from the peak. Transparent markers mean that no launches were found from that location.</p>
+            <p>Colors: <span style="color: blue;">&#9679;</span> No launches | <span style="color: orange;">&#9679;</span> 1&ndash;3 launches | <span style="color: red;">&#9679;</span> &gt;3 launches</p>
         </div>
 
         <div id="wrapper">
@@ -43,54 +48,83 @@
         </footer>
 
         <script>
-            const map = L.map('map').setView([46.76733810404278, 8.496828420038582], 8);
+            mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWxvIiwiYSI6IkM2cVZZdkkifQ.KK_4WqiWBL_DhpjIfGPcLw';
 
-            // Add tiles
-            L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/256/{z}/{x}/{y}?access_token={accessToken}', {
-                id: 'danilo/citrnqoyx000h2jmg5qenf8ep',
-                accessToken: 'pk.eyJ1IjoiZGFuaWxvIiwiYSI6IkM2cVZZdkkifQ.KK_4WqiWBL_DhpjIfGPcLw',
-            }).addTo(map);
+            const map = new mapboxgl.Map({
+                container: 'map',
+                style: 'mapbox://styles/danilo/citrnqoyx000h2jmg5qenf8ep',
+                center: [8.496828420038582, 46.76733810404278],
+                zoom: 8,
+            });
+
+            map.on('load', () => {
+                console.info('map loaded');
+
+                map.addSource('peaks', {
+                    type: 'geojson',
+                    //data: 'https://raw.githubusercontent.com/dbrgn/hnf-peaks/main/geojson-2020-08-03.json',
+                    data: 'geojson-2020-08-03.json',
+                });
+
+                map.addLayer({
+                    id: 'markers',
+                    source: 'peaks',
+                    type: 'circle',
+                    paint: {
+                        // Set the label content to the
+                        // feature's `name` property
+                        //'text-field': ['get', 'title'],
+                        'circle-radius': [
+                            'interpolate', ['linear'], ['zoom'],
+                            10, 3,
+                            14, 18,
+                        ],
+                        'circle-color': [
+                            'match',
+                            ['get', 'flights'],
+                            0, 'blue',
+                            1, 'orange',
+                            2, 'orange',
+                            3, 'orange',
+                            /* other */ 'red',
+                        ],
+                    },
+                });
+
+                // Show popup on click
+                map.on('click', 'markers', (e) => {
+                    const coordinates = e.features[0].geometry.coordinates.slice();
+                    const description = getDescription(e.features[0]);
+                    new mapboxgl.Popup()
+                        .setLngLat(coordinates)
+                        .setHTML(description)
+                        .addTo(map);
+                });
+
+                // Change the cursor to a pointer when the mouse is over the places layer
+                map.on('mouseenter', 'markers', function() {
+                    map.getCanvas().style.cursor = 'pointer';
+                });
+
+                // Change it back to a pointer when it leaves
+                map.on('mouseleave', 'markers', function() {
+                    map.getCanvas().style.cursor = '';
+                });
+            });
 
             // Function to create description from GeoJSON feature
             function getDescription(feature) {
+                console.log(feature);
                 const p = feature.properties;
                 let description = '<h3>' + p.title + '</h3>';
                 description += '<strong>Elevation</strong><p>' + p.ele + ' m</p>';
                 description += '<strong>Flights</strong><p>' + p.flights + '</p>';
-                if (p['top']['pilot'].length > 0) {
-                    description += '<strong>Record holder</strong><p>' + p.top.pilot + ' (' + p.top.dist + ')</p>';
+                const topFlight = JSON.parse(p['top']);
+                if (topFlight['pilot'].length > 0) {
+                    description += '<strong>Record holder</strong><p>' + topFlight.pilot + ' (' + topFlight.dist + ')</p>';
                 }
                 return description;
             };
-
-            function updateMap(data) {
-                L.geoJSON(data, {
-                    pointToLayer: (feature, latlng) => {
-                        const options = {}
-                        if (feature.properties.flights == 0) {
-                            options.opacity = 0.3;
-                        }
-                        return L.marker(latlng, options);
-                    },
-                    onEachFeature: (feature, layer) => {
-                        layer.bindPopup(getDescription(feature));
-                    },
-                }).addTo(map);
-            };
-
-            // Add POIs
-            const request = new XMLHttpRequest();
-            request.open('GET', 'geojson-2020-08-03.json', true);
-            request.onload = function() {
-                if (this.status == 200) {
-                    const data = JSON.parse(this.response);
-                    updateMap(data);
-                } else {
-                    console.error('HTTP ' + this.status + ' when fetching GeoJSON layer');
-                }
-            };
-            request.onerror = () => console.log('Could not load GeoJSON layer');
-            request.send()
         </script>
 
     </body>
