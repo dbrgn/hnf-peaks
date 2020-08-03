@@ -4,6 +4,8 @@ Fetch information about paragliding flights from peaks in Switzerland.
 
 Google Spreadsheet (view only): https://docs.google.com/spreadsheets/d/1rbAsmzIJNCQ0vPOpptib8FrJ6owdlph9MxvN_-6Hi3I/edit?usp=sharing
 
+Map: https://dbrgn.github.io/hnf-peaks/
+
 ## Prerequisites
 
 - Bash
