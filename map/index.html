@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Hike & Fly Peaks Switzerland</title>
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+
+        <style type="text/css">
+            html {
+                font-family: sans-serif;
+                font-size: 0.8em;
+            }
+            th {
+                text-align: left;
+            }
+            #wrapper {
+                width: 100%;
+            }
+            #map {
+                height: 600px;
+                width: 100%;
+            }
+            .leaflet-popup-content p {
+                margin-top: 0px;
+                margin-bottom: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="header">
+            <h1>Hike & Fly Peaks Switzerland</h1>
+            <p>Included are peaks with an elevation over 1000 m and flights within 300 m from the peak. Transparent markers mean that no flights were found from that location.</p>
+            <p>Note: Due to the large number of markers, rendering the map may be a bit slow :)</p>
+        </div>
+
+        <div id="wrapper">
+            <div id="map"></div>
+        </div>
+
+        <footer>
+            <p>Kontakt: <a href="mailto:mail@dbrgn.ch">mail@dbrgn.ch</a> | <a href="https://github.com/dbrgn/hnf-peaks">Github</a></p>
+        </footer>
+
+        <script>
+            const map = L.map('map').setView([46.76733810404278, 8.496828420038582], 8);
+
+            // Add tiles
+            L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/256/{z}/{x}/{y}?access_token={accessToken}', {
+                id: 'danilo/citrnqoyx000h2jmg5qenf8ep',
+                accessToken: 'pk.eyJ1IjoiZGFuaWxvIiwiYSI6IkM2cVZZdkkifQ.KK_4WqiWBL_DhpjIfGPcLw',
+            }).addTo(map);
+
+            // Function to create description from GeoJSON feature
+            function getDescription(feature) {
+                const p = feature.properties;
+                let description = '<h3>' + p.title + '</h3>';
+                description += '<strong>Elevation</strong><p>' + p.ele + ' m</p>';
+                description += '<strong>Flights</strong><p>' + p.flights + '</p>';
+                if (p['top']['pilot'].length > 0) {
+                    description += '<strong>Record holder</strong><p>' + p.top.pilot + ' (' + p.top.dist + ')</p>';
+                }
+                return description;
+            };
+
+            function updateMap(data) {
+                L.geoJSON(data, {
+                    pointToLayer: (feature, latlng) => {
+                        const options = {}
+                        if (feature.properties.flights == 0) {
+                            options.opacity = 0.3;
+                        }
+                        return L.marker(latlng, options);
+                    },
+                    onEachFeature: (feature, layer) => {
+                        layer.bindPopup(getDescription(feature));
+                    },
+                }).addTo(map);
+            };
+
+            // Add POIs
+            const request = new XMLHttpRequest();
+            request.open('GET', '../geojson-2020-08-03.json', true);
+            request.onload = function() {
+                if (this.status == 200) {
+                    const data = JSON.parse(this.response);
+                    updateMap(data);
+                } else {
+                    console.error('HTTP ' + this.status + ' when fetching GeoJSON layer');
+                }
+            };
+            request.onerror = () => console.log('Could not load GeoJSON layer');
+            request.send()
+        </script>
+
+    </body>
+</html>
