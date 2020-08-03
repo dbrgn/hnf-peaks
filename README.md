@@ -26,6 +26,12 @@ launched from within 300m around the peak:
 
 The data will be written to a file called `data-YYYY-MM-DD.csv`.
 
+## 3: Postprocess Data
+
+To calculate some aggregations:
+
+    ./3-postprocessing.py <data-in.csv> <pilots-out.csv>
+
 ## License
 
 - Code: GPLv3 or later
