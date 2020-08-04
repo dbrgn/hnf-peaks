@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8"/>
-        <title>Hike & Fly Peaks Switzerland</title>
+        <title>Hike & Fly Peaks</title>
 
         <script src='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js'></script>
         <link href='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css' rel='stylesheet' />
@@ -34,7 +34,11 @@
     </head>
     <body>
         <div id="header">
-            <h1>Hike & Fly Peaks Switzerland</h1>
+            <h1>Alpine Hike & Fly Peaks</h1>
+            <select name="country">
+                <option value="austria">Austria</option>
+                <option value="switzerland" selected>Switzerland</option>
+            </select>
             <p>Included are peaks with an elevation over 1000 m and launches (from XContest) within 300 m from the peak.</p>
             <p>Colors: <span style="color: blue;">&#9679;</span> No launches | <span style="color: orange;">&#9679;</span> 1&ndash;3 launches | <span style="color: red;">&#9679;</span> &gt;3 launches</p>
         </div>
@@ -48,27 +52,52 @@
         </footer>
 
         <script>
+            function ready(fn) {
+                if (document.readyState != 'loading'){
+                    fn();
+                } else {
+                    document.addEventListener('DOMContentLoaded', fn);
+                }
+            }
+
+            let countries = {
+                'switzerland': {
+                    center: [8.496828420038582, 46.76733810404278],
+                    zoom: 7,
+                },
+                'austria': {
+                    center: [13.26, 47.2],
+                    zoom: 7,
+                },
+            };
+
+            ready(() => {
+
             mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWxvIiwiYSI6IkM2cVZZdkkifQ.KK_4WqiWBL_DhpjIfGPcLw';
 
             const map = new mapboxgl.Map({
                 container: 'map',
                 style: 'mapbox://styles/danilo/citrnqoyx000h2jmg5qenf8ep',
-                center: [8.496828420038582, 46.76733810404278],
-                zoom: 8,
+                center: countries.switzerland.center,
+                zoom: countries.switzerland.zoom,
             });
 
-            map.on('load', () => {
-                console.info('map loaded');
+            let loaded = false;
+            const loadCountry = (country) => {
+                console.info(`Load country: ${country}`);
 
-                map.addSource('peaks', {
-                    type: 'geojson',
-                    //data: 'https://raw.githubusercontent.com/dbrgn/hnf-peaks/main/geojson-2020-08-03.json',
-                    data: 'geojson-2020-08-03.json',
-                });
+                // Pan to new country
+                map
+                    .setCenter(countries[country].center)
+                    .zoomTo(countries[country].zoom);
 
+                // Update marker layer
+                if (loaded) {
+                    map.removeLayer('markers');
+                }
                 map.addLayer({
                     id: 'markers',
-                    source: 'peaks',
+                    source: `peaks_${country}`,
                     type: 'circle',
                     paint: {
                         // Set the label content to the
@@ -90,6 +119,7 @@
                         ],
                     },
                 });
+                loaded = true;
 
                 // Show popup on click
                 map.on('click', 'markers', (e) => {
@@ -110,6 +140,36 @@
                 map.on('mouseleave', 'markers', function() {
                     map.getCanvas().style.cursor = '';
                 });
+            };
+
+            map.on('load', () => {
+                console.info('map loaded');
+
+                // Add data sources
+                map.addSource('peaks_switzerland', {
+                    type: 'geojson',
+                    data: 'geojson-switzerland-2020-08-03.json',
+                });
+                map.addSource('peaks_austria', {
+                    type: 'geojson',
+                    data: 'geojson-austria-2020-08-04.json',
+                });
+
+                // Show
+                loadCountry('switzerland');
+            });
+
+            const selector = document.querySelector('select[name="country"]');
+            selector.value = 'switzerland';
+            selector.addEventListener('change', (e) => {
+                const country = e.target.value;
+                if (countries[country] === undefined) {
+                    console.error('Invalid country: ' + country);
+                    return;
+                };
+                loadCountry(country);
+            });
+
             });
 
             // Function to create description from GeoJSON feature

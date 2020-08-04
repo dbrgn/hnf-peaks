@@ -2,4 +2,4 @@
 osmosis/
 *.tgz
 *.pbf
-peaks_ch/
+peaks_*/

@@ -1,11 +1,19 @@
 #!/bin/bash
 set -euo pipefail
 
-DB=peaks_ch
 OSMOSIS_VERSION=0.48.2
 
 function log() { echo -e "\e[32m$1\e[0m"; }
 function loge() { echo -e "\e[31m$1\e[0m"; }
+
+# Determine country
+if [ "$#" -ne 1 ]; then
+    loge "Usage: $0 <country>"
+    loge "Example: $0 switzerland"
+    exit 1
+fi
+COUNTRY=$1
+DB="peaks_$COUNTRY"
 
 # Check whether database exists
 dbs=$(psql -lqt | cut -d \| -f 1)
@@ -16,13 +24,13 @@ fi
 psql="psql -d $DB"
 
 # Download data
-DATA=switzerland-latest.osm.pbf
+DATA=$COUNTRY-latest.osm.pbf
 URL="https://download.geofabrik.de/europe/$DATA"
 if [ -f "$DATA" ]; then
     log "Data: $DATA already present"
 else
     log "Downloading $DATA..."
-    curl -L -O $URL
+    curl -L -O "$URL"
 fi
 
 log "Removing and recreating outdir \"$DB\"..."

@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import csv
 from datetime import date
 import re
+import sys
 from typing import Any, Dict
 
 import psycopg2
@@ -12,7 +13,6 @@ import requests
 
 # Config
 
-DB = 'peaks_ch'
 RADIUS = 300
 
 
@@ -21,7 +21,8 @@ RADIUS = 300
 def query_xcontest(lng: float, lat: float) -> Dict[str, Any]:
     data = {}  # type: Dict[str, Any]
 
-    r = requests.get(f'https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D={lng}+{lat}&filter%5Bradius%5D={RADIUS}&list%5Bsort%5D=pts&list%5Bdir%5D=down')
+    url = f'https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D={lng}+{lat}&filter%5Bradius%5D={RADIUS}&list%5Bsort%5D=pts&list%5Bdir%5D=down'
+    r = requests.get(url)
     soup = BeautifulSoup(r.text, 'html.parser')
 
     flights = int(soup.find('form', class_='filter').find('div', class_='wsw').find('p').find('strong').text)
@@ -32,7 +33,7 @@ def query_xcontest(lng: float, lat: float) -> Dict[str, Any]:
     if flights > 0:
         table = soup.find('table', class_='flights')
         top = table.find('tbody').find_all('tr')[0]
-        pilot = top.find('a', class_='plt').text
+        pilot = top.find(class_='plt').text
         distance = top.find('td', class_='km').text
         data['top'] = {
             'pilot': pilot,
@@ -43,8 +44,14 @@ def query_xcontest(lng: float, lat: float) -> Dict[str, Any]:
 
 
 if __name__ == '__main__':
+    if len(sys.argv) != 2:
+        print(f'Usage: {sys.argv[0]} <country>')
+        sys.exit(1)
+
+    country = sys.argv[1]
+
     # Connect
-    conn = psycopg2.connect(f'dbname={DB}')
+    conn = psycopg2.connect(f'dbname=peaks_{country}')
 
     # Query database
     cur = conn.cursor()
@@ -61,7 +68,7 @@ if __name__ == '__main__':
     """)
 
     # Open CSV file
-    filename = 'data-{}.csv'.format(date.today().isoformat())
+    filename = 'data-{}-{}.csv'.format(country, date.today().isoformat())
     with open(filename, 'w') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(('id', 'name', 'ele', 'lng', 'lat', 'flights', 'top_pilot', 'top_dist'))
