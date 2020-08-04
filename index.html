@@ -37,6 +37,7 @@
             <h1>Alpine Hike & Fly Peaks</h1>
             <select name="country">
                 <option value="austria">Austria</option>
+                <option value="slovenia">Slovenia</option>
                 <option value="switzerland" selected>Switzerland</option>
             </select>
             <p>Included are peaks with an elevation over 1000 m and launches (from XContest) within 300 m from the peak.</p>
@@ -68,6 +69,10 @@
                 'austria': {
                     center: [13.26, 47.2],
                     zoom: 7,
+                },
+                'slovenia': {
+                    center: [14.6, 46.0],
+                    zoom: 8,
                 },
             };
 
@@ -153,6 +158,10 @@
                 map.addSource('peaks_austria', {
                     type: 'geojson',
                     data: 'geojson-austria-2020-08-04.json',
+                });
+                map.addSource('peaks_slovenia', {
+                    type: 'geojson',
+                    data: 'geojson-slovenia-2020-08-04.json',
                 });
 
                 // Show
