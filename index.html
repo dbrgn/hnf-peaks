@@ -77,6 +77,8 @@
                 },
             };
 
+            const RADIUS = 350;
+
             ready(() => {
 
             mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWxvIiwiYSI6IkM2cVZZdkkifQ.KK_4WqiWBL_DhpjIfGPcLw';
@@ -186,7 +188,11 @@
             function getDescription(feature) {
                 console.log(feature);
                 const p = feature.properties;
+                const coords = feature._geometry.coordinates;
                 let description = '<h3>' + p.title + '</h3>';
+                if (coords) {
+                    description += '<p><a href="https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D=' + coords[0] + '+' + coords[1] + '&filter%5Bradius%5D=' + RADIUS + '&list%5Bsort%5D=pts&list%5Bdir%5D=down" target="_blank">XContest Search</a></p>';
+                }
                 description += '<strong>Elevation</strong><p>' + p.ele + ' m</p>';
                 description += '<strong>Flights</strong><p>' + p.flights + '</p>';
                 const topFlight = JSON.parse(p['top']);
