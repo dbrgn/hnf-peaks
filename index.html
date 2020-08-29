@@ -41,7 +41,10 @@
                 <option value="switzerland" selected>Switzerland</option>
             </select>
             <p>Included are peaks with an elevation over 1000 m and launches (from XContest) within 350 m from the peak.</p>
-            <p>Colors: <span style="color: blue;">&#9679;</span> No launches | <span style="color: orange;">&#9679;</span> 1&ndash;3 launches | <span style="color: red;">&#9679;</span> &gt;3 launches</p>
+            <p>Colors: <span style="color: #4059AD;">&#9679;</span> No launches
+            | <span style="color: #FFDA20;">&#9679;</span> 1&ndash;3 launches
+            | <span style="color: #F46F22;">&#9679;</span> 3&ndash;9 launches
+            | <span style="color: #E92028;">&#9679;</span> 10+ launches</p>
         </div>
 
         <div id="wrapper">
@@ -103,6 +106,10 @@
                 if (loaded) {
                     map.removeLayer('markers');
                 }
+                const tier0 = '#4059AD'; // 0
+                const tier1 = '#FFDA20'; // 1-3
+                const tier2 = '#F46F22'; // 4-9
+                const tier3 = '#E92028'; // 10+
                 map.addLayer({
                     id: 'markers',
                     source: `peaks_${country}`,
@@ -113,17 +120,28 @@
                         //'text-field': ['get', 'title'],
                         'circle-radius': [
                             'interpolate', ['linear'], ['zoom'],
-                            10, 3,
+                            5, 2,
+                            8, 3,
+                            12, 6,
                             14, 18,
                         ],
                         'circle-color': [
                             'match',
                             ['get', 'flights'],
-                            0, 'blue',
-                            1, 'orange',
-                            2, 'orange',
-                            3, 'orange',
-                            /* other */ 'red',
+                            0, tier0,
+
+                            1, tier1,
+                            2, tier1,
+                            3, tier1,
+
+                            4, tier2,
+                            5, tier2,
+                            6, tier2,
+                            7, tier2,
+                            8, tier2,
+                            9, tier2,
+
+                            /* other */ tier3,
                         ],
                     },
                 });
