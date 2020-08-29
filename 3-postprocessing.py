@@ -19,7 +19,7 @@ def pilots(argv: List[str], data: csv.DictReader):
         pilots[line['top_pilot']].count += 1
         pilots[line['top_pilot']].peaks.append(line['name'])
 
-    with open(sys.argv[2], 'w') as p:
+    with open(sys.argv[3], 'w') as p:
         writer = csv.writer(p)
         writer.writerow(('pilot', 'records', 'peaks'))
         for (pilot, pdata) in sorted(pilots.items(), key=lambda x: (-x[1].count, x[0])):

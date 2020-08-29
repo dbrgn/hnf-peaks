@@ -13,10 +13,10 @@
       "properties": {
         "title": "Dufourspitze",
         "ele": "4634",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Simon Pavlik",
-          "dist": "18.95 km"
+          "pilot": "michael witschi",
+          "dist": "34.42 km"
         },
         "icon": "marker"
       }
@@ -33,10 +33,10 @@
       "properties": {
         "title": "Dunantspitze",
         "ele": "4632",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Simon Pavlik",
-          "dist": "18.95 km"
+          "pilot": "michael witschi",
+          "dist": "34.42 km"
         },
         "icon": "marker"
       }
@@ -53,10 +53,10 @@
       "properties": {
         "title": "Grenzgipfel",
         "ele": "4618",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Simon Pavlik",
-          "dist": "18.95 km"
+          "pilot": "michael witschi",
+          "dist": "34.42 km"
         },
         "icon": "marker"
       }
@@ -173,10 +173,10 @@
       "properties": {
         "title": "Weisshorn",
         "ele": "4505",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Josef Kleint",
+          "dist": "6.08 km"
         },
         "icon": "marker"
       }
@@ -313,10 +313,10 @@
       "properties": {
         "title": "Dent Blanche",
         "ele": "4358",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "laurent monneron",
+          "dist": "18.15 km"
         },
         "icon": "marker"
       }
@@ -613,10 +613,10 @@
       "properties": {
         "title": "Alphubel",
         "ele": "4206",
-        "flights": 5,
+        "flights": 6,
         "top": {
-          "pilot": "Gerald Kernstock",
-          "dist": "11.89 km"
+          "pilot": "Nadine Weder",
+          "dist": "12.23 km"
         },
         "icon": "marker"
       }
@@ -813,7 +813,7 @@
       "properties": {
         "title": "Jungfrau",
         "ele": "4158",
-        "flights": 9,
+        "flights": 10,
         "top": {
           "pilot": "Julian Daenzer",
           "dist": "85.10 km"
@@ -833,7 +833,7 @@
       "properties": {
         "title": "Bishorn",
         "ele": "4153",
-        "flights": 9,
+        "flights": 10,
         "top": {
           "pilot": "Stanley Carron",
           "dist": "27.36 km"
@@ -873,10 +873,10 @@
       "properties": {
         "title": "Combin de la Tsessette",
         "ele": "4135",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Michael Gr\u00fcnebach",
+          "dist": "7.94 km"
         },
         "icon": "marker"
       }
@@ -893,7 +893,7 @@
       "properties": {
         "title": "Punta Burnaby",
         "ele": "4135",
-        "flights": 8,
+        "flights": 10,
         "top": {
           "pilot": "Stanley Carron",
           "dist": "27.36 km"
@@ -913,7 +913,7 @@
       "properties": {
         "title": "M\u00f6nch",
         "ele": "4107",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "Umbricht Fabian",
           "dist": "36.48 km"
@@ -1153,10 +1153,10 @@
       "properties": {
         "title": "D\u00fcrrenhorn",
         "ele": "4035",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Michael Gr\u00fcnebach",
+          "dist": "14.70 km"
         },
         "icon": "marker"
       }
@@ -1173,7 +1173,7 @@
       "properties": {
         "title": "Allalinhorn",
         "ele": "4027",
-        "flights": 18,
+        "flights": 21,
         "top": {
           "pilot": "Franz Iseli",
           "dist": "39.05 km"
@@ -1213,7 +1213,7 @@
       "properties": {
         "title": "Weissmies",
         "ele": "4023",
-        "flights": 10,
+        "flights": 13,
         "top": {
           "pilot": "Michael K\u00fcffer",
           "dist": "36.47 km"
@@ -1793,7 +1793,7 @@
       "properties": {
         "title": "Piz Pal\u00fc",
         "ele": "3900",
-        "flights": 6,
+        "flights": 7,
         "top": {
           "pilot": "Dino Scheidegger",
           "dist": "29.48 km"
@@ -1933,7 +1933,7 @@
       "properties": {
         "title": "Klein Matterhorn",
         "ele": "3883",
-        "flights": 32,
+        "flights": 38,
         "top": {
           "pilot": "Joel Fuchs",
           "dist": "189.87 km"
@@ -3193,7 +3193,7 @@
       "properties": {
         "title": "Balmhorn",
         "ele": "3698",
-        "flights": 5,
+        "flights": 7,
         "top": {
           "pilot": "Klaus Jordan",
           "dist": "21.67 km"
@@ -3513,7 +3513,7 @@
       "properties": {
         "title": "P3667",
         "ele": "3667",
-        "flights": 5,
+        "flights": 7,
         "top": {
           "pilot": "Klaus Jordan",
           "dist": "21.67 km"
@@ -4213,7 +4213,7 @@
       "properties": {
         "title": "T\u00f6di",
         "ele": "3614",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "Patrick D\u00fcnser",
           "dist": "20.66 km"
@@ -4313,10 +4313,10 @@
       "properties": {
         "title": "Les Diablons",
         "ele": "3609",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Joel Fuchs",
+          "dist": "32.87 km"
         },
         "icon": "marker"
       }
@@ -4593,7 +4593,7 @@
       "properties": {
         "title": "Galenstock",
         "ele": "3586",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "Andrea Voumard",
           "dist": "45.73 km"
@@ -4673,10 +4673,10 @@
       "properties": {
         "title": "Inners Barrhorn",
         "ele": "3583",
-        "flights": 0,
+        "flights": 2,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Lars Meerstetter",
+          "dist": "30.85 km"
         },
         "icon": "marker"
       }
@@ -4913,7 +4913,7 @@
       "properties": {
         "title": "Mathildespitze",
         "ele": "3557",
-        "flights": 145,
+        "flights": 162,
         "top": {
           "pilot": "H\u00e4ppy Michel",
           "dist": "187.25 km"
@@ -6093,10 +6093,10 @@
       "properties": {
         "title": "Furgghorn",
         "ele": "3451",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Philip Glutz",
+          "dist": "152.95 km"
         },
         "icon": "marker"
       }
@@ -7133,10 +7133,10 @@
       "properties": {
         "title": "Pigne de la L\u00e9",
         "ele": "3396",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Grimpereau Desbois",
+          "dist": "5.76 km"
         },
         "icon": "marker"
       }
@@ -7533,10 +7533,10 @@
       "properties": {
         "title": "Mont de l'\u00c9toile",
         "ele": "3370",
-        "flights": 3,
+        "flights": 14,
         "top": {
           "pilot": "Ludovic Maitre",
-          "dist": "21.73 km"
+          "dist": "37.24 km"
         },
         "icon": "marker"
       }
@@ -9073,7 +9073,7 @@
       "properties": {
         "title": "Fen\u00eatre de la Cassorte",
         "ele": "3300",
-        "flights": 8,
+        "flights": 12,
         "top": {
           "pilot": "Bertrand Cina",
           "dist": "38.29 km"
@@ -9193,10 +9193,10 @@
       "properties": {
         "title": "Hockenhorn",
         "ele": "3293",
-        "flights": 4,
+        "flights": 11,
         "top": {
-          "pilot": "Werner Berweger",
-          "dist": "50.13 km"
+          "pilot": "Andy J\u00e4ggi",
+          "dist": "36.97 km"
         },
         "icon": "marker"
       }
@@ -10033,7 +10033,7 @@
       "properties": {
         "title": "Haute Cime",
         "ele": "3257",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Grimpereau Desbois",
           "dist": "20.24 km"
@@ -10493,7 +10493,7 @@
       "properties": {
         "title": "Wildstrubel",
         "ele": "3244",
-        "flights": 26,
+        "flights": 31,
         "top": {
           "pilot": "Felix Aegerter",
           "dist": "63.45 km"
@@ -10533,10 +10533,10 @@
       "properties": {
         "title": "Grossstrubel",
         "ele": "3243",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Patrik Caspar",
+          "dist": "10.92 km"
         },
         "icon": "marker"
       }
@@ -10673,7 +10673,7 @@
       "properties": {
         "title": "Titlis",
         "ele": "3238",
-        "flights": 51,
+        "flights": 55,
         "top": {
           "pilot": "Daniel Moser",
           "dist": "93.30 km"
@@ -10953,7 +10953,7 @@
       "properties": {
         "title": "Hohstock",
         "ele": "3226",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Martin Schmidhalter",
           "dist": "12.04 km"
@@ -11653,10 +11653,10 @@
       "properties": {
         "title": "Munt Pers",
         "ele": "3207",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Marc Fragni\u00e8re",
+          "dist": "9.82 km"
         },
         "icon": "marker"
       }
@@ -12533,10 +12533,10 @@
       "properties": {
         "title": "Piz Surlej",
         "ele": "3188",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "werner messerschmidt",
+          "dist": "15.94 km"
         },
         "icon": "marker"
       }
@@ -14333,7 +14333,7 @@
       "properties": {
         "title": "Frilihorn",
         "ele": "3144",
-        "flights": 6,
+        "flights": 12,
         "top": {
           "pilot": "Bendicht Erb",
           "dist": "33.69 km"
@@ -14373,7 +14373,7 @@
       "properties": {
         "title": "Becs de Bosson",
         "ele": "3143",
-        "flights": 33,
+        "flights": 46,
         "top": {
           "pilot": "Yves K\u00fcbler",
           "dist": "105.17 km"
@@ -15773,10 +15773,10 @@
       "properties": {
         "title": "Ruchi",
         "ele": "3107",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "J\u00f6rg M\u00e4der",
-          "dist": "13.48 km"
+          "pilot": "Markus Egli",
+          "dist": "44.93 km"
         },
         "icon": "marker"
       }
@@ -16013,7 +16013,7 @@
       "properties": {
         "title": "Unterrothorn",
         "ele": "3103",
-        "flights": 200,
+        "flights": 205,
         "top": {
           "pilot": "Philipp Steinger",
           "dist": "305.95 km"
@@ -16073,7 +16073,7 @@
       "properties": {
         "title": "Piz Segnas",
         "ele": "3102",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "Alex Meier",
           "dist": "20.38 km"
@@ -17953,7 +17953,7 @@
       "properties": {
         "title": "Piz Nair",
         "ele": "3056",
-        "flights": 10,
+        "flights": 13,
         "top": {
           "pilot": "Philipp Steinger",
           "dist": "222.36 km"
@@ -18493,10 +18493,10 @@
       "properties": {
         "title": "Pointe des Autans",
         "ele": "3044",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Henri Montel",
+          "dist": "13.72 km"
         },
         "icon": "marker"
       }
@@ -18873,10 +18873,10 @@
       "properties": {
         "title": "Seetalhorn",
         "ele": "3037",
-        "flights": 1,
+        "flights": 12,
         "top": {
           "pilot": "Claudio Ruff",
-          "dist": "16.39 km"
+          "dist": "24.07 km"
         },
         "icon": "marker"
       }
@@ -19673,10 +19673,10 @@
       "properties": {
         "title": "Strahlhorn",
         "ele": "3026",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Reto Heutschi",
+          "dist": "74.85 km"
         },
         "icon": "marker"
       }
@@ -19693,10 +19693,10 @@
       "properties": {
         "title": "Pointe de la Tsevalire",
         "ele": "3026",
-        "flights": 3,
+        "flights": 8,
         "top": {
-          "pilot": "Grimpereau Desbois",
-          "dist": "15.55 km"
+          "pilot": "Alexandre Caillet-Bois",
+          "dist": "21.05 km"
         },
         "icon": "marker"
       }
@@ -19713,7 +19713,7 @@
       "properties": {
         "title": "Piz Cotschen",
         "ele": "3026",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Michael Zenker",
           "dist": "34.57 km"
@@ -20013,10 +20013,10 @@
       "properties": {
         "title": "Sparrhorn",
         "ele": "3021",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Albert Holler",
+          "dist": "50.15 km"
         },
         "icon": "marker"
       }
@@ -21313,10 +21313,10 @@
       "properties": {
         "title": "Pic d'Artsinol",
         "ele": "2998",
-        "flights": 1,
+        "flights": 9,
         "top": {
-          "pilot": "Felix Aegerter",
-          "dist": "6.73 km"
+          "pilot": "Nicolas Jacquod",
+          "dist": "14.57 km"
         },
         "icon": "marker"
       }
@@ -21333,7 +21333,7 @@
       "properties": {
         "title": "Trubelstock",
         "ele": "2998",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Laurent Borella",
           "dist": "26.86 km"
@@ -21933,10 +21933,10 @@
       "properties": {
         "title": "Monte Moro",
         "ele": "2985",
-        "flights": 28,
+        "flights": 33,
         "top": {
-          "pilot": "Mirco Marini",
-          "dist": "98.42 km"
+          "pilot": "alessandro bianchi",
+          "dist": "96.39 km"
         },
         "icon": "marker"
       }
@@ -22513,10 +22513,10 @@
       "properties": {
         "title": "Leesh\u00f6rner",
         "ele": "2974",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Andrej Szijjarto",
-          "dist": "4.06 km"
+          "pilot": "Daniel Schmitt",
+          "dist": "87.74 km"
         },
         "icon": "marker"
       }
@@ -22593,7 +22593,7 @@
       "properties": {
         "title": "Schilthorn",
         "ele": "2973",
-        "flights": 313,
+        "flights": 326,
         "top": {
           "pilot": "Patrick von K\u00e4nel",
           "dist": "199.61 km"
@@ -22653,10 +22653,10 @@
       "properties": {
         "title": "Piz Curv\u00e9r",
         "ele": "2972",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Rico Meuli",
+          "dist": "12.23 km"
         },
         "icon": "marker"
       }
@@ -22713,7 +22713,7 @@
       "properties": {
         "title": "G\u00e4msfairenstock",
         "ele": "2972",
-        "flights": 40,
+        "flights": 44,
         "top": {
           "pilot": "Werner Jacober",
           "dist": "76.11 km"
@@ -22733,7 +22733,7 @@
       "properties": {
         "title": "Scex Rouge",
         "ele": "2971",
-        "flights": 9,
+        "flights": 14,
         "top": {
           "pilot": "Martin Zettler",
           "dist": "123.95 km"
@@ -23233,7 +23233,7 @@
       "properties": {
         "title": "Schesaplana",
         "ele": "2965",
-        "flights": 33,
+        "flights": 34,
         "top": {
           "pilot": "Julian Kaufmann",
           "dist": "33.44 km"
@@ -23533,7 +23533,7 @@
       "properties": {
         "title": "Gemsstock",
         "ele": "2961",
-        "flights": 50,
+        "flights": 51,
         "top": {
           "pilot": "Bruno Bohren",
           "dist": "245.14 km"
@@ -23653,7 +23653,7 @@
       "properties": {
         "title": "Piz Lagalb",
         "ele": "2959",
-        "flights": 18,
+        "flights": 21,
         "top": {
           "pilot": "Peter K\u00e4ch",
           "dist": "155.21 km"
@@ -25513,7 +25513,7 @@
       "properties": {
         "title": "Urirotstock",
         "ele": "2928",
-        "flights": 5,
+        "flights": 6,
         "top": {
           "pilot": "Benjamin Herger",
           "dist": "13.25 km"
@@ -25553,7 +25553,7 @@
       "properties": {
         "title": "Pointe de la Plaine Morte",
         "ele": "2927",
-        "flights": 66,
+        "flights": 67,
         "top": {
           "pilot": "Michel Berset",
           "dist": "60.29 km"
@@ -25613,10 +25613,10 @@
       "properties": {
         "title": "Eggishorn",
         "ele": "2926",
-        "flights": 2,
+        "flights": 4,
         "top": {
-          "pilot": "alessandro bianchi",
-          "dist": "30.31 km"
+          "pilot": "Martin B\u00fchler",
+          "dist": "211.70 km"
         },
         "icon": "marker"
       }
@@ -26633,10 +26633,10 @@
       "properties": {
         "title": "Sex de Marinda",
         "ele": "2906",
-        "flights": 0,
+        "flights": 2,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Yann Fischer",
+          "dist": "2.36 km"
         },
         "icon": "marker"
       }
@@ -27233,7 +27233,7 @@
       "properties": {
         "title": "Corne de Sorebois",
         "ele": "2895",
-        "flights": 133,
+        "flights": 163,
         "top": {
           "pilot": "G\u00e9rald Maret",
           "dist": "59.05 km"
@@ -28053,10 +28053,10 @@
       "properties": {
         "title": "Gross Sidelhorn",
         "ele": "2879",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Simon Bodmer",
+          "dist": "96.62 km"
         },
         "icon": "marker"
       }
@@ -28213,10 +28213,10 @@
       "properties": {
         "title": "Risihorn",
         "ele": "2875",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Kris Versluis",
+          "dist": "31.42 km"
         },
         "icon": "marker"
       }
@@ -28433,7 +28433,7 @@
       "properties": {
         "title": "Bettmergrat",
         "ele": "2871",
-        "flights": 10,
+        "flights": 13,
         "top": {
           "pilot": "Frank Schaufuss",
           "dist": "99.22 km"
@@ -29033,7 +29033,7 @@
       "properties": {
         "title": "Parpaner Rothorn",
         "ele": "2861",
-        "flights": 61,
+        "flights": 78,
         "top": {
           "pilot": "Johannes Engewald",
           "dist": "47.38 km"
@@ -29253,7 +29253,7 @@
       "properties": {
         "title": "Bettmerhorn",
         "ele": "2857",
-        "flights": 6,
+        "flights": 9,
         "top": {
           "pilot": "Thomas Blatter",
           "dist": "95.01 km"
@@ -29693,10 +29693,10 @@
       "properties": {
         "title": "Roc d'Orzival",
         "ele": "2852",
-        "flights": 2,
+        "flights": 7,
         "top": {
-          "pilot": "Robert Rubl",
-          "dist": "6.07 km"
+          "pilot": "Xavier Trilles",
+          "dist": "9.77 km"
         },
         "icon": "marker"
       }
@@ -30293,7 +30293,7 @@
       "properties": {
         "title": "Weissflue",
         "ele": "2843",
-        "flights": 15,
+        "flights": 31,
         "top": {
           "pilot": "Sebastian Weber",
           "dist": "35.13 km"
@@ -31093,10 +31093,10 @@
       "properties": {
         "title": "Piz Arina",
         "ele": "2828",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "stefan hollenstein",
-          "dist": "8.77 km"
+          "pilot": "Christoph Byland",
+          "dist": "11.67 km"
         },
         "icon": "marker"
       }
@@ -31473,7 +31473,7 @@
       "properties": {
         "title": "Becca di Lovegno",
         "ele": "2821",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "S\u00e9bastien Wiederseiner",
           "dist": "55.40 km"
@@ -31993,10 +31993,10 @@
       "properties": {
         "title": "Mottone",
         "ele": "2812",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Matteo Lacentra",
+          "dist": "5.82 km"
         },
         "icon": "marker"
       }
@@ -32313,10 +32313,10 @@
       "properties": {
         "title": "Schafk\u00f6pfe",
         "ele": "2806",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Olivier Anken",
-          "dist": "10.60 km"
+          "pilot": "Hans N\u00fcesch",
+          "dist": "41.51 km"
         },
         "icon": "marker"
       }
@@ -32913,7 +32913,7 @@
       "properties": {
         "title": "Piz Cl\u00fcnas",
         "ele": "2793",
-        "flights": 28,
+        "flights": 30,
         "top": {
           "pilot": "Orlando Molinari",
           "dist": "140.37 km"
@@ -33633,10 +33633,10 @@
       "properties": {
         "title": "Piz Lunghin",
         "ele": "2780",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Bruno Giulini",
+          "dist": "10.94 km"
         },
         "icon": "marker"
       }
@@ -33733,10 +33733,10 @@
       "properties": {
         "title": "Hoganthorn",
         "ele": "2777",
-        "flights": 0,
+        "flights": 3,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Marc Schori",
+          "dist": "27.50 km"
         },
         "icon": "marker"
       }
@@ -33833,10 +33833,10 @@
       "properties": {
         "title": "Niesehorn",
         "ele": "2776",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Martin Zettler",
+          "dist": "30.34 km"
         },
         "icon": "marker"
       }
@@ -33873,10 +33873,10 @@
       "properties": {
         "title": "T\u00eate de Fonteinte",
         "ele": "2775",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Bernhard Friedli",
+          "dist": "39.67 km"
         },
         "icon": "marker"
       }
@@ -34633,7 +34633,7 @@
       "properties": {
         "title": "Piz Chavalatsch",
         "ele": "2763",
-        "flights": 10,
+        "flights": 12,
         "top": {
           "pilot": "Chrigel Maurer",
           "dist": "92.03 km"
@@ -36513,7 +36513,7 @@
       "properties": {
         "title": "Attelas",
         "ele": "2727",
-        "flights": 74,
+        "flights": 77,
         "top": {
           "pilot": "Paul Cretton",
           "dist": "124.21 km"
@@ -36693,10 +36693,10 @@
       "properties": {
         "title": "Piz di Campedell",
         "ele": "2724",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Philipp Rothenb\u00fchler",
+          "dist": "29.22 km"
         },
         "icon": "marker"
       }
@@ -36913,10 +36913,10 @@
       "properties": {
         "title": "Hasenst\u00f6ck",
         "ele": "2720",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Martin de N\u00e8ve",
+          "dist": "7.86 km"
         },
         "icon": "marker"
       }
@@ -37113,7 +37113,7 @@
       "properties": {
         "title": "Ortstock",
         "ele": "2716",
-        "flights": 9,
+        "flights": 11,
         "top": {
           "pilot": "Beat Walker",
           "dist": "29.26 km"
@@ -37373,10 +37373,10 @@
       "properties": {
         "title": "J\u00e4gerchr\u00fcz",
         "ele": "2711",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Michel Berset",
+          "dist": "27.86 km"
         },
         "icon": "marker"
       }
@@ -37853,10 +37853,10 @@
       "properties": {
         "title": "Chli Ch\u00e4rpf",
         "ele": "2700",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Vincent Vuille",
+          "dist": "11.99 km"
         },
         "icon": "marker"
       }
@@ -38513,10 +38513,10 @@
       "properties": {
         "title": "Zenjiflue",
         "ele": "2686",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "David Ferrer Llanes",
+          "dist": "4.76 km"
         },
         "icon": "marker"
       }
@@ -38553,10 +38553,10 @@
       "properties": {
         "title": "Weissfluhjoch",
         "ele": "2685",
-        "flights": 7,
+        "flights": 9,
         "top": {
-          "pilot": "Martin Heckmeier",
-          "dist": "31.40 km"
+          "pilot": "Kony Meyer",
+          "dist": "46.90 km"
         },
         "icon": "marker"
       }
@@ -38713,10 +38713,10 @@
       "properties": {
         "title": "Jatzhorn",
         "ele": "2682",
-        "flights": 8,
+        "flights": 9,
         "top": {
-          "pilot": "Thomas Kamps",
-          "dist": "55.10 km"
+          "pilot": "Michael M\u00fcller",
+          "dist": "256.66 km"
         },
         "icon": "marker"
       }
@@ -38813,7 +38813,7 @@
       "properties": {
         "title": "Faulhorn",
         "ele": "2680",
-        "flights": 60,
+        "flights": 69,
         "top": {
           "pilot": "Christian Knapp",
           "dist": "26.18 km"
@@ -39053,7 +39053,7 @@
       "properties": {
         "title": "Fil de Cassons",
         "ele": "2674",
-        "flights": 1052,
+        "flights": 1063,
         "top": {
           "pilot": "Beat Ritzmann",
           "dist": "182.72 km"
@@ -39093,10 +39093,10 @@
       "properties": {
         "title": "Mont Noble",
         "ele": "2672",
-        "flights": 2,
+        "flights": 4,
         "top": {
-          "pilot": "Noe E. Kohler",
-          "dist": "10.36 km"
+          "pilot": "Noah Siegrist",
+          "dist": "16.76 km"
         },
         "icon": "marker"
       }
@@ -39213,7 +39213,7 @@
       "properties": {
         "title": "Piz Martegnas",
         "ele": "2670",
-        "flights": 87,
+        "flights": 88,
         "top": {
           "pilot": "Philippe Ruchti",
           "dist": "56.85 km"
@@ -39493,7 +39493,7 @@
       "properties": {
         "title": "Furkastock",
         "ele": "2665",
-        "flights": 3,
+        "flights": 7,
         "top": {
           "pilot": "Sebastian Benz",
           "dist": "67.94 km"
@@ -39573,7 +39573,7 @@
       "properties": {
         "title": "Rotstock",
         "ele": "2663",
-        "flights": 4,
+        "flights": 6,
         "top": {
           "pilot": "Gavin McClurg",
           "dist": "37.59 km"
@@ -39833,7 +39833,7 @@
       "properties": {
         "title": "La Brinta",
         "ele": "2658",
-        "flights": 214,
+        "flights": 229,
         "top": {
           "pilot": "laurent monneron",
           "dist": "65.70 km"
@@ -39875,7 +39875,7 @@
         "ele": "2657",
         "flights": 1,
         "top": {
-          "pilot": "Susanne Hadorn",
+          "pilot": "Sue Hadorn",
           "dist": "5.92 km"
         },
         "icon": "marker"
@@ -39953,7 +39953,7 @@
       "properties": {
         "title": "Weisshorn",
         "ele": "2653",
-        "flights": 1815,
+        "flights": 1857,
         "top": {
           "pilot": "H.Taggi Tagmann",
           "dist": "132.18 km"
@@ -41593,10 +41593,10 @@
       "properties": {
         "title": "Foostock",
         "ele": "2611",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Sebastian Schlegel",
+          "dist": "3.10 km"
         },
         "icon": "marker"
       }
@@ -41873,10 +41873,10 @@
       "properties": {
         "title": "Muntisch\u00e8",
         "ele": "2605",
-        "flights": 3,
+        "flights": 8,
         "top": {
-          "pilot": "Christian Rechenmacher",
-          "dist": "36.36 km"
+          "pilot": "David Jenny",
+          "dist": "62.94 km"
         },
         "icon": "marker"
       }
@@ -42053,10 +42053,10 @@
       "properties": {
         "title": "Rossboden",
         "ele": "2601",
-        "flights": 1,
+        "flights": 3,
         "top": {
-          "pilot": "Thomas Kamps",
-          "dist": "6.07 km"
+          "pilot": "Daniel Moser",
+          "dist": "89.37 km"
         },
         "icon": "marker"
       }
@@ -42233,7 +42233,7 @@
       "properties": {
         "title": "Rigidalstock",
         "ele": "2593",
-        "flights": 6,
+        "flights": 8,
         "top": {
           "pilot": "Urban Fischer",
           "dist": "64.33 km"
@@ -42273,10 +42273,10 @@
       "properties": {
         "title": "Schafberg",
         "ele": "2591",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Michael Arnold",
-          "dist": "28.04 km"
+          "pilot": "Rico Chandra",
+          "dist": "92.42 km"
         },
         "icon": "marker"
       }
@@ -42333,7 +42333,7 @@
       "properties": {
         "title": "Jakobshorn",
         "ele": "2590",
-        "flights": 572,
+        "flights": 607,
         "top": {
           "pilot": "Cyril Zwahlen",
           "dist": "173.96 km"
@@ -42373,10 +42373,10 @@
       "properties": {
         "title": "Il Pizzaccio",
         "ele": "2589",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Chrigel Maurer",
+          "dist": "28.32 km"
         },
         "icon": "marker"
       }
@@ -42713,10 +42713,10 @@
       "properties": {
         "title": "Roc de la Vache",
         "ele": "2581",
-        "flights": 1,
+        "flights": 3,
         "top": {
-          "pilot": "Michael K\u00fcffer",
-          "dist": "9.83 km"
+          "pilot": "Henri Montel",
+          "dist": "16.69 km"
         },
         "icon": "marker"
       }
@@ -43333,7 +43333,7 @@
       "properties": {
         "title": "Punta di Stou",
         "ele": "2567",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Davide Rivola",
           "dist": "8.22 km"
@@ -43373,10 +43373,10 @@
       "properties": {
         "title": "Lobh\u00f6rner",
         "ele": "2566",
-        "flights": 0,
+        "flights": 2,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Adrian Lutz",
+          "dist": "11.86 km"
         },
         "icon": "marker"
       }
@@ -43393,10 +43393,10 @@
       "properties": {
         "title": "Falknis",
         "ele": "2565",
-        "flights": 2,
+        "flights": 6,
         "top": {
-          "pilot": "Rolf Erhardt",
-          "dist": "16.03 km"
+          "pilot": "Johannes Engewald",
+          "dist": "48.92 km"
         },
         "icon": "marker"
       }
@@ -43753,10 +43753,10 @@
       "properties": {
         "title": "Plattenhorn",
         "ele": "2554",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Peter Widmer",
+          "dist": "10.83 km"
         },
         "icon": "marker"
       }
@@ -43973,7 +43973,7 @@
       "properties": {
         "title": "Bellalui",
         "ele": "2548",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Ludovic Vulliemin",
           "dist": "107.11 km"
@@ -43993,10 +43993,10 @@
       "properties": {
         "title": "First",
         "ele": "2548",
-        "flights": 4,
+        "flights": 6,
         "top": {
-          "pilot": "Shannon Long",
-          "dist": "70.19 km"
+          "pilot": "Marcel K\u00e4mpf",
+          "dist": "104.51 km"
         },
         "icon": "marker"
       }
@@ -44553,10 +44553,10 @@
       "properties": {
         "title": "Fulhorn",
         "ele": "2529",
-        "flights": 4,
+        "flights": 5,
         "top": {
-          "pilot": "Rico Meuli",
-          "dist": "10.86 km"
+          "pilot": "Rolf Erhardt",
+          "dist": "20.07 km"
         },
         "icon": "marker"
       }
@@ -44713,10 +44713,10 @@
       "properties": {
         "title": "Rothorn",
         "ele": "2525",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Werner Juergens",
-          "dist": "9.33 km"
+          "pilot": "Ozo Advanski",
+          "dist": "21.10 km"
         },
         "icon": "marker"
       }
@@ -44873,7 +44873,7 @@
       "properties": {
         "title": "Tschuggen",
         "ele": "2520",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Christoph F\u00e4ssler",
           "dist": "8.95 km"
@@ -45333,7 +45333,7 @@
       "properties": {
         "title": "Muntisc\u00e8, anticima SE",
         "ele": "2510",
-        "flights": 5,
+        "flights": 8,
         "top": {
           "pilot": "Beat Schmutz",
           "dist": "94.90 km"
@@ -45593,7 +45593,7 @@
       "properties": {
         "title": "Eggerhorn",
         "ele": "2503",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Michael K\u00fcffer",
           "dist": "27.85 km"
@@ -45633,10 +45633,10 @@
       "properties": {
         "title": "S\u00e4ntis",
         "ele": "2502",
-        "flights": 8,
+        "flights": 10,
         "top": {
-          "pilot": "Peter Haltiner",
-          "dist": "36.94 km"
+          "pilot": "Sebastian Moser",
+          "dist": "31.09 km"
         },
         "icon": "marker"
       }
@@ -45753,10 +45753,10 @@
       "properties": {
         "title": "Chalchst\u00f6ckli",
         "ele": "2499",
-        "flights": 0,
+        "flights": 2,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Roli F.",
+          "dist": "12.22 km"
         },
         "icon": "marker"
       }
@@ -45833,7 +45833,7 @@
       "properties": {
         "title": "Piz Danis",
         "ele": "2497",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "Juerg Wiedemann",
           "dist": "31.63 km"
@@ -45973,10 +45973,10 @@
       "properties": {
         "title": "Landholzhore",
         "ele": "2495",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Thomas Gut",
+          "dist": "44.43 km"
         },
         "icon": "marker"
       }
@@ -46093,7 +46093,7 @@
       "properties": {
         "title": "Br\u00e4mab\u00fcel",
         "ele": "2492",
-        "flights": 123,
+        "flights": 134,
         "top": {
           "pilot": "Gaspard PETIOT",
           "dist": "58.09 km"
@@ -46613,7 +46613,7 @@
       "properties": {
         "title": "Lauenenhore",
         "ele": "2477",
-        "flights": 5,
+        "flights": 7,
         "top": {
           "pilot": "Stadler Rupert",
           "dist": "64.05 km"
@@ -46773,10 +46773,10 @@
       "properties": {
         "title": "Pierre Avoi",
         "ele": "2473",
-        "flights": 11,
+        "flights": 12,
         "top": {
-          "pilot": "Fabien Tornay",
-          "dist": "139.08 km"
+          "pilot": "Paul Cretton",
+          "dist": "170.80 km"
         },
         "icon": "marker"
       }
@@ -46813,10 +46813,10 @@
       "properties": {
         "title": "Lauberhorn",
         "ele": "2472",
-        "flights": 14,
+        "flights": 15,
         "top": {
-          "pilot": "Andr\u00e9 Glauser",
-          "dist": "47.80 km"
+          "pilot": "Chrigel Maurer",
+          "dist": "101.52 km"
         },
         "icon": "marker"
       }
@@ -47033,10 +47033,10 @@
       "properties": {
         "title": "Seewlehore",
         "ele": "2467",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Christian Bengel",
+          "dist": "19.58 km"
         },
         "icon": "marker"
       }
@@ -47353,10 +47353,10 @@
       "properties": {
         "title": "Rossstock",
         "ele": "2461",
-        "flights": 5,
+        "flights": 18,
         "top": {
-          "pilot": "Beat Walker",
-          "dist": "40.44 km"
+          "pilot": "Iwan Lussmann",
+          "dist": "49.15 km"
         },
         "icon": "marker"
       }
@@ -47573,7 +47573,7 @@
       "properties": {
         "title": "T\u00eate de la Payanne",
         "ele": "2457",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Grimpereau Desbois",
           "dist": "8.48 km"
@@ -47693,7 +47693,7 @@
       "properties": {
         "title": "Rossstall",
         "ele": "2456",
-        "flights": 6,
+        "flights": 8,
         "top": {
           "pilot": "Daniel Good",
           "dist": "16.77 km"
@@ -47833,7 +47833,7 @@
       "properties": {
         "title": "Muottas Muragl",
         "ele": "2453",
-        "flights": 444,
+        "flights": 455,
         "top": {
           "pilot": "Peter K\u00e4ch",
           "dist": "116.50 km"
@@ -48033,10 +48033,10 @@
       "properties": {
         "title": "Girenspitz",
         "ele": "2448",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Stefan Brugger",
-          "dist": "3.27 km"
+          "pilot": "Othmar Hauser",
+          "dist": "14.11 km"
         },
         "icon": "marker"
       }
@@ -48053,10 +48053,10 @@
       "properties": {
         "title": "T\u00eates des Planards",
         "ele": "2448",
-        "flights": 2,
+        "flights": 4,
         "top": {
-          "pilot": "G\u00e9rald Schmidt",
-          "dist": "20.38 km"
+          "pilot": "Alain Woeffray",
+          "dist": "42.91 km"
         },
         "icon": "marker"
       }
@@ -48093,10 +48093,10 @@
       "properties": {
         "title": "Vorderer Eggstock",
         "ele": "2448",
-        "flights": 7,
+        "flights": 8,
         "top": {
-          "pilot": "Werner Jacober",
-          "dist": "40.81 km"
+          "pilot": "Michael Meier",
+          "dist": "38.79 km"
         },
         "icon": "marker"
       }
@@ -48113,7 +48113,7 @@
       "properties": {
         "title": "Br\u00fcggerhorn",
         "ele": "2447",
-        "flights": 7,
+        "flights": 8,
         "top": {
           "pilot": "Men Bernegger",
           "dist": "100.36 km"
@@ -48333,10 +48333,10 @@
       "properties": {
         "title": "Poganggenhorn",
         "ele": "2443",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Eduard Matus",
+          "dist": "22.80 km"
         },
         "icon": "marker"
       }
@@ -48953,7 +48953,7 @@
       "properties": {
         "title": "Galmschibe",
         "ele": "2425",
-        "flights": 6,
+        "flights": 7,
         "top": {
           "pilot": "Herman Schinkelshoek",
           "dist": "10.36 km"
@@ -49213,7 +49213,7 @@
       "properties": {
         "title": "Fil",
         "ele": "2418",
-        "flights": 44,
+        "flights": 45,
         "top": {
           "pilot": "Michael M\u00fcller",
           "dist": "191.03 km"
@@ -49273,10 +49273,10 @@
       "properties": {
         "title": "Tguma",
         "ele": "2416",
-        "flights": 5,
+        "flights": 7,
         "top": {
           "pilot": "Remo H0S1G",
-          "dist": "39.28 km"
+          "dist": "107.33 km"
         },
         "icon": "marker"
       }
@@ -49393,10 +49393,10 @@
       "properties": {
         "title": "B\u00e4lmeten",
         "ele": "2414",
-        "flights": 4,
+        "flights": 5,
         "top": {
-          "pilot": "Dani Baggenstos",
-          "dist": "14.47 km"
+          "pilot": "Kevin Straub",
+          "dist": "15.48 km"
         },
         "icon": "marker"
       }
@@ -49433,7 +49433,7 @@
       "properties": {
         "title": "Sulegg",
         "ele": "2413",
-        "flights": 32,
+        "flights": 33,
         "top": {
           "pilot": "Daniel Weibel",
           "dist": "53.41 km"
@@ -49673,7 +49673,7 @@
       "properties": {
         "title": "Drunegalm",
         "ele": "2408",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "David Ryter",
           "dist": "86.01 km"
@@ -49733,7 +49733,7 @@
       "properties": {
         "title": "Vorderer Blistock",
         "ele": "2405",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Dominik Kehl",
           "dist": "31.95 km"
@@ -49813,7 +49813,7 @@
       "properties": {
         "title": "Muttner Horn",
         "ele": "2401",
-        "flights": 5,
+        "flights": 6,
         "top": {
           "pilot": "Marco Zaugg",
           "dist": "16.15 km"
@@ -49833,7 +49833,7 @@
       "properties": {
         "title": "Chaiserstuel",
         "ele": "2400",
-        "flights": 75,
+        "flights": 78,
         "top": {
           "pilot": "Wessel Du Plooy",
           "dist": "56.37 km"
@@ -50093,10 +50093,10 @@
       "properties": {
         "title": "Girenspitz",
         "ele": "2393",
-        "flights": 1,
+        "flights": 4,
         "top": {
-          "pilot": "Pierre L\u00e9chot",
-          "dist": "10.47 km"
+          "pilot": "Thomas Baumann",
+          "dist": "41.23 km"
         },
         "icon": "marker"
       }
@@ -50153,10 +50153,10 @@
       "properties": {
         "title": "Dutjer Horn",
         "ele": "2391",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Michael Bernhardsgr\u00fctter",
+          "dist": "8.70 km"
         },
         "icon": "marker"
       }
@@ -50693,7 +50693,7 @@
       "properties": {
         "title": "Vilan",
         "ele": "2377",
-        "flights": 40,
+        "flights": 47,
         "top": {
           "pilot": "Juerg Wiedemann",
           "dist": "119.44 km"
@@ -50773,10 +50773,10 @@
       "properties": {
         "title": "Pianca",
         "ele": "2376",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Reto Compagnoni",
+          "dist": "91.78 km"
         },
         "icon": "marker"
       }
@@ -50833,7 +50833,7 @@
       "properties": {
         "title": "Vanil de l'Ecri",
         "ele": "2375",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Emilien Castella",
           "dist": "37.37 km"
@@ -50893,10 +50893,10 @@
       "properties": {
         "title": "La Breya",
         "ele": "2374",
-        "flights": 11,
+        "flights": 153,
         "top": {
-          "pilot": "Laurent Borella",
-          "dist": "92.37 km"
+          "pilot": "Dorian Copt",
+          "dist": "221.52 km"
         },
         "icon": "marker"
       }
@@ -50973,7 +50973,7 @@
       "properties": {
         "title": "Wildhauser Schafberg",
         "ele": "2373",
-        "flights": 7,
+        "flights": 14,
         "top": {
           "pilot": "Sergio Licini",
           "dist": "13.94 km"
@@ -51053,7 +51053,7 @@
       "properties": {
         "title": "Savoleyres",
         "ele": "2372",
-        "flights": 6,
+        "flights": 11,
         "top": {
           "pilot": "Jo\u00ebl Debons",
           "dist": "161.47 km"
@@ -51093,10 +51093,10 @@
       "properties": {
         "title": "Tierberg",
         "ele": "2371",
-        "flights": 12,
+        "flights": 19,
         "top": {
-          "pilot": "Werner Berweger",
-          "dist": "36.14 km"
+          "pilot": "Kai Blickle",
+          "dist": "57.68 km"
         },
         "icon": "marker"
       }
@@ -51253,7 +51253,7 @@
       "properties": {
         "title": "Wildhauser Schafberg (Vorgipfel)",
         "ele": "2363",
-        "flights": 13,
+        "flights": 14,
         "top": {
           "pilot": "Sergio Licini",
           "dist": "13.94 km"
@@ -51293,10 +51293,10 @@
       "properties": {
         "title": "Niesen",
         "ele": "2362",
-        "flights": 314,
+        "flights": 1967,
         "top": {
-          "pilot": "Patrick von K\u00e4nel",
-          "dist": "330.08 km"
+          "pilot": "Chrigel Maurer",
+          "dist": "296.83 km"
         },
         "icon": "marker"
       }
@@ -51773,7 +51773,7 @@
       "properties": {
         "title": "Brienzer Rothorn",
         "ele": "2348",
-        "flights": 238,
+        "flights": 295,
         "top": {
           "pilot": "hans vogel",
           "dist": "122.31 km"
@@ -51793,10 +51793,10 @@
       "properties": {
         "title": "M\u00e4gisserhore",
         "ele": "2348",
-        "flights": 4,
+        "flights": 7,
         "top": {
-          "pilot": "Cedric Hofer",
-          "dist": "59.34 km"
+          "pilot": "Philip K\u00e4sermann",
+          "dist": "64.66 km"
         },
         "icon": "marker"
       }
@@ -51853,10 +51853,10 @@
       "properties": {
         "title": "Girenspitz",
         "ele": "2346",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Simeon Schlegel",
-          "dist": "9.98 km"
+          "pilot": "mark bugmann",
+          "dist": "14.24 km"
         },
         "icon": "marker"
       }
@@ -51893,7 +51893,7 @@
       "properties": {
         "title": "M\u00e4nnlichen",
         "ele": "2345",
-        "flights": 288,
+        "flights": 335,
         "top": {
           "pilot": "Jan Sterren",
           "dist": "115.18 km"
@@ -51913,7 +51913,7 @@
       "properties": {
         "title": "Alvier",
         "ele": "2343",
-        "flights": 20,
+        "flights": 21,
         "top": {
           "pilot": "Urs Nadler",
           "dist": "40.80 km"
@@ -52093,7 +52093,7 @@
       "properties": {
         "title": "Standhore",
         "ele": "2339",
-        "flights": 11,
+        "flights": 14,
         "top": {
           "pilot": "Christian Erne",
           "dist": "191.53 km"
@@ -52113,7 +52113,7 @@
       "properties": {
         "title": "Rothorn",
         "ele": "2338",
-        "flights": 23,
+        "flights": 24,
         "top": {
           "pilot": "Jan Sterren",
           "dist": "17.25 km"
@@ -52313,7 +52313,7 @@
       "properties": {
         "title": "Cr\u00eat du Midi",
         "ele": "2332",
-        "flights": 3322,
+        "flights": 3468,
         "top": {
           "pilot": "Laurent Borella",
           "dist": "151.88 km"
@@ -52413,10 +52413,10 @@
       "properties": {
         "title": "Tour d'A\u00ef",
         "ele": "2330",
-        "flights": 0,
+        "flights": 2,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Camille Simon",
+          "dist": "33.79 km"
         },
         "icon": "marker"
       }
@@ -52493,7 +52493,7 @@
       "properties": {
         "title": "Vorder Gl\u00e4rnisch",
         "ele": "2328",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "Kurt M\u00fcller",
           "dist": "24.60 km"
@@ -52553,7 +52553,7 @@
       "properties": {
         "title": "Pointe des Semeleys",
         "ele": "2328",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Benjamin Solioz",
           "dist": "52.42 km"
@@ -52753,7 +52753,7 @@
       "properties": {
         "title": "Rauflihorn",
         "ele": "2322",
-        "flights": 8,
+        "flights": 11,
         "top": {
           "pilot": "Simon Buob",
           "dist": "14.50 km"
@@ -52793,7 +52793,7 @@
       "properties": {
         "title": "Piz Scalottas",
         "ele": "2321",
-        "flights": 220,
+        "flights": 239,
         "top": {
           "pilot": "Tony Marty",
           "dist": "207.45 km"
@@ -52813,7 +52813,7 @@
       "properties": {
         "title": "Triesthore",
         "ele": "2321",
-        "flights": 3,
+        "flights": 5,
         "top": {
           "pilot": "David Ryter",
           "dist": "86.01 km"
@@ -52853,7 +52853,7 @@
       "properties": {
         "title": "T\u00eate de Balme",
         "ele": "2321",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Ondrej Prochazka",
           "dist": "19.11 km"
@@ -52993,7 +52993,7 @@
       "properties": {
         "title": "Schong\u00fctsch",
         "ele": "2319",
-        "flights": 18,
+        "flights": 21,
         "top": {
           "pilot": "K\u00f6bi Zemp",
           "dist": "55.37 km"
@@ -53333,7 +53333,7 @@
       "properties": {
         "title": "Calmut",
         "ele": "2310",
-        "flights": 16,
+        "flights": 20,
         "top": {
           "pilot": "Sebastian Huber",
           "dist": "269.77 km"
@@ -53353,10 +53353,10 @@
       "properties": {
         "title": "Gauschla",
         "ele": "2310",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Rolf Erhardt",
-          "dist": "10.27 km"
+          "pilot": "Sebastian Schlegel",
+          "dist": "14.41 km"
         },
         "icon": "marker"
       }
@@ -53473,7 +53473,7 @@
       "properties": {
         "title": "Gross Hohmad",
         "ele": "2307",
-        "flights": 77,
+        "flights": 84,
         "top": {
           "pilot": "Toni von Rotz",
           "dist": "39.01 km"
@@ -53493,7 +53493,7 @@
       "properties": {
         "title": "Sassauna",
         "ele": "2307",
-        "flights": 721,
+        "flights": 746,
         "top": {
           "pilot": "Martin B\u00fchler",
           "dist": "145.31 km"
@@ -53553,7 +53553,7 @@
       "properties": {
         "title": "Hinterrugg",
         "ele": "2306",
-        "flights": 823,
+        "flights": 861,
         "top": {
           "pilot": "Thomas Koster",
           "dist": "260.36 km"
@@ -53613,7 +53613,7 @@
       "properties": {
         "title": "Wiriehorn",
         "ele": "2304",
-        "flights": 14,
+        "flights": 16,
         "top": {
           "pilot": "Christian Sch\u00f6ll",
           "dist": "21.59 km"
@@ -53673,7 +53673,7 @@
       "properties": {
         "title": "Tw\u00e4rchamm",
         "ele": "2302",
-        "flights": 96,
+        "flights": 113,
         "top": {
           "pilot": "Martin B\u00fchler",
           "dist": "168.65 km"
@@ -53753,10 +53753,10 @@
       "properties": {
         "title": "Pointe de Fornet",
         "ele": "2300",
-        "flights": 2,
+        "flights": 13,
         "top": {
-          "pilot": "martin dockerill",
-          "dist": "13.01 km"
+          "pilot": "Joost Visschedijk",
+          "dist": "81.89 km"
         },
         "icon": "marker"
       }
@@ -53773,10 +53773,10 @@
       "properties": {
         "title": "Schilt",
         "ele": "2299",
-        "flights": 11,
+        "flights": 12,
         "top": {
-          "pilot": "Werner Jacober",
-          "dist": "15.32 km"
+          "pilot": "Markus Egli",
+          "dist": "23.29 km"
         },
         "icon": "marker"
       }
@@ -53793,10 +53793,10 @@
       "properties": {
         "title": "Alpstein",
         "ele": "2298",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Manfred Grosse",
+          "dist": "11.59 km"
         },
         "icon": "marker"
       }
@@ -53893,10 +53893,10 @@
       "properties": {
         "title": "L\u00fcneregg",
         "ele": "2297",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Christian Sch\u00f6ll",
+          "dist": "6.12 km"
         },
         "icon": "marker"
       }
@@ -54073,10 +54073,10 @@
       "properties": {
         "title": "Heruhubel",
         "ele": "2293",
-        "flights": 1,
+        "flights": 3,
         "top": {
-          "pilot": "pascal Amacker",
-          "dist": "12.51 km"
+          "pilot": "Thomas Kalbermatter",
+          "dist": "16.21 km"
         },
         "icon": "marker"
       }
@@ -54253,7 +54253,7 @@
       "properties": {
         "title": "Piz de Molinera",
         "ele": "2288",
-        "flights": 14,
+        "flights": 17,
         "top": {
           "pilot": "Ondrej Prochazka",
           "dist": "32.45 km"
@@ -54333,10 +54333,10 @@
       "properties": {
         "title": "Mottarone",
         "ele": "2287",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Urs Kohler",
+          "dist": "7.81 km"
         },
         "icon": "marker"
       }
@@ -54353,10 +54353,10 @@
       "properties": {
         "title": "Tristli",
         "ele": "2286",
-        "flights": 11,
+        "flights": 12,
         "top": {
-          "pilot": "Werner Jacober",
-          "dist": "15.32 km"
+          "pilot": "Markus Egli",
+          "dist": "23.29 km"
         },
         "icon": "marker"
       }
@@ -54533,7 +54533,7 @@
       "properties": {
         "title": "Wiggis",
         "ele": "2282",
-        "flights": 9,
+        "flights": 13,
         "top": {
           "pilot": "Mathias Zybach",
           "dist": "41.79 km"
@@ -54593,7 +54593,7 @@
       "properties": {
         "title": "Gotschnagrat",
         "ele": "2281",
-        "flights": 386,
+        "flights": 409,
         "top": {
           "pilot": "Thomas Weber",
           "dist": "225.50 km"
@@ -54733,7 +54733,7 @@
       "properties": {
         "title": "Pointe des Mossettes",
         "ele": "2277",
-        "flights": 61,
+        "flights": 79,
         "top": {
           "pilot": "Gil Carron",
           "dist": "192.37 km"
@@ -54753,10 +54753,10 @@
       "properties": {
         "title": "Rothorn",
         "ele": "2276",
-        "flights": 6,
+        "flights": 7,
         "top": {
-          "pilot": "Julien Christe",
-          "dist": "12.44 km"
+          "pilot": "Slawa Seghers",
+          "dist": "13.91 km"
         },
         "icon": "marker"
       }
@@ -54773,7 +54773,7 @@
       "properties": {
         "title": "Tagweidlichopf",
         "ele": "2274",
-        "flights": 23,
+        "flights": 29,
         "top": {
           "pilot": "G\u00fcnther Bislin",
           "dist": "133.10 km"
@@ -55173,7 +55173,7 @@
       "properties": {
         "title": "Ch\u00e4serrugg",
         "ele": "2262",
-        "flights": 187,
+        "flights": 310,
         "top": {
           "pilot": "Thomas Koster",
           "dist": "284.36 km"
@@ -55453,7 +55453,7 @@
       "properties": {
         "title": "Cry d'Er",
         "ele": "2258",
-        "flights": 171,
+        "flights": 181,
         "top": {
           "pilot": "Remo Gisi",
           "dist": "222.44 km"
@@ -55473,7 +55473,7 @@
       "properties": {
         "title": "T\u00fcrmli",
         "ele": "2258",
-        "flights": 69,
+        "flights": 77,
         "top": {
           "pilot": "Toni von Rotz",
           "dist": "39.01 km"
@@ -55553,7 +55553,7 @@
       "properties": {
         "title": "P.2256",
         "ele": "2256",
-        "flights": 3,
+        "flights": 6,
         "top": {
           "pilot": "Martin B\u00fchler",
           "dist": "145.31 km"
@@ -55813,7 +55813,7 @@
       "properties": {
         "title": "Morgenberghorn",
         "ele": "2248",
-        "flights": 53,
+        "flights": 58,
         "top": {
           "pilot": "Stefan Hofer",
           "dist": "36.57 km"
@@ -55953,10 +55953,10 @@
       "properties": {
         "title": "Stierendossen",
         "ele": "2245",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Ren\u00e9 Fuchs",
+          "dist": "6.36 km"
         },
         "icon": "marker"
       }
@@ -55993,7 +55993,7 @@
       "properties": {
         "title": "Planplatten",
         "ele": "2245",
-        "flights": 611,
+        "flights": 651,
         "top": {
           "pilot": "Lars Meerstetter",
           "dist": "173.09 km"
@@ -56573,7 +56573,7 @@
       "properties": {
         "title": "Riederhorn",
         "ele": "2230",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Benjamin Becker",
           "dist": "138.33 km"
@@ -56673,7 +56673,7 @@
       "properties": {
         "title": "Camoghe",
         "ele": "2228",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Tiziano Di Pietro",
           "dist": "18.80 km"
@@ -56793,7 +56793,7 @@
       "properties": {
         "title": "Schl\u00f6sslichopf",
         "ele": "2225",
-        "flights": 11,
+        "flights": 25,
         "top": {
           "pilot": "Peter Haltiner",
           "dist": "130.07 km"
@@ -56813,7 +56813,7 @@
       "properties": {
         "title": "Dent Rouge",
         "ele": "2225",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Marc Th\u00e9venaz",
           "dist": "16.10 km"
@@ -56873,7 +56873,7 @@
       "properties": {
         "title": "Leist",
         "ele": "2222",
-        "flights": 9,
+        "flights": 11,
         "top": {
           "pilot": "Alain Favre",
           "dist": "34.54 km"
@@ -57133,7 +57133,7 @@
       "properties": {
         "title": "Forstberg",
         "ele": "2215",
-        "flights": 15,
+        "flights": 16,
         "top": {
           "pilot": "Beat Wickart",
           "dist": "80.60 km"
@@ -57333,10 +57333,10 @@
       "properties": {
         "title": "F\u00f6isc",
         "ele": "2208",
-        "flights": 16,
+        "flights": 37,
         "top": {
-          "pilot": "Werner Berweger",
-          "dist": "92.97 km"
+          "pilot": "Manuel Croci",
+          "dist": "103.68 km"
         },
         "icon": "marker"
       }
@@ -57433,7 +57433,7 @@
       "properties": {
         "title": "Selun",
         "ele": "2205",
-        "flights": 10,
+        "flights": 15,
         "top": {
           "pilot": "Martin B\u00fchler",
           "dist": "47.17 km"
@@ -57453,7 +57453,7 @@
       "properties": {
         "title": "H\u00f6ch Gumme",
         "ele": "2205",
-        "flights": 5,
+        "flights": 7,
         "top": {
           "pilot": "Urs Lengweiler",
           "dist": "44.45 km"
@@ -57753,7 +57753,7 @@
       "properties": {
         "title": "Pra de Cray",
         "ele": "2197",
-        "flights": 9,
+        "flights": 14,
         "top": {
           "pilot": "C\u00e9dric Gerber",
           "dist": "21.89 km"
@@ -57813,7 +57813,7 @@
       "properties": {
         "title": "Chr\u00fcz",
         "ele": "2196",
-        "flights": 167,
+        "flights": 172,
         "top": {
           "pilot": "Werner Jacober",
           "dist": "111.65 km"
@@ -57873,10 +57873,10 @@
       "properties": {
         "title": "Vanil Carr\u00e9",
         "ele": "2195",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Marc Fragni\u00e8re",
+          "dist": "12.87 km"
         },
         "icon": "marker"
       }
@@ -57913,10 +57913,10 @@
       "properties": {
         "title": "Spitzenb\u00fcel",
         "ele": "2194",
-        "flights": 17,
+        "flights": 27,
         "top": {
-          "pilot": "Marco Del Curto",
-          "dist": "36.74 km"
+          "pilot": "Niklaus Schwizer",
+          "dist": "50.34 km"
         },
         "icon": "marker"
       }
@@ -57953,7 +57953,7 @@
       "properties": {
         "title": "R\u00e4geboldshore",
         "ele": "2193",
-        "flights": 4,
+        "flights": 8,
         "top": {
           "pilot": "Walter Maurer",
           "dist": "30.27 km"
@@ -58053,7 +58053,7 @@
       "properties": {
         "title": "Stockhorn",
         "ele": "2190",
-        "flights": 211,
+        "flights": 238,
         "top": {
           "pilot": "Frank Balsiger",
           "dist": "172.74 km"
@@ -58173,10 +58173,10 @@
       "properties": {
         "title": "Ochsen",
         "ele": "2188",
-        "flights": 4,
+        "flights": 5,
         "top": {
-          "pilot": "raphael neuhaus",
-          "dist": "10.21 km"
+          "pilot": "David Ferrer Llanes",
+          "dist": "18.25 km"
         },
         "icon": "marker"
       }
@@ -58293,10 +58293,10 @@
       "properties": {
         "title": "Kaiseregg",
         "ele": "2185",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Cioldi Elio",
-          "dist": "10.50 km"
+          "pilot": "Simon Grossenbacher",
+          "dist": "30.94 km"
         },
         "icon": "marker"
       }
@@ -58313,7 +58313,7 @@
       "properties": {
         "title": "La Videmanette",
         "ele": "2185",
-        "flights": 5,
+        "flights": 6,
         "top": {
           "pilot": "Martin Eggler",
           "dist": "28.74 km"
@@ -58353,7 +58353,7 @@
       "properties": {
         "title": "Hagelstock",
         "ele": "2182",
-        "flights": 9,
+        "flights": 10,
         "top": {
           "pilot": "Werner Berweger",
           "dist": "39.86 km"
@@ -58453,7 +58453,7 @@
       "properties": {
         "title": "Siwfass",
         "ele": "2180",
-        "flights": 3,
+        "flights": 5,
         "top": {
           "pilot": "Werner Berweger",
           "dist": "39.86 km"
@@ -58653,7 +58653,7 @@
       "properties": {
         "title": "Gantrisch",
         "ele": "2175",
-        "flights": 23,
+        "flights": 25,
         "top": {
           "pilot": "K\u00dcRTU H\u00c4NNI",
           "dist": "42.48 km"
@@ -58793,7 +58793,7 @@
       "properties": {
         "title": "Grammont",
         "ele": "2172",
-        "flights": 32,
+        "flights": 33,
         "top": {
           "pilot": "Ruben Meier",
           "dist": "24.65 km"
@@ -58893,7 +58893,7 @@
       "properties": {
         "title": "Bonistock",
         "ele": "2168",
-        "flights": 226,
+        "flights": 239,
         "top": {
           "pilot": "Thomas Amrhein",
           "dist": "109.10 km"
@@ -58913,10 +58913,10 @@
       "properties": {
         "title": "Gir",
         "ele": "2168",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Peter Haltiner",
+          "dist": "12.86 km"
         },
         "icon": "marker"
       }
@@ -58973,10 +58973,10 @@
       "properties": {
         "title": "Breitmantel",
         "ele": "2166",
-        "flights": 2,
+        "flights": 8,
         "top": {
-          "pilot": "Toni Stoll",
-          "dist": "12.27 km"
+          "pilot": "Alain Favre",
+          "dist": "34.54 km"
         },
         "icon": "marker"
       }
@@ -59033,10 +59033,10 @@
       "properties": {
         "title": "Tguma",
         "ele": "2165",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Matthias Gschwind",
+          "dist": "3.61 km"
         },
         "icon": "marker"
       }
@@ -59113,7 +59113,7 @@
       "properties": {
         "title": "Hohgant",
         "ele": "2163",
-        "flights": 8,
+        "flights": 13,
         "top": {
           "pilot": "K\u00dcRTU H\u00c4NNI",
           "dist": "89.98 km"
@@ -59153,7 +59153,7 @@
       "properties": {
         "title": "Margelchopf",
         "ele": "2163",
-        "flights": 17,
+        "flights": 18,
         "top": {
           "pilot": "Peter Haltiner",
           "dist": "149.84 km"
@@ -59233,10 +59233,10 @@
       "properties": {
         "title": "Dreib\u00fcndenstein",
         "ele": "2160",
-        "flights": 2,
+        "flights": 5,
         "top": {
-          "pilot": "Manfred Grosse",
-          "dist": "10.97 km"
+          "pilot": "Susann K\u00fcpfer",
+          "dist": "11.30 km"
         },
         "icon": "marker"
       }
@@ -59273,7 +59273,7 @@
       "properties": {
         "title": "G\u00fcdaspitz",
         "ele": "2160",
-        "flights": 7,
+        "flights": 10,
         "top": {
           "pilot": "Werner Gysin",
           "dist": "15.23 km"
@@ -59853,7 +59853,7 @@
       "properties": {
         "title": "Mont Lachaux",
         "ele": "2140",
-        "flights": 5,
+        "flights": 6,
         "top": {
           "pilot": "Michel Berset",
           "dist": "11.03 km"
@@ -59873,7 +59873,7 @@
       "properties": {
         "title": "Guscha",
         "ele": "2140",
-        "flights": 8,
+        "flights": 10,
         "top": {
           "pilot": "Mathias Schmid",
           "dist": "29.09 km"
@@ -60193,7 +60193,7 @@
       "properties": {
         "title": "Gehrihorn",
         "ele": "2130",
-        "flights": 5,
+        "flights": 6,
         "top": {
           "pilot": "Ren\u00e9 Winkler",
           "dist": "6.84 km"
@@ -60493,7 +60493,7 @@
       "properties": {
         "title": "Chamerstock",
         "ele": "2123.6",
-        "flights": 1,
+        "flights": 3,
         "top": {
           "pilot": "Martin Lehmann",
           "dist": "9.94 km"
@@ -60533,10 +60533,10 @@
       "properties": {
         "title": "Mutschen",
         "ele": "2122",
-        "flights": 2,
+        "flights": 3,
         "top": {
-          "pilot": "Rolf Erhardt",
-          "dist": "9.44 km"
+          "pilot": "Helmut W\u00e4ger",
+          "dist": "18.32 km"
         },
         "icon": "marker"
       }
@@ -60553,10 +60553,10 @@
       "properties": {
         "title": "Chingstuel",
         "ele": "2120",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Max Mittmann",
+          "dist": "25.17 km"
         },
         "icon": "marker"
       }
@@ -60593,7 +60593,7 @@
       "properties": {
         "title": "Esel",
         "ele": "2118.7",
-        "flights": 744,
+        "flights": 780,
         "top": {
           "pilot": "Manfred Haas",
           "dist": "301.64 km"
@@ -60653,7 +60653,7 @@
       "properties": {
         "title": "Gubihubel",
         "ele": "2116",
-        "flights": 4,
+        "flights": 6,
         "top": {
           "pilot": "Nils Trachsel",
           "dist": "13.83 km"
@@ -60753,7 +60753,7 @@
       "properties": {
         "title": "Le Chamossaire",
         "ele": "2112",
-        "flights": 83,
+        "flights": 115,
         "top": {
           "pilot": "Patrick Perrin",
           "dist": "92.58 km"
@@ -60793,7 +60793,7 @@
       "properties": {
         "title": "Hitzeggerkopf",
         "ele": "2112",
-        "flights": 151,
+        "flights": 162,
         "top": {
           "pilot": "Michael G\u00fcbeli",
           "dist": "88.26 km"
@@ -60933,10 +60933,10 @@
       "properties": {
         "title": "Tube",
         "ele": "2107",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Nicolas Jacquod",
+          "dist": "6.75 km"
         },
         "icon": "marker"
       }
@@ -60993,7 +60993,7 @@
       "properties": {
         "title": "Oberhaupt",
         "ele": "2106",
-        "flights": 752,
+        "flights": 967,
         "top": {
           "pilot": "Manfred Haas",
           "dist": "301.64 km"
@@ -61053,7 +61053,7 @@
       "properties": {
         "title": "Wandelen",
         "ele": "2105",
-        "flights": 7,
+        "flights": 8,
         "top": {
           "pilot": "David Rossi",
           "dist": "21.26 km"
@@ -61293,7 +61293,7 @@
       "properties": {
         "title": "Gumihorn",
         "ele": "2100",
-        "flights": 2,
+        "flights": 5,
         "top": {
           "pilot": "Robin Houghton",
           "dist": "25.85 km"
@@ -61313,7 +61313,7 @@
       "properties": {
         "title": "Vasanachopf",
         "ele": "2100",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "Samuel Landolt",
           "dist": "117.77 km"
@@ -61393,10 +61393,10 @@
       "properties": {
         "title": "Wengenhorn",
         "ele": "2098",
-        "flights": 4,
+        "flights": 8,
         "top": {
-          "pilot": "Andreas Fluck",
-          "dist": "13.03 km"
+          "pilot": "David Rossi",
+          "dist": "21.26 km"
         },
         "icon": "marker"
       }
@@ -61493,10 +61493,10 @@
       "properties": {
         "title": "Rocher du Midi",
         "ele": "2096",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Philipp Klauser",
+          "dist": "12.35 km"
         },
         "icon": "marker"
       }
@@ -61513,7 +61513,7 @@
       "properties": {
         "title": "B\u00e4llenh\u00f6chst",
         "ele": "2095",
-        "flights": 20,
+        "flights": 25,
         "top": {
           "pilot": "St\u00f6ffel Fuhrmann",
           "dist": "27.03 km"
@@ -61533,10 +61533,10 @@
       "properties": {
         "title": "Kleiner Gir",
         "ele": "2095",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Peter Haltiner",
+          "dist": "12.86 km"
         },
         "icon": "marker"
       }
@@ -61553,7 +61553,7 @@
       "properties": {
         "title": "Diethelm",
         "ele": "2093",
-        "flights": 19,
+        "flights": 22,
         "top": {
           "pilot": "Beat Wickart",
           "dist": "46.82 km"
@@ -61573,7 +61573,7 @@
       "properties": {
         "title": "Le Linleu",
         "ele": "2093",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Pierre VANSTABEL",
           "dist": "13.16 km"
@@ -61593,7 +61593,7 @@
       "properties": {
         "title": "Lauwistock",
         "ele": "2092",
-        "flights": 84,
+        "flights": 114,
         "top": {
           "pilot": "Benno Bachmann",
           "dist": "136.36 km"
@@ -61613,10 +61613,10 @@
       "properties": {
         "title": "Hengst",
         "ele": "2092",
-        "flights": 2,
+        "flights": 3,
         "top": {
-          "pilot": "Adrian Vogel",
-          "dist": "38.91 km"
+          "pilot": "Fabian Christener",
+          "dist": "47.11 km"
         },
         "icon": "marker"
       }
@@ -61673,7 +61673,7 @@
       "properties": {
         "title": "Piz Plauncas",
         "ele": "2089",
-        "flights": 1,
+        "flights": 3,
         "top": {
           "pilot": "Pit Vollenweider",
           "dist": "60.48 km"
@@ -61755,7 +61755,7 @@
         "ele": "2085",
         "flights": 2,
         "top": {
-          "pilot": "Jean Gab",
+          "pilot": "Chris Gab",
           "dist": "8.08 km"
         },
         "icon": "marker"
@@ -61813,7 +61813,7 @@
       "properties": {
         "title": "Cruit",
         "ele": "2085",
-        "flights": 13,
+        "flights": 14,
         "top": {
           "pilot": "Ozo Advanski",
           "dist": "18.39 km"
@@ -61913,10 +61913,10 @@
       "properties": {
         "title": "Dent de Combette",
         "ele": "2082",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Viera Stieberova",
+          "dist": "45.01 km"
         },
         "icon": "marker"
       }
@@ -62033,7 +62033,7 @@
       "properties": {
         "title": "Fl\u00f6schhore",
         "ele": "2079",
-        "flights": 8,
+        "flights": 9,
         "top": {
           "pilot": "Pavol Pivarci",
           "dist": "93.46 km"
@@ -62053,7 +62053,7 @@
       "properties": {
         "title": "Turne",
         "ele": "2079",
-        "flights": 111,
+        "flights": 124,
         "top": {
           "pilot": "Paul Neuenschwander",
           "dist": "44.67 km"
@@ -62073,10 +62073,10 @@
       "properties": {
         "title": "Cima Verta",
         "ele": "2078",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Maurizio Bernasconi",
+          "dist": "2.71 km"
         },
         "icon": "marker"
       }
@@ -62113,7 +62113,7 @@
       "properties": {
         "title": "Hindere Spitz",
         "ele": "2078",
-        "flights": 13,
+        "flights": 33,
         "top": {
           "pilot": "Andr\u00e9 Beetschen",
           "dist": "89.08 km"
@@ -62253,10 +62253,10 @@
       "properties": {
         "title": "Homad",
         "ele": "2076",
-        "flights": 25,
+        "flights": 30,
         "top": {
-          "pilot": "Umbricht Fabian",
-          "dist": "20.69 km"
+          "pilot": "Roland Zwahlen",
+          "dist": "26.57 km"
         },
         "icon": "marker"
       }
@@ -62273,7 +62273,7 @@
       "properties": {
         "title": "Widderfeld",
         "ele": "2075.2",
-        "flights": 15,
+        "flights": 17,
         "top": {
           "pilot": "Marcel Schmid",
           "dist": "203.46 km"
@@ -62333,10 +62333,10 @@
       "properties": {
         "title": "Gustispitz",
         "ele": "2074",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Ren\u00e9 Winkler",
-          "dist": "7.00 km"
+          "pilot": "Sascha Stalder",
+          "dist": "10.52 km"
         },
         "icon": "marker"
       }
@@ -62353,7 +62353,7 @@
       "properties": {
         "title": "Ziger",
         "ele": "2074",
-        "flights": 136,
+        "flights": 151,
         "top": {
           "pilot": "Christian Erne",
           "dist": "91.44 km"
@@ -62413,10 +62413,10 @@
       "properties": {
         "title": "Sasso Basciotta",
         "ele": "2073",
-        "flights": 2,
+        "flights": 3,
         "top": {
-          "pilot": "Bruno Giulini",
-          "dist": "11.51 km"
+          "pilot": "Gianfranco Conforti",
+          "dist": "36.66 km"
         },
         "icon": "marker"
       }
@@ -62593,10 +62593,10 @@
       "properties": {
         "title": "Turner",
         "ele": "2069",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Sebi Barmettler",
+          "dist": "12.36 km"
         },
         "icon": "marker"
       }
@@ -62713,7 +62713,7 @@
       "properties": {
         "title": "Piz Mundaun",
         "ele": "2064",
-        "flights": 66,
+        "flights": 74,
         "top": {
           "pilot": "Bernhard Meier",
           "dist": "26.68 km"
@@ -62733,7 +62733,7 @@
       "properties": {
         "title": "Burgfeldstand",
         "ele": "2063",
-        "flights": 388,
+        "flights": 401,
         "top": {
           "pilot": "Christian Sch\u00f6ll",
           "dist": "82.10 km"
@@ -62853,7 +62853,7 @@
       "properties": {
         "title": "Gemmenalphorn",
         "ele": "2061",
-        "flights": 36,
+        "flights": 42,
         "top": {
           "pilot": "Benedikt Braun",
           "dist": "64.15 km"
@@ -63033,7 +63033,7 @@
       "properties": {
         "title": "Dent de Valerette",
         "ele": "2058",
-        "flights": 15,
+        "flights": 41,
         "top": {
           "pilot": "Alexandre Caillet-Bois",
           "dist": "84.36 km"
@@ -63213,10 +63213,10 @@
       "properties": {
         "title": "Combiflue",
         "ele": "2055",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Simon Heimgartner",
+          "dist": "5.07 km"
         },
         "icon": "marker"
       }
@@ -63233,10 +63233,10 @@
       "properties": {
         "title": "Kreuzberg VIII",
         "ele": "2054",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Rolf Erhardt",
+          "dist": "9.44 km"
         },
         "icon": "marker"
       }
@@ -63273,7 +63273,7 @@
       "properties": {
         "title": "signal de soi",
         "ele": "2054",
-        "flights": 57,
+        "flights": 68,
         "top": {
           "pilot": "Alexandre Caillet-Bois",
           "dist": "120.60 km"
@@ -63453,10 +63453,10 @@
       "properties": {
         "title": "Berneuse",
         "ele": "2048",
-        "flights": 287,
+        "flights": 313,
         "top": {
-          "pilot": "Vincent Talleu",
-          "dist": "106.31 km"
+          "pilot": "Jerry Berchtold",
+          "dist": "139.46 km"
         },
         "icon": "marker"
       }
@@ -63593,7 +63593,7 @@
       "properties": {
         "title": "Chapf",
         "ele": "2043",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Peter Haltiner",
           "dist": "17.21 km"
@@ -63613,7 +63613,7 @@
       "properties": {
         "title": "Pointe de Bellevue",
         "ele": "2042",
-        "flights": 20,
+        "flights": 21,
         "top": {
           "pilot": "William Palmer",
           "dist": "82.57 km"
@@ -63633,10 +63633,10 @@
       "properties": {
         "title": "Matthorn",
         "ele": "2041",
-        "flights": 7,
+        "flights": 8,
         "top": {
-          "pilot": "Urs Nadler",
-          "dist": "19.84 km"
+          "pilot": "Marcel Schmid",
+          "dist": "40.46 km"
         },
         "icon": "marker"
       }
@@ -64013,7 +64013,7 @@
       "properties": {
         "title": "Collines des Crosets",
         "ele": "2033",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "Alexandre Caillet-Bois",
           "dist": "50.12 km"
@@ -64073,10 +64073,10 @@
       "properties": {
         "title": "T\u00fcrsteh\u00e4uptli",
         "ele": "2031",
-        "flights": 2,
+        "flights": 14,
         "top": {
-          "pilot": "Marc Lanz",
-          "dist": "12.29 km"
+          "pilot": "Peter H\u00fcrlimann",
+          "dist": "13.09 km"
         },
         "icon": "marker"
       }
@@ -64113,10 +64113,10 @@
       "properties": {
         "title": "G\u00e4msstafelchopf",
         "ele": "2030",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Stefan Betschart",
+          "dist": "12.04 km"
         },
         "icon": "marker"
       }
@@ -64233,10 +64233,10 @@
       "properties": {
         "title": "Schwandfeldspitze",
         "ele": "2026",
-        "flights": 1068,
+        "flights": 1109,
         "top": {
-          "pilot": "Raphael Zurbr\u00fcgg",
-          "dist": "136.26 km"
+          "pilot": "Daniel Rissi",
+          "dist": "203.21 km"
         },
         "icon": "marker"
       }
@@ -64313,10 +64313,10 @@
       "properties": {
         "title": "R\u00fctistein",
         "ele": "2025",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Urs Bigler",
+          "dist": "11.95 km"
         },
         "icon": "marker"
       }
@@ -64513,7 +64513,7 @@
       "properties": {
         "title": "M\u00f6ntschelespitz",
         "ele": "2021",
-        "flights": 8,
+        "flights": 9,
         "top": {
           "pilot": "Jennifer Regez",
           "dist": "25.45 km"
@@ -64553,10 +64553,10 @@
       "properties": {
         "title": "Lasenberg",
         "ele": "2019",
-        "flights": 5,
+        "flights": 8,
         "top": {
-          "pilot": "David Senn",
-          "dist": "10.54 km"
+          "pilot": "Paul Neuenschwander",
+          "dist": "17.29 km"
         },
         "icon": "marker"
       }
@@ -64753,10 +64753,10 @@
       "properties": {
         "title": "Solhore",
         "ele": "2016",
-        "flights": 0,
+        "flights": 4,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Roland Zwahlen",
+          "dist": "8.33 km"
         },
         "icon": "marker"
       }
@@ -64773,10 +64773,10 @@
       "properties": {
         "title": "Chaux de Tompey",
         "ele": "2015",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Martin Jansa",
-          "dist": "17.25 km"
+          "pilot": "Lo\u00efc Vallat",
+          "dist": "95.63 km"
         },
         "icon": "marker"
       }
@@ -64813,7 +64813,7 @@
       "properties": {
         "title": "Dent de Lys",
         "ele": "2014.1",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Max Castella",
           "dist": "59.84 km"
@@ -64893,10 +64893,10 @@
       "properties": {
         "title": "Arvigrat",
         "ele": "2014",
-        "flights": 5,
+        "flights": 7,
         "top": {
-          "pilot": "Bernhard Benguerel",
-          "dist": "40.27 km"
+          "pilot": "Philipp Meyer",
+          "dist": "34.93 km"
         },
         "icon": "marker"
       }
@@ -64913,7 +64913,7 @@
       "properties": {
         "title": "Vordere Spitz",
         "ele": "2014",
-        "flights": 243,
+        "flights": 247,
         "top": {
           "pilot": "Andr\u00e9 Beetschen",
           "dist": "87.01 km"
@@ -64993,7 +64993,7 @@
       "properties": {
         "title": "Monte Fumadiga",
         "ele": "2010",
-        "flights": 6,
+        "flights": 7,
         "top": {
           "pilot": "Matteo Monzeglio",
           "dist": "13.87 km"
@@ -65093,7 +65093,7 @@
       "properties": {
         "title": "Maschgenkamm",
         "ele": "2006",
-        "flights": 9,
+        "flights": 42,
         "top": {
           "pilot": "Thomas Gut",
           "dist": "28.33 km"
@@ -65133,7 +65133,7 @@
       "properties": {
         "title": "Prodkamm",
         "ele": "2005",
-        "flights": 500,
+        "flights": 522,
         "top": {
           "pilot": "Ren\u00e9 Hussler",
           "dist": "152.31 km"
@@ -65153,7 +65153,7 @@
       "properties": {
         "title": "Wilerhorn",
         "ele": "2005",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Christoph Seiler",
           "dist": "20.82 km"
@@ -65213,10 +65213,10 @@
       "properties": {
         "title": "W\u00e4nifirst",
         "ele": "2004",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Philipp Klauser",
+          "dist": "21.48 km"
         },
         "icon": "marker"
       }
@@ -65333,7 +65333,7 @@
       "properties": {
         "title": "Le Mol\u00e9son",
         "ele": "2002",
-        "flights": 74,
+        "flights": 264,
         "top": {
           "pilot": "St\u00e9phane Challande",
           "dist": "109.44 km"
@@ -65353,10 +65353,10 @@
       "properties": {
         "title": "H\u00e4ngst",
         "ele": "2002",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Boris Smolinski",
+          "dist": "2.33 km"
         },
         "icon": "marker"
       }
@@ -65473,10 +65473,10 @@
       "properties": {
         "title": "Chline Gibel",
         "ele": "1999",
-        "flights": 2,
+        "flights": 5,
         "top": {
-          "pilot": "Ren\u00e9 Winkler",
-          "dist": "7.95 km"
+          "pilot": "Andreas Schnider",
+          "dist": "48.95 km"
         },
         "icon": "marker"
       }
@@ -65633,10 +65633,10 @@
       "properties": {
         "title": "Marchz\u00e4hne",
         "ele": "1995",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Markus Schwyter",
+          "dist": "27.36 km"
         },
         "icon": "marker"
       }
@@ -65933,10 +65933,10 @@
       "properties": {
         "title": "Steiglihorn",
         "ele": "1986",
-        "flights": 6,
+        "flights": 10,
         "top": {
-          "pilot": "Francesco Gasparini",
-          "dist": "18.84 km"
+          "pilot": "Marc Schuler",
+          "dist": "65.91 km"
         },
         "icon": "marker"
       }
@@ -65953,7 +65953,7 @@
       "properties": {
         "title": "Glogghore",
         "ele": "1984",
-        "flights": 6,
+        "flights": 14,
         "top": {
           "pilot": "Patrick von K\u00e4nel",
           "dist": "217.23 km"
@@ -66213,7 +66213,7 @@
       "properties": {
         "title": "Roc d'Orsay",
         "ele": "1976",
-        "flights": 61,
+        "flights": 84,
         "top": {
           "pilot": "Patrick Perrin",
           "dist": "73.04 km"
@@ -66313,10 +66313,10 @@
       "properties": {
         "title": "Rosegg",
         "ele": "1972",
-        "flights": 6,
+        "flights": 9,
         "top": {
-          "pilot": "Francesco Gasparini",
-          "dist": "18.84 km"
+          "pilot": "Dominik Welti",
+          "dist": "78.74 km"
         },
         "icon": "marker"
       }
@@ -66333,10 +66333,10 @@
       "properties": {
         "title": "W\u00e4ndlispitz",
         "ele": "1971",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Daniel Wirz",
+          "dist": "4.40 km"
         },
         "icon": "marker"
       }
@@ -66633,7 +66633,7 @@
       "properties": {
         "title": "Biet",
         "ele": "1965",
-        "flights": 5,
+        "flights": 7,
         "top": {
           "pilot": "Michael K\u00fcffer",
           "dist": "32.84 km"
@@ -66653,10 +66653,10 @@
       "properties": {
         "title": "Aabeberg",
         "ele": "1964",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Simon Luginb\u00fchl",
+          "dist": "4.02 km"
         },
         "icon": "marker"
       }
@@ -66673,10 +66673,10 @@
       "properties": {
         "title": "Niederhorn",
         "ele": "1963",
-        "flights": 1588,
+        "flights": 1758,
         "top": {
-          "pilot": "Benedikt Braun",
-          "dist": "107.71 km"
+          "pilot": "Rolf Ulrich",
+          "dist": "231.13 km"
         },
         "icon": "marker"
       }
@@ -67013,7 +67013,7 @@
       "properties": {
         "title": "Speer",
         "ele": "1950",
-        "flights": 5,
+        "flights": 7,
         "top": {
           "pilot": "Archibald Muck",
           "dist": "9.90 km"
@@ -67033,7 +67033,7 @@
       "properties": {
         "title": "Hagleren",
         "ele": "1949",
-        "flights": 97,
+        "flights": 99,
         "top": {
           "pilot": "Julian Felder",
           "dist": "96.47 km"
@@ -67053,7 +67053,7 @@
       "properties": {
         "title": "Hornfluh",
         "ele": "1949",
-        "flights": 6,
+        "flights": 9,
         "top": {
           "pilot": "Thomas Rast",
           "dist": "56.30 km"
@@ -67093,10 +67093,10 @@
       "properties": {
         "title": "Pfaffli",
         "ele": "1949",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Peter Schmutz",
+          "dist": "6.00 km"
         },
         "icon": "marker"
       }
@@ -67153,10 +67153,10 @@
       "properties": {
         "title": "Holzerhore",
         "ele": "1946",
-        "flights": 3,
+        "flights": 6,
         "top": {
-          "pilot": "Friedrich Blo\u00dfe",
-          "dist": "6.59 km"
+          "pilot": "Cyrill Coray",
+          "dist": "27.47 km"
         },
         "icon": "marker"
       }
@@ -67213,10 +67213,10 @@
       "properties": {
         "title": "Rickhubel",
         "ele": "1943",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Louis Sutter",
+          "dist": "87.88 km"
         },
         "icon": "marker"
       }
@@ -67433,10 +67433,10 @@
       "properties": {
         "title": "Cuncels",
         "ele": "1937",
-        "flights": 6,
+        "flights": 7,
         "top": {
-          "pilot": "Carel Luebbig",
-          "dist": "17.94 km"
+          "pilot": "Michael Caviezel",
+          "dist": "32.95 km"
         },
         "icon": "marker"
       }
@@ -67553,7 +67553,7 @@
       "properties": {
         "title": "Birespitz",
         "ele": "1936",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Cedric Hofer",
           "dist": "52.80 km"
@@ -67653,7 +67653,7 @@
       "properties": {
         "title": "M\u00fclkerblatte",
         "ele": "1935",
-        "flights": 108,
+        "flights": 109,
         "top": {
           "pilot": "Daniel Schneider",
           "dist": "66.25 km"
@@ -67713,7 +67713,7 @@
       "properties": {
         "title": "Bockmattli",
         "ele": "1932",
-        "flights": 33,
+        "flights": 34,
         "top": {
           "pilot": "Boris Smolinski",
           "dist": "41.65 km"
@@ -68093,7 +68093,7 @@
       "properties": {
         "title": "Fronalpstock",
         "ele": "1920",
-        "flights": 110,
+        "flights": 117,
         "top": {
           "pilot": "Pavol Pivarci",
           "dist": "154.63 km"
@@ -68153,10 +68153,10 @@
       "properties": {
         "title": "Walalpgrat",
         "ele": "1919",
-        "flights": 37,
+        "flights": 182,
         "top": {
-          "pilot": "Stefan Trachsel",
-          "dist": "24.32 km"
+          "pilot": "Tobias Dimmler",
+          "dist": "80.87 km"
         },
         "icon": "marker"
       }
@@ -68233,7 +68233,7 @@
       "properties": {
         "title": "Patraflon",
         "ele": "1916",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "Sebastian Jungo",
           "dist": "70.70 km"
@@ -68333,7 +68333,7 @@
       "properties": {
         "title": "Aiguille de Braitaz",
         "ele": "1910",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Pierre VANSTABEL",
           "dist": "12.94 km"
@@ -68373,10 +68373,10 @@
       "properties": {
         "title": "Teysachaux",
         "ele": "1909",
-        "flights": 2,
+        "flights": 3,
         "top": {
-          "pilot": "Gilles Vuichard",
-          "dist": "61.45 km"
+          "pilot": "Sean Boran",
+          "dist": "66.37 km"
         },
         "icon": "marker"
       }
@@ -68413,7 +68413,7 @@
       "properties": {
         "title": "Les Merlas",
         "ele": "1907",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "Julien Giraudet",
           "dist": "16.06 km"
@@ -68433,7 +68433,7 @@
       "properties": {
         "title": "Klimsenhorn",
         "ele": "1907",
-        "flights": 374,
+        "flights": 382,
         "top": {
           "pilot": "Martin Kurmann",
           "dist": "106.12 km"
@@ -68493,7 +68493,7 @@
       "properties": {
         "title": "N\u00fcenchamm",
         "ele": "1904",
-        "flights": 7,
+        "flights": 8,
         "top": {
           "pilot": "Carlo Capaul",
           "dist": "8.40 km"
@@ -68633,7 +68633,7 @@
       "properties": {
         "title": "L'Aiguille",
         "ele": "1900",
-        "flights": 16,
+        "flights": 17,
         "top": {
           "pilot": "Lionel Moret",
           "dist": "72.79 km"
@@ -68713,10 +68713,10 @@
       "properties": {
         "title": "Stand",
         "ele": "1899",
-        "flights": 0,
+        "flights": 3,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Peter Schmutz",
+          "dist": "8.63 km"
         },
         "icon": "marker"
       }
@@ -68773,7 +68773,7 @@
       "properties": {
         "title": "Fl\u00f6schhorn",
         "ele": "1898",
-        "flights": 149,
+        "flights": 151,
         "top": {
           "pilot": "Rolf Ulrich",
           "dist": "231.13 km"
@@ -68813,7 +68813,7 @@
       "properties": {
         "title": "Stanserhorn",
         "ele": "1898",
-        "flights": 129,
+        "flights": 138,
         "top": {
           "pilot": "Beat S\u00e4gesser",
           "dist": "141.11 km"
@@ -68853,7 +68853,7 @@
       "properties": {
         "title": "Uschafetta",
         "ele": "1896",
-        "flights": 5,
+        "flights": 7,
         "top": {
           "pilot": "Carel Luebbig",
           "dist": "17.94 km"
@@ -69033,10 +69033,10 @@
       "properties": {
         "title": "Le Pila",
         "ele": "1892",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Julien Christe",
+          "dist": "4.62 km"
         },
         "icon": "marker"
       }
@@ -69053,7 +69053,7 @@
       "properties": {
         "title": "Geissh\u00f6ri",
         "ele": "1891",
-        "flights": 5,
+        "flights": 6,
         "top": {
           "pilot": "Sepp Kopp",
           "dist": "14.68 km"
@@ -69133,10 +69133,10 @@
       "properties": {
         "title": "Les Millets (Sommet est)",
         "ele": "1886",
-        "flights": 6,
+        "flights": 8,
         "top": {
-          "pilot": "Felix Aegerter",
-          "dist": "23.14 km"
+          "pilot": "Marc Fragni\u00e8re",
+          "dist": "50.17 km"
         },
         "icon": "marker"
       }
@@ -69253,10 +69253,10 @@
       "properties": {
         "title": "Chastelendossen",
         "ele": "1883",
-        "flights": 2,
+        "flights": 3,
         "top": {
-          "pilot": "Marcel Schmid",
-          "dist": "15.53 km"
+          "pilot": "Alfred St\u00fcbi",
+          "dist": "78.27 km"
         },
         "icon": "marker"
       }
@@ -69373,7 +69373,7 @@
       "properties": {
         "title": "Les Rodomonts",
         "ele": "1878",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "Martin Zettler",
           "dist": "50.97 km"
@@ -69473,7 +69473,7 @@
       "properties": {
         "title": "Stelligrat",
         "ele": "1875",
-        "flights": 9,
+        "flights": 10,
         "top": {
           "pilot": "Thomas Mullis",
           "dist": "29.91 km"
@@ -69513,7 +69513,7 @@
       "properties": {
         "title": "Gigichr\u00fcz",
         "ele": "1875",
-        "flights": 11,
+        "flights": 54,
         "top": {
           "pilot": "Ruedi Bircher",
           "dist": "92.30 km"
@@ -69533,7 +69533,7 @@
       "properties": {
         "title": "Dent de Jaman",
         "ele": "1874",
-        "flights": 20,
+        "flights": 110,
         "top": {
           "pilot": "Mathieu Thuner",
           "dist": "152.71 km"
@@ -69593,7 +69593,7 @@
       "properties": {
         "title": "Cima della Trosa",
         "ele": "1869",
-        "flights": 31,
+        "flights": 32,
         "top": {
           "pilot": "Michael Soland",
           "dist": "90.00 km"
@@ -69613,7 +69613,7 @@
       "properties": {
         "title": "Chli G\u00fcslen",
         "ele": "1868",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Michael Caviezel",
           "dist": "32.95 km"
@@ -69633,7 +69633,7 @@
       "properties": {
         "title": "Meieh\u00f6ri",
         "ele": "1865",
-        "flights": 6,
+        "flights": 9,
         "top": {
           "pilot": "Etienne MIESCH",
           "dist": "114.03 km"
@@ -69673,10 +69673,10 @@
       "properties": {
         "title": "Mys Derrey",
         "ele": "1864",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Nicolas Perriard",
-          "dist": "10.53 km"
+          "pilot": "Sylvain Brandt",
+          "dist": "14.93 km"
         },
         "icon": "marker"
       }
@@ -69693,10 +69693,10 @@
       "properties": {
         "title": "Les Coursis",
         "ele": "1864",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "laurent monneron",
+          "dist": "9.84 km"
         },
         "icon": "marker"
       }
@@ -69753,10 +69753,10 @@
       "properties": {
         "title": "R\u00e4misg\u00fctsch",
         "ele": "1862",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Daniel Wirz",
+          "dist": "3.04 km"
         },
         "icon": "marker"
       }
@@ -69773,7 +69773,7 @@
       "properties": {
         "title": "Le Merdasson",
         "ele": "1860",
-        "flights": 32,
+        "flights": 43,
         "top": {
           "pilot": "Etienne Feihl",
           "dist": "74.19 km"
@@ -69813,10 +69813,10 @@
       "properties": {
         "title": "La Man\u00e8ra",
         "ele": "1858",
-        "flights": 24,
+        "flights": 31,
         "top": {
-          "pilot": "Ren\u00e9 Pfyl",
-          "dist": "16.44 km"
+          "pilot": "Christian Erne",
+          "dist": "39.77 km"
         },
         "icon": "marker"
       }
@@ -70193,7 +70193,7 @@
       "properties": {
         "title": "St\u00f6ckli",
         "ele": "1845",
-        "flights": 4,
+        "flights": 7,
         "top": {
           "pilot": "Carlo Capaul",
           "dist": "8.40 km"
@@ -70273,10 +70273,10 @@
       "properties": {
         "title": "Rellerligrat",
         "ele": "1843",
-        "flights": 30,
+        "flights": 61,
         "top": {
-          "pilot": "Martin Zettler",
-          "dist": "69.08 km"
+          "pilot": "Silvio Erard",
+          "dist": "85.22 km"
         },
         "icon": "marker"
       }
@@ -70493,10 +70493,10 @@
       "properties": {
         "title": "Almenegg",
         "ele": "1830",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Nicolas Bourqui",
+          "dist": "26.07 km"
         },
         "icon": "marker"
       }
@@ -70513,10 +70513,10 @@
       "properties": {
         "title": "Dent du Chamois",
         "ele": "1830",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Fabien Debrot",
+          "dist": "10.10 km"
         },
         "icon": "marker"
       }
@@ -70893,10 +70893,10 @@
       "properties": {
         "title": "Monte Bar",
         "ele": "1816",
-        "flights": 16,
+        "flights": 18,
         "top": {
-          "pilot": "Matteo Lacentra",
-          "dist": "24.29 km"
+          "pilot": "luca fochesato",
+          "dist": "24.68 km"
         },
         "icon": "marker"
       }
@@ -71013,7 +71013,7 @@
       "properties": {
         "title": "Charenst\u00f6ckli",
         "ele": "1811",
-        "flights": 8,
+        "flights": 11,
         "top": {
           "pilot": "Andy Piers",
           "dist": "8.74 km"
@@ -71453,7 +71453,7 @@
       "properties": {
         "title": "Rigi",
         "ele": "1797.52",
-        "flights": 227,
+        "flights": 235,
         "top": {
           "pilot": "Pascal Bissig",
           "dist": "86.01 km"
@@ -71513,7 +71513,7 @@
       "properties": {
         "title": "Hoher Kasten",
         "ele": "1795",
-        "flights": 144,
+        "flights": 172,
         "top": {
           "pilot": "Sepp Inniger",
           "dist": "113.25 km"
@@ -71673,7 +71673,7 @@
       "properties": {
         "title": "Gulmen",
         "ele": "1789",
-        "flights": 34,
+        "flights": 36,
         "top": {
           "pilot": "Thomas Zwicky",
           "dist": "76.18 km"
@@ -71773,7 +71773,7 @@
       "properties": {
         "title": "Chli Horn",
         "ele": "1786",
-        "flights": 7,
+        "flights": 15,
         "top": {
           "pilot": "Daniel Gosso",
           "dist": "160.61 km"
@@ -71833,10 +71833,10 @@
       "properties": {
         "title": "Stockberg",
         "ele": "1782",
-        "flights": 26,
+        "flights": 31,
         "top": {
-          "pilot": "Erich Lemmenmeier",
-          "dist": "23.78 km"
+          "pilot": "Alexius Hofstetter",
+          "dist": "36.08 km"
         },
         "icon": "marker"
       }
@@ -72353,7 +72353,7 @@
       "properties": {
         "title": "Uf Vorsess",
         "ele": "1761",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Daniel Ritschard",
           "dist": "48.81 km"
@@ -72633,7 +72633,7 @@
       "properties": {
         "title": "Kamor",
         "ele": "1751",
-        "flights": 70,
+        "flights": 199,
         "top": {
           "pilot": "Lorenz Brusa",
           "dist": "66.97 km"
@@ -72673,7 +72673,7 @@
       "properties": {
         "title": "Monts Chevreuils",
         "ele": "1749",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "Bertrand Cina",
           "dist": "14.85 km"
@@ -72793,7 +72793,7 @@
       "properties": {
         "title": "Stollen",
         "ele": "1741",
-        "flights": 147,
+        "flights": 149,
         "top": {
           "pilot": "Christian Scheuber",
           "dist": "45.95 km"
@@ -73013,7 +73013,7 @@
       "properties": {
         "title": "Monte Gambarogno",
         "ele": "1734",
-        "flights": 19,
+        "flights": 20,
         "top": {
           "pilot": "Davide Monzeglio",
           "dist": "17.91 km"
@@ -73093,10 +73093,10 @@
       "properties": {
         "title": "Le Folly",
         "ele": "1730",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Joel Bonvin",
+          "dist": "16.71 km"
         },
         "icon": "marker"
       }
@@ -73173,10 +73173,10 @@
       "properties": {
         "title": "La Chuantse",
         "ele": "1725",
-        "flights": 0,
+        "flights": 2,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Bertrand Cina",
+          "dist": "14.85 km"
         },
         "icon": "marker"
       }
@@ -73435,7 +73435,7 @@
         "ele": "1713",
         "flights": 1,
         "top": {
-          "pilot": "Jean Gab",
+          "pilot": "Chris Gab",
           "dist": "2.46 km"
         },
         "icon": "marker"
@@ -73713,7 +73713,7 @@
       "properties": {
         "title": "Monte Generoso",
         "ele": "1701",
-        "flights": 529,
+        "flights": 752,
         "top": {
           "pilot": "Alex Leoni",
           "dist": "170.42 km"
@@ -73773,10 +73773,10 @@
       "properties": {
         "title": "Rigi Hochflue",
         "ele": "1698",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Christoph F\u00e4ssler",
+          "dist": "8.61 km"
         },
         "icon": "marker"
       }
@@ -73873,10 +73873,10 @@
       "properties": {
         "title": "Baraghetto",
         "ele": "1694",
-        "flights": 9,
+        "flights": 14,
         "top": {
-          "pilot": "renzo zanotta",
-          "dist": "42.73 km"
+          "pilot": "Jakob Karpf",
+          "dist": "60.46 km"
         },
         "icon": "marker"
       }
@@ -73913,10 +73913,10 @@
       "properties": {
         "title": "Schartih\u00f6reli",
         "ele": "1692",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Bertran Gerrits",
-          "dist": "8.35 km"
+          "pilot": "Urs Nadler",
+          "dist": "86.93 km"
         },
         "icon": "marker"
       }
@@ -74013,7 +74013,7 @@
       "properties": {
         "title": "Finsterb\u00fcel",
         "ele": "1688",
-        "flights": 2,
+        "flights": 4,
         "top": {
           "pilot": "p\u00e4di von wyl",
           "dist": "22.44 km"
@@ -74133,7 +74133,7 @@
       "properties": {
         "title": "La D\u00f4le",
         "ele": "1678",
-        "flights": 11,
+        "flights": 12,
         "top": {
           "pilot": "jacques vuffray",
           "dist": "41.16 km"
@@ -74273,7 +74273,7 @@
       "properties": {
         "title": "Cimetta",
         "ele": "1671",
-        "flights": 3965,
+        "flights": 4171,
         "top": {
           "pilot": "Beat S\u00e4gesser",
           "dist": "285.74 km"
@@ -74453,10 +74453,10 @@
       "properties": {
         "title": "Kronberg",
         "ele": "1663",
-        "flights": 1436,
+        "flights": 1783,
         "top": {
-          "pilot": "Kevin Signer",
-          "dist": "88.92 km"
+          "pilot": "Christian Erne",
+          "dist": "147.09 km"
         },
         "icon": "marker"
       }
@@ -74753,7 +74753,7 @@
       "properties": {
         "title": "Rigi Rotstock",
         "ele": "1650",
-        "flights": 14,
+        "flights": 18,
         "top": {
           "pilot": "Josef Schuler",
           "dist": "32.05 km"
@@ -74853,7 +74853,7 @@
       "properties": {
         "title": "Chli Aubrig",
         "ele": "1642",
-        "flights": 42,
+        "flights": 44,
         "top": {
           "pilot": "Christoph F\u00e4ssler",
           "dist": "55.69 km"
@@ -74933,7 +74933,7 @@
       "properties": {
         "title": "Hirzli",
         "ele": "1640",
-        "flights": 172,
+        "flights": 174,
         "top": {
           "pilot": "Werner Jacober",
           "dist": "71.96 km"
@@ -75193,7 +75193,7 @@
       "properties": {
         "title": "Vounetse",
         "ele": "1626",
-        "flights": 799,
+        "flights": 883,
         "top": {
           "pilot": "Hans Elmiger",
           "dist": "115.03 km"
@@ -75373,7 +75373,7 @@
       "properties": {
         "title": "Monte Lema",
         "ele": "1619",
-        "flights": 700,
+        "flights": 740,
         "top": {
           "pilot": "Alex Leoni",
           "dist": "142.03 km"
@@ -75553,7 +75553,7 @@
       "properties": {
         "title": "Cima di Sassalto",
         "ele": "1614",
-        "flights": 36,
+        "flights": 112,
         "top": {
           "pilot": "renzo zanotta",
           "dist": "50.95 km"
@@ -75573,7 +75573,7 @@
       "properties": {
         "title": "Gummen",
         "ele": "1613",
-        "flights": 915,
+        "flights": 926,
         "top": {
           "pilot": "Markus M\u00fcller",
           "dist": "208.24 km"
@@ -75653,10 +75653,10 @@
       "properties": {
         "title": "Gross Schwyberg",
         "ele": "1609",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Topper Harley",
+          "dist": "5.11 km"
         },
         "icon": "marker"
       }
@@ -75693,7 +75693,7 @@
       "properties": {
         "title": "Le Chasseral",
         "ele": "1607.4",
-        "flights": 47,
+        "flights": 60,
         "top": {
           "pilot": "Roman Kowalczyk",
           "dist": "136.69 km"
@@ -76013,7 +76013,7 @@
       "properties": {
         "title": "Wirtnerechilche",
         "ele": "1593",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Cyril Zwahlen",
           "dist": "12.05 km"
@@ -76033,10 +76033,10 @@
       "properties": {
         "title": "Monte Magino",
         "ele": "1589",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Claudio Cattaneo",
+          "dist": "15.26 km"
         },
         "icon": "marker"
       }
@@ -76053,10 +76053,10 @@
       "properties": {
         "title": "Le Suchet",
         "ele": "1588",
-        "flights": 555,
+        "flights": 625,
         "top": {
-          "pilot": "No\u00e9 Court",
-          "dist": "154.53 km"
+          "pilot": "Sylvain Freiholz",
+          "dist": "152.53 km"
         },
         "icon": "marker"
       }
@@ -76193,7 +76193,7 @@
       "properties": {
         "title": "Motto di Cima",
         "ele": "1581",
-        "flights": 111,
+        "flights": 117,
         "top": {
           "pilot": "renzo zanotta",
           "dist": "71.01 km"
@@ -76313,10 +76313,10 @@
       "properties": {
         "title": "Le Paradis",
         "ele": "1577",
-        "flights": 3,
+        "flights": 7,
         "top": {
           "pilot": "Andrea Broi",
-          "dist": "12.75 km"
+          "dist": "22.46 km"
         },
         "icon": "marker"
       }
@@ -76453,7 +76453,7 @@
       "properties": {
         "title": "Zottone",
         "ele": "1569",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Oliver Keller",
           "dist": "37.14 km"
@@ -76473,7 +76473,7 @@
       "properties": {
         "title": "Gnipen",
         "ele": "1568",
-        "flights": 121,
+        "flights": 128,
         "top": {
           "pilot": "Renato Sp\u00e4ni",
           "dist": "97.37 km"
@@ -76513,10 +76513,10 @@
       "properties": {
         "title": "Hochstuckli",
         "ele": "1566",
-        "flights": 1,
+        "flights": 5,
         "top": {
-          "pilot": "Armin Walder",
-          "dist": "38.41 km"
+          "pilot": "Bj\u00f6rn Hjelmland",
+          "dist": "37.34 km"
         },
         "icon": "marker"
       }
@@ -77133,10 +77133,10 @@
       "properties": {
         "title": "Hochalp",
         "ele": "1529",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "melchior lindenstruth",
+          "dist": "20.57 km"
         },
         "icon": "marker"
       }
@@ -77313,7 +77313,7 @@
       "properties": {
         "title": "Moncucco",
         "ele": "1518",
-        "flights": 3,
+        "flights": 5,
         "top": {
           "pilot": "Gion Baker",
           "dist": "35.43 km"
@@ -77693,7 +77693,7 @@
       "properties": {
         "title": "Lo Stallone",
         "ele": "1496",
-        "flights": 8,
+        "flights": 13,
         "top": {
           "pilot": "Beat S\u00e4gesser",
           "dist": "128.52 km"
@@ -77833,7 +77833,7 @@
       "properties": {
         "title": "Sch\u00fcbelmoosegg",
         "ele": "1489",
-        "flights": 33,
+        "flights": 36,
         "top": {
           "pilot": "Adrian Vogel",
           "dist": "49.95 km"
@@ -77953,7 +77953,7 @@
       "properties": {
         "title": "Dent de Vaulion",
         "ele": "1482.6",
-        "flights": 6,
+        "flights": 7,
         "top": {
           "pilot": "David Ferrer Llanes",
           "dist": "10.91 km"
@@ -78053,10 +78053,10 @@
       "properties": {
         "title": "Lauiberg",
         "ele": "1476",
-        "flights": 11,
+        "flights": 13,
         "top": {
-          "pilot": "Erich Lemmenmeier",
-          "dist": "44.76 km"
+          "pilot": "Martin Meyer",
+          "dist": "53.48 km"
         },
         "icon": "marker"
       }
@@ -78073,7 +78073,7 @@
       "properties": {
         "title": "Farlenegg",
         "ele": "1476",
-        "flights": 10,
+        "flights": 13,
         "top": {
           "pilot": "Ren\u00e9 B\u00fcrgin",
           "dist": "17.29 km"
@@ -78293,7 +78293,7 @@
       "properties": {
         "title": "Schwantenhorn",
         "ele": "1455",
-        "flights": 13,
+        "flights": 15,
         "top": {
           "pilot": "Ren\u00e9 B\u00fcrgin",
           "dist": "17.29 km"
@@ -78433,7 +78433,7 @@
       "properties": {
         "title": "Hasenmatt",
         "ele": "1445",
-        "flights": 145,
+        "flights": 154,
         "top": {
           "pilot": "andreas schaub",
           "dist": "156.30 km"
@@ -78513,7 +78513,7 @@
       "properties": {
         "title": "Sidemoosflue",
         "ele": "1441",
-        "flights": 94,
+        "flights": 122,
         "top": {
           "pilot": "Adrian Vogel",
           "dist": "89.75 km"
@@ -78913,7 +78913,7 @@
       "properties": {
         "title": "T\u00eate de Ran",
         "ele": "1422",
-        "flights": 78,
+        "flights": 81,
         "top": {
           "pilot": "Christian Voiblet",
           "dist": "221.38 km"
@@ -78933,7 +78933,7 @@
       "properties": {
         "title": "Fliederhorn",
         "ele": "1421",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "J\u00fcrg Weber",
           "dist": "1.68 km"
@@ -79173,10 +79173,10 @@
       "properties": {
         "title": "Stockrain",
         "ele": "1410",
-        "flights": 2,
+        "flights": 19,
         "top": {
-          "pilot": "Beat Walker",
-          "dist": "9.57 km"
+          "pilot": "Roli Steinegger",
+          "dist": "24.98 km"
         },
         "icon": "marker"
       }
@@ -79253,7 +79253,7 @@
       "properties": {
         "title": "Grenchenberg",
         "ele": "1405",
-        "flights": 330,
+        "flights": 335,
         "top": {
           "pilot": "Joris Lardon",
           "dist": "136.34 km"
@@ -79353,7 +79353,7 @@
       "properties": {
         "title": "Corbetta",
         "ele": "1399",
-        "flights": 84,
+        "flights": 86,
         "top": {
           "pilot": "chammartin fabrice",
           "dist": "40.89 km"
@@ -79393,7 +79393,7 @@
       "properties": {
         "title": "R\u00f6ti",
         "ele": "1396",
-        "flights": 1774,
+        "flights": 1782,
         "top": {
           "pilot": "Gebi Ab\u00e4cherli",
           "dist": "206.87 km"
@@ -79413,10 +79413,10 @@
       "properties": {
         "title": "Sunnighorn",
         "ele": "1394",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "J\u00fcrg Weber",
-          "dist": "0.71 km"
+          "dist": "0.73 km"
         },
         "icon": "marker"
       }
@@ -79593,10 +79593,10 @@
       "properties": {
         "title": "Hochschwang",
         "ele": "1382",
-        "flights": 11,
+        "flights": 115,
         "top": {
-          "pilot": "Roger Trachsler",
-          "dist": "75.86 km"
+          "pilot": "Martin Frund",
+          "dist": "106.33 km"
         },
         "icon": "marker"
       }
@@ -79693,10 +79693,10 @@
       "properties": {
         "title": "G\u00fcnhorn",
         "ele": "1368",
-        "flights": 2,
+        "flights": 4,
         "top": {
-          "pilot": "Benedikt Braun",
-          "dist": "23.69 km"
+          "pilot": "Peter K\u00e4ch",
+          "dist": "142.47 km"
         },
         "icon": "marker"
       }
@@ -79773,7 +79773,7 @@
       "properties": {
         "title": "Les Pl\u00e9iades",
         "ele": "1360",
-        "flights": 1016,
+        "flights": 1069,
         "top": {
           "pilot": "Mathieu Thuner",
           "dist": "208.68 km"
@@ -79813,10 +79813,10 @@
       "properties": {
         "title": "L\u00fctscherlig\u00fctsch",
         "ele": "1351",
-        "flights": 20,
+        "flights": 26,
         "top": {
-          "pilot": "Michael Nyffenegger",
-          "dist": "66.08 km"
+          "pilot": "Albert Manser",
+          "dist": "48.73 km"
         },
         "icon": "marker"
       }
@@ -79873,10 +79873,10 @@
       "properties": {
         "title": "Le Buement",
         "ele": "1338",
-        "flights": 1,
+        "flights": 3,
         "top": {
-          "pilot": "Raphael Mueller",
-          "dist": "24.98 km"
+          "pilot": "B\u00e9at Howald",
+          "dist": "42.03 km"
         },
         "icon": "marker"
       }
@@ -79953,7 +79953,7 @@
       "properties": {
         "title": "Dilitschchopf",
         "ele": "1330",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Engelbert B\u00fcrgi",
           "dist": "71.40 km"
@@ -80013,7 +80013,7 @@
       "properties": {
         "title": "Hummel",
         "ele": "1326",
-        "flights": 451,
+        "flights": 479,
         "top": {
           "pilot": "Christian Erne",
           "dist": "87.33 km"
@@ -80033,10 +80033,10 @@
       "properties": {
         "title": "Monte Bisbino",
         "ele": "1325",
-        "flights": 4,
+        "flights": 6,
         "top": {
-          "pilot": "Matteo Serenari",
-          "dist": "5.50 km"
+          "pilot": "Andrea Noseda",
+          "dist": "91.10 km"
         },
         "icon": "marker"
       }
@@ -80053,7 +80053,7 @@
       "properties": {
         "title": "Gitziflue",
         "ele": "1324",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "Karin Fischer",
           "dist": "47.22 km"
@@ -80073,7 +80073,7 @@
       "properties": {
         "title": "Ufem Tritt",
         "ele": "1323",
-        "flights": 290,
+        "flights": 294,
         "top": {
           "pilot": "Jonas K\u00e4lin",
           "dist": "148.75 km"
@@ -80233,10 +80233,10 @@
       "properties": {
         "title": "Summerigchopf",
         "ele": "1314",
-        "flights": 4,
+        "flights": 14,
         "top": {
           "pilot": "Michael Rohner",
-          "dist": "134.37 km"
+          "dist": "157.92 km"
         },
         "icon": "marker"
       }
@@ -80353,10 +80353,10 @@
       "properties": {
         "title": "Hundwiler H\u00f6hi",
         "ele": "1306",
-        "flights": 22,
+        "flights": 23,
         "top": {
-          "pilot": "Renato Berner",
-          "dist": "10.40 km"
+          "pilot": "Kevin Signer",
+          "dist": "100.97 km"
         },
         "icon": "marker"
       }
@@ -80413,7 +80413,7 @@
       "properties": {
         "title": "Mont Raimeux",
         "ele": "1302",
-        "flights": 101,
+        "flights": 104,
         "top": {
           "pilot": "Christian Voiblet",
           "dist": "138.39 km"
@@ -80513,10 +80513,10 @@
       "properties": {
         "title": "Bettlachstock",
         "ele": "1298",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Elias Riedweg",
+          "dist": "26.06 km"
         },
         "icon": "marker"
       }
@@ -80553,7 +80553,7 @@
       "properties": {
         "title": "Engelstock",
         "ele": "1296.9",
-        "flights": 51,
+        "flights": 58,
         "top": {
           "pilot": "Martin Moser",
           "dist": "71.36 km"
@@ -81273,10 +81273,10 @@
       "properties": {
         "title": "Cima di Medeglia",
         "ele": "1260",
-        "flights": 84,
+        "flights": 340,
         "top": {
-          "pilot": "Petr Kou\u0159il",
-          "dist": "9.57 km"
+          "pilot": "Tobias D\u00fctschler",
+          "dist": "19.45 km"
         },
         "icon": "marker"
       }
@@ -81393,10 +81393,10 @@
       "properties": {
         "title": "Chamben",
         "ele": "1251",
-        "flights": 4,
+        "flights": 8,
         "top": {
-          "pilot": "Philipp Kraxner",
-          "dist": "77.87 km"
+          "pilot": "Peter K\u00e4ch",
+          "dist": "175.53 km"
         },
         "icon": "marker"
       }
@@ -81553,7 +81553,7 @@
       "properties": {
         "title": "Walenmatt",
         "ele": "1240",
-        "flights": 324,
+        "flights": 326,
         "top": {
           "pilot": "Roger Grossenbacher",
           "dist": "128.74 km"
@@ -81973,10 +81973,10 @@
       "properties": {
         "title": "Stockberg",
         "ele": "1212",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "J\u00f6rg M\u00e4der",
+          "dist": "4.89 km"
         },
         "icon": "marker"
       }
@@ -82113,7 +82113,7 @@
       "properties": {
         "title": "M\u00fcllerspitz",
         "ele": "1206",
-        "flights": 45,
+        "flights": 47,
         "top": {
           "pilot": "Urs Odermatt",
           "dist": "67.26 km"
@@ -82233,7 +82233,7 @@
       "properties": {
         "title": "Hohe Winde",
         "ele": "1204",
-        "flights": 421,
+        "flights": 425,
         "top": {
           "pilot": "Martin B\u00fchler",
           "dist": "96.91 km"
@@ -82313,10 +82313,10 @@
       "properties": {
         "title": "Wanneflue",
         "ele": "1201",
-        "flights": 19,
+        "flights": 65,
         "top": {
-          "pilot": "Horst Naujoks",
-          "dist": "119.23 km"
+          "pilot": "Simon Br\u00fclisauer",
+          "dist": "140.43 km"
         },
         "icon": "marker"
       }
@@ -82693,7 +82693,7 @@
       "properties": {
         "title": "Karlisberg",
         "ele": "1171",
-        "flights": 63,
+        "flights": 64,
         "top": {
           "pilot": "Sergio Waldmeier",
           "dist": "98.75 km"
@@ -82793,10 +82793,10 @@
       "properties": {
         "title": "Hinteri Egg",
         "ele": "1169",
-        "flights": 20,
+        "flights": 24,
         "top": {
           "pilot": "Manuel Vetterli",
-          "dist": "56.08 km"
+          "dist": "88.21 km"
         },
         "icon": "marker"
       }
@@ -82873,7 +82873,7 @@
       "properties": {
         "title": "Schattberg",
         "ele": "1166",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "Roger Wagner",
           "dist": "13.07 km"
@@ -83233,10 +83233,10 @@
       "properties": {
         "title": "Chalberstock",
         "ele": "1145",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Armin Walder",
+          "dist": "15.67 km"
         },
         "icon": "marker"
       }
@@ -83673,10 +83673,10 @@
       "properties": {
         "title": "Brunnersberg",
         "ele": "1118",
-        "flights": 3,
+        "flights": 6,
         "top": {
-          "pilot": "Charles Ingold",
-          "dist": "121.93 km"
+          "pilot": "Marco Frei",
+          "dist": "120.65 km"
         },
         "icon": "marker"
       }
@@ -83753,7 +83753,7 @@
       "properties": {
         "title": "Bachtel",
         "ele": "1115",
-        "flights": 33,
+        "flights": 34,
         "top": {
           "pilot": "J\u00f6rg Bonderer",
           "dist": "95.00 km"
@@ -83913,7 +83913,7 @@
       "properties": {
         "title": "Laupersdorfer Stierenberg",
         "ele": "1105",
-        "flights": 7,
+        "flights": 10,
         "top": {
           "pilot": "Christian Leutwiler",
           "dist": "83.41 km"
@@ -84133,7 +84133,7 @@
       "properties": {
         "title": "Usserberg",
         "ele": "1094",
-        "flights": 474,
+        "flights": 1091,
         "top": {
           "pilot": "Roger Ruppert",
           "dist": "428.11 km"
@@ -84573,10 +84573,10 @@
       "properties": {
         "title": "L\u00e4ngegg",
         "ele": "1064",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Thomas Imhof",
+          "dist": "4.22 km"
         },
         "icon": "marker"
       }
@@ -84933,10 +84933,10 @@
       "properties": {
         "title": "Zollbodenchopf",
         "ele": "1040",
-        "flights": 35,
+        "flights": 909,
         "top": {
-          "pilot": "andreas schaub",
-          "dist": "70.65 km"
+          "pilot": "Michael Huppert",
+          "dist": "145.11 km"
         },
         "icon": "marker"
       }
@@ -85033,10 +85033,10 @@
       "properties": {
         "title": "Spitzenfl\u00fceli",
         "ele": "1036",
-        "flights": 6,
+        "flights": 149,
         "top": {
-          "pilot": "yves leu",
-          "dist": "201.15 km"
+          "pilot": "Peter H\u00fcrlimann",
+          "dist": "242.81 km"
         },
         "icon": "marker"
       }
@@ -85133,7 +85133,7 @@
       "properties": {
         "title": "Wannenflue",
         "ele": "1033",
-        "flights": 4,
+        "flights": 5,
         "top": {
           "pilot": "Benedikt Braun",
           "dist": "44.01 km"
@@ -85533,10 +85533,10 @@
       "properties": {
         "title": "H\u00fcttench\u00f6pfli",
         "ele": "1012",
-        "flights": 0,
+        "flights": 2,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Thomas Imhof",
+          "dist": "13.08 km"
         },
         "icon": "marker"
       }

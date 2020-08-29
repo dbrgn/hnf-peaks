@@ -273,10 +273,10 @@
       "properties": {
         "title": "Mali Kanin / Canin basso",
         "ele": "2577",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "John Martina Pradeis",
+          "dist": "5.90 km"
         },
         "icon": "marker"
       }
@@ -326,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8074689",
-          "46.3600425"
+          "13.8097769",
+          "46.3601429"
         ]
       },
       "properties": {
@@ -346,8 +346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8097769",
-          "46.3601429"
+          "13.8074689",
+          "46.3600425"
         ]
       },
       "properties": {
@@ -466,26 +466,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.5219812",
-          "46.3587501"
-        ]
-      },
-      "properties": {
-        "title": "Jezerska Ko\u010dna",
-        "ele": "2540",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.8524447",
           "46.3801308"
         ]
@@ -497,6 +477,26 @@
         "top": {
           "pilot": "Nejc Okorn",
           "dist": "9.31 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.5219812",
+          "46.3587501"
+        ]
+      },
+      "properties": {
+        "title": "Jezerska Ko\u010dna",
+        "ele": "2540",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
         },
         "icon": "marker"
       }
@@ -526,12 +526,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8808425",
-          "46.3918988"
+          "14.5577388",
+          "46.3632574"
         ]
       },
       "properties": {
-        "title": "Rjavina",
+        "title": "Skuta",
         "ele": "2532",
         "flights": 0,
         "top": {
@@ -566,12 +566,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.5577388",
-          "46.3632574"
+          "13.8808425",
+          "46.3918988"
         ]
       },
       "properties": {
-        "title": "Skuta",
+        "title": "Rjavina",
         "ele": "2532",
         "flights": 0,
         "top": {
@@ -806,6 +806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.5458712",
+          "46.3631227"
+        ]
+      },
+      "properties": {
+        "title": "Dolgi hrbet",
+        "ele": "2473",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.6633216",
           "46.4402043"
         ]
@@ -832,26 +852,6 @@
       },
       "properties": {
         "title": "\u0160pik",
-        "ele": "2473",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.5458712",
-          "46.3631227"
-        ]
-      },
-      "properties": {
-        "title": "Dolgi hrbet",
         "ele": "2473",
         "flights": 0,
         "top": {
@@ -1126,12 +1126,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8086711",
-          "46.4227758"
+          "13.8080441",
+          "46.3510065"
         ]
       },
       "properties": {
-        "title": "Dov\u0161ki Gamsovec",
+        "title": "Vr\u0161ak",
         "ele": "2440",
         "flights": 0,
         "top": {
@@ -1146,12 +1146,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8080441",
-          "46.3510065"
+          "13.8086711",
+          "46.4227758"
         ]
       },
       "properties": {
-        "title": "Vr\u0161ak",
+        "title": "Dov\u0161ki Gamsovec",
         "ele": "2440",
         "flights": 0,
         "top": {
@@ -1386,12 +1386,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8111513",
-          "46.4100787"
+          "13.8620787",
+          "46.3917185"
         ]
       },
       "properties": {
-        "title": "Kri\u017e",
+        "title": "Visoka Vrbanova \u0161pica",
         "ele": "2410",
         "flights": 0,
         "top": {
@@ -1406,12 +1406,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8620787",
-          "46.3917185"
+          "13.8111513",
+          "46.4100787"
         ]
       },
       "properties": {
-        "title": "Visoka Vrbanova \u0161pica",
+        "title": "Kri\u017e",
         "ele": "2410",
         "flights": 0,
         "top": {
@@ -1506,12 +1506,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7929884",
-          "46.4151572"
+          "13.6842361",
+          "46.4203662"
         ]
       },
       "properties": {
-        "title": "Turn pod Razorjem",
+        "title": "Goli\u010dica",
         "ele": "2395",
         "flights": 0,
         "top": {
@@ -1526,12 +1526,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6842361",
-          "46.4203662"
+          "13.7929884",
+          "46.4151572"
         ]
       },
       "properties": {
-        "title": "Goli\u010dica",
+        "title": "Turn pod Razorjem",
         "ele": "2395",
         "flights": 0,
         "top": {
@@ -1566,12 +1566,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6137204",
-          "46.3565325"
+          "13.8126688",
+          "46.3982169"
         ]
       },
       "properties": {
-        "title": "Planjava",
+        "title": "Bov\u0161ki Gamsovec",
         "ele": "2392",
         "flights": 0,
         "top": {
@@ -1586,12 +1586,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8126688",
-          "46.3982169"
+          "14.6137204",
+          "46.3565325"
         ]
       },
       "properties": {
-        "title": "Bov\u0161ki Gamsovec",
+        "title": "Planjava",
         "ele": "2392",
         "flights": 0,
         "top": {
@@ -1986,12 +1986,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6840135",
-          "46.4375164"
+          "14.6372395",
+          "46.3639212"
         ]
       },
       "properties": {
-        "title": "Monte Termine / V Koncu \u0161pica",
+        "title": "Ojstrica",
         "ele": "2350",
         "flights": 0,
         "top": {
@@ -2026,12 +2026,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6372395",
-          "46.3639212"
+          "13.6840135",
+          "46.4375164"
         ]
       },
       "properties": {
-        "title": "Ojstrica",
+        "title": "Monte Termine / V Koncu \u0161pica",
         "ele": "2350",
         "flights": 0,
         "top": {
@@ -2093,10 +2093,10 @@
       "properties": {
         "title": "Vrh Osojnic",
         "ele": "2348",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Slavom\u00edr Adamec",
+          "dist": "8.88 km"
         },
         "icon": "marker"
       }
@@ -2173,7 +2173,7 @@
       "properties": {
         "title": "Grdi vr\u0161i\u010d",
         "ele": "2344",
-        "flights": 27,
+        "flights": 50,
         "top": {
           "pilot": "Poje Jo\u017ee",
           "dist": "105.15 km"
@@ -2286,12 +2286,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6744915",
-          "46.4401868"
+          "13.7311241",
+          "46.4374004"
         ]
       },
       "properties": {
-        "title": "Piccolo Mangart di Coritenza / Koritni\u0161ki mali Mangrt",
+        "title": "Mala Mojstrovka",
         "ele": "2333",
         "flights": 0,
         "top": {
@@ -2306,12 +2306,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7311241",
-          "46.4374004"
+          "13.6744915",
+          "46.4401868"
         ]
       },
       "properties": {
-        "title": "Mala Mojstrovka",
+        "title": "Piccolo Mangart di Coritenza / Koritni\u0161ki mali Mangrt",
         "ele": "2333",
         "flights": 0,
         "top": {
@@ -2486,12 +2486,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8484845",
-          "46.3871683"
+          "13.8405311",
+          "46.3836047"
         ]
       },
       "properties": {
-        "title": "Vzhodna glava",
+        "title": "Slovenski turnc",
         "ele": "2313",
         "flights": 0,
         "top": {
@@ -2506,12 +2506,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8405311",
-          "46.3836047"
+          "13.8484845",
+          "46.3871683"
         ]
       },
       "properties": {
-        "title": "Slovenski turnc",
+        "title": "Vzhodna glava",
         "ele": "2313",
         "flights": 0,
         "top": {
@@ -2546,12 +2546,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.4467359",
-          "46.3550246"
+          "13.7908584",
+          "46.3423328"
         ]
       },
       "properties": {
-        "title": "Visoka glava",
+        "title": "Velika Zelnarica",
         "ele": "2310",
         "flights": 0,
         "top": {
@@ -2566,12 +2566,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7908584",
-          "46.3423328"
+          "13.4467359",
+          "46.3550246"
         ]
       },
       "properties": {
-        "title": "Velika Zelnarica",
+        "title": "Visoka glava",
         "ele": "2310",
         "flights": 0,
         "top": {
@@ -2666,12 +2666,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.4997561",
-          "46.3712961"
+          "13.4776565",
+          "46.3650938"
         ]
       },
       "properties": {
-        "title": "Konjske Police",
+        "title": "Cime Pecorelle / Prestreljeni\u0161ki vr\u0161i\u010di",
         "ele": "2290",
         "flights": 0,
         "top": {
@@ -2686,12 +2686,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.4776565",
-          "46.3650938"
+          "13.4997561",
+          "46.3712961"
         ]
       },
       "properties": {
-        "title": "Cime Pecorelle / Prestreljeni\u0161ki vr\u0161i\u010di",
+        "title": "Konjske Police",
         "ele": "2290",
         "flights": 0,
         "top": {
@@ -2733,10 +2733,10 @@
       "properties": {
         "title": "Ov\u010dji vr\u0161i\u010d",
         "ele": "2283",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Ivan Romic",
-          "dist": "8.64 km"
+          "pilot": "Poje Jo\u017ee",
+          "dist": "105.15 km"
         },
         "icon": "marker"
       }
@@ -2973,10 +2973,10 @@
       "properties": {
         "title": "Rate\u0161ki Mali Mangart / Piccolo Mangart",
         "ele": "2263",
-        "flights": 2,
+        "flights": 3,
         "top": {
-          "pilot": "Thomas Hofbauer",
-          "dist": "10.48 km"
+          "pilot": "Roman Zechner",
+          "dist": "26.07 km"
         },
         "icon": "marker"
       }
@@ -3186,12 +3186,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6184222",
-          "46.3877654"
+          "13.87578",
+          "46.360202"
         ]
       },
       "properties": {
-        "title": "Oblica",
+        "title": "Veliki Dra\u0161ki vrh",
         "ele": "2240",
         "flights": 0,
         "top": {
@@ -3206,12 +3206,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.87578",
-          "46.360202"
+          "13.6184222",
+          "46.3877654"
         ]
       },
       "properties": {
-        "title": "Veliki Dra\u0161ki vrh",
+        "title": "Oblica",
         "ele": "2240",
         "flights": 0,
         "top": {
@@ -3313,10 +3313,10 @@
       "properties": {
         "title": "Vrh \u0160krbinice",
         "ele": "2235",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Ivan Romic",
+          "dist": "8.64 km"
         },
         "icon": "marker"
       }
@@ -3326,13 +3326,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7412157",
-          "46.329143"
+          "13.6138553",
+          "46.3860068"
         ]
       },
       "properties": {
-        "title": "\u010celo",
-        "ele": "2231",
+        "title": "Vrh Krnice",
+        "ele": "2234",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -3352,6 +3352,26 @@
       },
       "properties": {
         "title": "Rob Velike dnine",
+        "ele": "2231",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.7412157",
+          "46.329143"
+        ]
+      },
+      "properties": {
+        "title": "\u010celo",
         "ele": "2231",
         "flights": 0,
         "top": {
@@ -3706,26 +3726,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.1754658",
-          "46.4317403"
-        ]
-      },
-      "properties": {
-        "title": "Mali Stol",
-        "ele": "2198",
-        "flights": 1,
-        "top": {
-          "pilot": "Werner Weissmann",
-          "dist": "14.24 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.6805078",
           "46.430435"
         ]
@@ -3737,6 +3737,26 @@
         "top": {
           "pilot": "",
           "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.1754658",
+          "46.4317403"
+        ]
+      },
+      "properties": {
+        "title": "Mali Stol",
+        "ele": "2198",
+        "flights": 1,
+        "top": {
+          "pilot": "Werner Weissmann",
+          "dist": "14.24 km"
         },
         "icon": "marker"
       }
@@ -3966,12 +3986,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6701465",
-          "46.3891885"
+          "13.6703741",
+          "46.3865862"
         ]
       },
       "properties": {
-        "title": "\u0160pi\u010dica",
+        "title": "Skutnik",
         "ele": "2172",
         "flights": 0,
         "top": {
@@ -3986,12 +4006,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6703741",
-          "46.3865862"
+          "13.6701465",
+          "46.3891885"
         ]
       },
       "properties": {
-        "title": "Skutnik",
+        "title": "\u0160pi\u010dica",
         "ele": "2172",
         "flights": 0,
         "top": {
@@ -4106,12 +4126,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6548874",
-          "46.4339252"
+          "13.490468",
+          "46.359385"
         ]
       },
       "properties": {
-        "title": "Na Lopi",
+        "title": "Vrh Jereb\u010deve police",
         "ele": "2161",
         "flights": 0,
         "top": {
@@ -4146,12 +4166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.490468",
-          "46.359385"
+          "13.6548874",
+          "46.4339252"
         ]
       },
       "properties": {
-        "title": "Vrh Jereb\u010deve police",
+        "title": "Na Lopi",
         "ele": "2161",
         "flights": 0,
         "top": {
@@ -4253,7 +4273,7 @@
       "properties": {
         "title": "Mittagskogel / Kepa",
         "ele": "2145",
-        "flights": 33,
+        "flights": 35,
         "top": {
           "pilot": "Roman Zechner",
           "dist": "39.23 km"
@@ -4306,12 +4326,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.679274",
-          "46.4007446"
+          "13.6732323",
+          "46.3954561"
         ]
       },
       "properties": {
-        "title": "Griva",
+        "title": "Zadnji Pelc",
         "ele": "2137",
         "flights": 0,
         "top": {
@@ -4326,12 +4346,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6732323",
-          "46.3954561"
+          "13.679274",
+          "46.4007446"
         ]
       },
       "properties": {
-        "title": "Zadnji Pelc",
+        "title": "Griva",
         "ele": "2137",
         "flights": 0,
         "top": {
@@ -4466,12 +4486,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6277406",
-          "46.4423801"
+          "13.7417478",
+          "46.3257838"
         ]
       },
       "properties": {
-        "title": "Monte Bucher grande / Skala",
+        "title": "Glava za Bajto",
         "ele": "2131",
         "flights": 0,
         "top": {
@@ -4486,12 +4506,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7417478",
-          "46.3257838"
+          "13.6277406",
+          "46.4423801"
         ]
       },
       "properties": {
-        "title": "Glava za Bajto",
+        "title": "Monte Bucher grande / Skala",
         "ele": "2131",
         "flights": 0,
         "top": {
@@ -4526,6 +4546,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.5651786",
+          "46.3982476"
+        ]
+      },
+      "properties": {
+        "title": "Cima del Lago / Jerebica",
+        "ele": "2127",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.6211101",
+          "46.3520553"
+        ]
+      },
+      "properties": {
+        "title": "Najvi\u0161ji rob",
+        "ele": "2127",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.7769145",
           "46.4020856"
         ]
@@ -4546,34 +4606,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5646857",
-          "46.3984054"
-        ]
-      },
-      "properties": {
-        "title": "Cima del Lago / Jerebica",
-        "ele": "2126",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.7800517",
-          "46.50028"
+          "14.779998",
+          "46.5003144"
         ]
       },
       "properties": {
         "title": "Korde\u017eeva glava",
         "ele": "2126",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "Gottfried Kaschnig",
           "dist": "100.37 km"
@@ -4686,26 +4726,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6673235",
-          "46.3611067"
-        ]
-      },
-      "properties": {
-        "title": "Velika Zelenica",
-        "ele": "2114",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.4683491",
           "46.3482431"
         ]
@@ -4726,13 +4746,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6670941",
-          "46.3836269"
+          "14.6673235",
+          "46.3611067"
         ]
       },
       "properties": {
-        "title": "Veliki Jelenk",
-        "ele": "2113",
+        "title": "Velika Zelenica",
+        "ele": "2114",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -4752,6 +4772,26 @@
       },
       "properties": {
         "title": "Vr\u0161ac",
+        "ele": "2113",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.6670941",
+          "46.3836269"
+        ]
+      },
+      "properties": {
+        "title": "Veliki Jelenk",
         "ele": "2113",
         "flights": 0,
         "top": {
@@ -4833,30 +4873,10 @@
       "properties": {
         "title": "Kon\u010dnikov vrh",
         "ele": "2109",
-        "flights": 21,
+        "flights": 24,
         "top": {
           "pilot": "Manfred Marte",
           "dist": "78.00 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.5591994",
-          "46.3750784"
-        ]
-      },
-      "properties": {
-        "title": "Ledinski vrh",
-        "ele": "2108",
-        "flights": 1,
-        "top": {
-          "pilot": "Igor Kremsar",
-          "dist": "4.78 km"
         },
         "icon": "marker"
       }
@@ -4897,6 +4917,26 @@
         "top": {
           "pilot": "",
           "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.5591994",
+          "46.3750784"
+        ]
+      },
+      "properties": {
+        "title": "Ledinski vrh",
+        "ele": "2108",
+        "flights": 1,
+        "top": {
+          "pilot": "Igor Kremsar",
+          "dist": "4.78 km"
         },
         "icon": "marker"
       }
@@ -4966,12 +5006,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8447272",
-          "46.356229"
+          "14.1803625",
+          "46.4379947"
         ]
       },
       "properties": {
-        "title": "Ko\u0161trunovec",
+        "title": "Klagenfurter Spitze / Celov\u0161ka \u0161pica",
         "ele": "2102",
         "flights": 0,
         "top": {
@@ -4986,12 +5026,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.1803625",
-          "46.4379947"
+          "13.8447272",
+          "46.356229"
         ]
       },
       "properties": {
-        "title": "Klagenfurter Spitze / Celov\u0161ka \u0161pica",
+        "title": "Ko\u0161trunovec",
         "ele": "2102",
         "flights": 0,
         "top": {
@@ -5106,12 +5146,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6705273",
-          "46.3791491"
+          "13.6591253",
+          "46.3845705"
         ]
       },
       "properties": {
-        "title": "Zagorelec",
+        "title": "Veliki Pihavec",
         "ele": "2090",
         "flights": 0,
         "top": {
@@ -5126,12 +5166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6591253",
-          "46.3845705"
+          "13.6705273",
+          "46.3791491"
         ]
       },
       "properties": {
-        "title": "Veliki Pihavec",
+        "title": "Zagorelec",
         "ele": "2090",
         "flights": 0,
         "top": {
@@ -5166,26 +5206,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8333304",
-          "46.3347237"
-        ]
-      },
-      "properties": {
-        "title": "Ogradi",
-        "ele": "2087",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.7185979",
           "46.4240567"
         ]
@@ -5206,13 +5226,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.4637948",
-          "46.3460287"
+          "13.8333304",
+          "46.3347237"
         ]
       },
       "properties": {
-        "title": "Mala Gnila glava",
-        "ele": "2086",
+        "title": "Ogradi",
+        "ele": "2087",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -5232,6 +5252,26 @@
       },
       "properties": {
         "title": "Tolminski kuk",
+        "ele": "2086",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.4637948",
+          "46.3460287"
+        ]
+      },
+      "properties": {
+        "title": "Mala Gnila glava",
         "ele": "2086",
         "flights": 0,
         "top": {
@@ -5286,26 +5326,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3894113",
-          "46.4418805"
-        ]
-      },
-      "properties": {
-        "title": "L\u00e4rchenberg / U\u017enik",
-        "ele": "2080",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.7387535",
           "46.4391431"
         ]
@@ -5326,13 +5346,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3977278",
-          "46.4446226"
+          "14.3894113",
+          "46.4418805"
         ]
       },
       "properties": {
-        "title": "Pichsov stolp / Pichsturm",
-        "ele": "2079",
+        "title": "L\u00e4rchenberg / U\u017enik",
+        "ele": "2080",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -5352,6 +5372,26 @@
       },
       "properties": {
         "title": "Prevalski Stog",
+        "ele": "2079",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.3977278",
+          "46.4446226"
+        ]
+      },
+      "properties": {
+        "title": "Pichsov stolp / Pichsturm",
         "ele": "2079",
         "flights": 0,
         "top": {
@@ -5386,12 +5426,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.80522",
-          "46.3285521"
+          "13.8717768",
+          "46.451814"
         ]
       },
       "properties": {
-        "title": "Slatna",
+        "title": "Vrta\u0161ko Sleme",
         "ele": "2077",
         "flights": 0,
         "top": {
@@ -5406,12 +5446,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8717768",
-          "46.451814"
+          "13.80522",
+          "46.3285521"
         ]
       },
       "properties": {
-        "title": "Vrta\u0161ko Sleme",
+        "title": "Slatna",
         "ele": "2077",
         "flights": 0,
         "top": {
@@ -5606,26 +5646,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8869926",
-          "46.3813569"
-        ]
-      },
-      "properties": {
-        "title": "Veliki Pr\u0161ivec",
-        "ele": "2056",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.5474128",
           "46.3408396"
         ]
@@ -5646,13 +5666,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7800602",
-          "46.2544636"
+          "13.8869926",
+          "46.3813569"
         ]
       },
       "properties": {
-        "title": "Vrh nad \u0160krbino",
-        "ele": "2054",
+        "title": "Veliki Pr\u0161ivec",
+        "ele": "2056",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -5672,6 +5692,26 @@
       },
       "properties": {
         "title": "Glava nad Skalo",
+        "ele": "2054",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.7800602",
+          "46.2544636"
+        ]
+      },
+      "properties": {
+        "title": "Vrh nad \u0160krbino",
         "ele": "2054",
         "flights": 0,
         "top": {
@@ -5786,6 +5826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.6422716",
+          "46.4344224"
+        ]
+      },
+      "properties": {
+        "title": "Rde\u010da skala",
+        "ele": "2048",
+        "flights": 111,
+        "top": {
+          "pilot": "Ferdinand Van schelven",
+          "dist": "173.71 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.7741142",
           "46.4016066"
         ]
@@ -5797,26 +5857,6 @@
         "top": {
           "pilot": "",
           "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.6422716",
-          "46.4344224"
-        ]
-      },
-      "properties": {
-        "title": "Rde\u010da skala",
-        "ele": "2048",
-        "flights": 103,
-        "top": {
-          "pilot": "Ferdinand Van schelven",
-          "dist": "173.71 km"
         },
         "icon": "marker"
       }
@@ -5906,12 +5946,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8451511",
-          "46.3383911"
+          "13.8262439",
+          "46.4487029"
         ]
       },
       "properties": {
-        "title": "Jezerski Stog",
+        "title": "Na Pe\u010deh",
         "ele": "2039",
         "flights": 0,
         "top": {
@@ -5926,12 +5966,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8262439",
-          "46.4487029"
+          "13.8451511",
+          "46.3383911"
         ]
       },
       "properties": {
-        "title": "Na Pe\u010deh",
+        "title": "Jezerski Stog",
         "ele": "2039",
         "flights": 0,
         "top": {
@@ -6006,12 +6046,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7761098",
-          "46.365098"
+          "13.9611985",
+          "46.5006223"
         ]
       },
       "properties": {
-        "title": "Veliki Konj",
+        "title": "Gubno / H\u00fchnerkogel",
         "ele": "2034",
         "flights": 0,
         "top": {
@@ -6026,12 +6066,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9611985",
-          "46.5006223"
+          "13.7761098",
+          "46.365098"
         ]
       },
       "properties": {
-        "title": "Gubno / H\u00fchnerkogel",
+        "title": "Veliki Konj",
         "ele": "2034",
         "flights": 0,
         "top": {
@@ -6073,10 +6113,10 @@
       "properties": {
         "title": "Srednji vrh",
         "ele": "2032",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "marco rugo",
+          "dist": "73.54 km"
         },
         "icon": "marker"
       }
@@ -6126,12 +6166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8449273",
-          "46.3878194"
+          "13.8723642",
+          "46.4546708"
         ]
       },
       "properties": {
-        "title": "Ustoli\u010denje",
+        "title": "Votlo Sleme",
         "ele": "2029",
         "flights": 0,
         "top": {
@@ -6146,12 +6186,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8723642",
-          "46.4546708"
+          "13.8449273",
+          "46.3878194"
         ]
       },
       "properties": {
-        "title": "Votlo Sleme",
+        "title": "Ustoli\u010denje",
         "ele": "2029",
         "flights": 0,
         "top": {
@@ -6206,12 +6246,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4235897",
-          "46.4453573"
+          "14.219293",
+          "46.443241"
         ]
       },
       "properties": {
-        "title": "Mittlere Dobrowaspitze / Srednji Obli\u010d",
+        "title": "Palec/Selenitza",
         "ele": "2026",
         "flights": 0,
         "top": {
@@ -6226,12 +6266,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.219293",
-          "46.443241"
+          "14.4235897",
+          "46.4453573"
         ]
       },
       "properties": {
-        "title": "Palec/Selenitza",
+        "title": "Mittlere Dobrowaspitze / Srednji Obli\u010d",
         "ele": "2026",
         "flights": 0,
         "top": {
@@ -6286,12 +6326,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.2148103",
-          "46.4430107"
+          "13.5284824",
+          "46.375104"
         ]
       },
       "properties": {
-        "title": "Zelenjak",
+        "title": "Vrh Ribe\u017enov",
         "ele": "2024",
         "flights": 0,
         "top": {
@@ -6306,12 +6346,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5284824",
-          "46.375104"
+          "14.2148103",
+          "46.4430107"
         ]
       },
       "properties": {
-        "title": "Vrh Ribe\u017enov",
+        "title": "Zelenjak",
         "ele": "2024",
         "flights": 0,
         "top": {
@@ -6406,26 +6446,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7725977",
-          "46.2591589"
-        ]
-      },
-      "properties": {
-        "title": "Vrh Konte",
-        "ele": "2014",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.9333816",
           "46.3905974"
         ]
@@ -6446,13 +6466,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8387528",
-          "46.3408895"
+          "13.7725977",
+          "46.2591589"
         ]
       },
       "properties": {
-        "title": "Adam",
-        "ele": "2013",
+        "title": "Vrh Konte",
+        "ele": "2014",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -6486,12 +6506,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7082713",
-          "46.2946246"
+          "14.6513905",
+          "46.3608146"
         ]
       },
       "properties": {
-        "title": "Velika Baba",
+        "title": "Mala Ojstrica",
         "ele": "2013",
         "flights": 0,
         "top": {
@@ -6506,12 +6526,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6513905",
-          "46.3608146"
+          "13.8387528",
+          "46.3408895"
         ]
       },
       "properties": {
-        "title": "Mala Ojstrica",
+        "title": "Adam",
+        "ele": "2013",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.7082713",
+          "46.2946246"
+        ]
+      },
+      "properties": {
+        "title": "Velika Baba",
         "ele": "2013",
         "flights": 0,
         "top": {
@@ -6566,8 +6606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5562083",
-          "46.3963083"
+          "13.5561631",
+          "46.396337"
         ]
       },
       "properties": {
@@ -6586,12 +6626,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7324971",
-          "46.3260572"
+          "13.7196979",
+          "46.3927145"
         ]
       },
       "properties": {
-        "title": "Ru\u0161je",
+        "title": "Ple\u0161ivec",
         "ele": "2008",
         "flights": 0,
         "top": {
@@ -6606,12 +6646,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7196979",
-          "46.3927145"
+          "13.7324971",
+          "46.3260572"
         ]
       },
       "properties": {
-        "title": "Ple\u0161ivec",
+        "title": "Ru\u0161je",
         "ele": "2008",
         "flights": 0,
         "top": {
@@ -6706,12 +6746,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4243823",
-          "46.4456798"
+          "13.7248198",
+          "46.2967951"
         ]
       },
       "properties": {
-        "title": "\u00d6stliche Dobrowaspitze / Vzhodni Obli\u010d",
+        "title": "Lan\u017eevica",
         "ele": "2003",
         "flights": 0,
         "top": {
@@ -6726,12 +6766,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7248198",
-          "46.2967951"
+          "14.4243823",
+          "46.4456798"
         ]
       },
       "properties": {
-        "title": "Lan\u017eevica",
+        "title": "\u00d6stliche Dobrowaspitze / Vzhodni Obli\u010d",
         "ele": "2003",
         "flights": 0,
         "top": {
@@ -6866,12 +6906,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.1849741",
-          "46.4391124"
+          "13.6545997",
+          "46.362047"
         ]
       },
       "properties": {
-        "title": "Jelen\u010dka/Edelwei\u00dfspitze",
+        "title": "Vrh Ru\u0161",
         "ele": "1995",
         "flights": 0,
         "top": {
@@ -6886,12 +6926,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6545997",
-          "46.362047"
+          "14.1849741",
+          "46.4391124"
         ]
       },
       "properties": {
-        "title": "Vrh Ru\u0161",
+        "title": "Jelen\u010dka/Edelwei\u00dfspitze",
         "ele": "1995",
         "flights": 0,
         "top": {
@@ -6926,26 +6966,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6385533",
-          "46.4321681"
-        ]
-      },
-      "properties": {
-        "title": "Mali vrh",
-        "ele": "1992",
-        "flights": 105,
-        "top": {
-          "pilot": "Ferdinand Van schelven",
-          "dist": "173.71 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.4684309",
           "46.3412617"
         ]
@@ -6957,6 +6977,26 @@
         "top": {
           "pilot": "",
           "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.6385533",
+          "46.4321681"
+        ]
+      },
+      "properties": {
+        "title": "Mali vrh",
+        "ele": "1992",
+        "flights": 111,
+        "top": {
+          "pilot": "Ferdinand Van schelven",
+          "dist": "173.71 km"
         },
         "icon": "marker"
       }
@@ -7146,26 +7186,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.2237946",
-          "46.4205733"
-        ]
-      },
-      "properties": {
-        "title": "Srednji vrh",
-        "ele": "1978",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.6600003",
           "46.3453109"
         ]
@@ -7192,6 +7212,26 @@
       },
       "properties": {
         "title": "Baba piccola / Mala Baba",
+        "ele": "1978",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.2237946",
+          "46.4205733"
+        ]
+      },
+      "properties": {
+        "title": "Srednji vrh",
         "ele": "1978",
         "flights": 0,
         "top": {
@@ -7286,26 +7326,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5411511",
-          "46.3898871"
-        ]
-      },
-      "properties": {
-        "title": "Mogenza grande / Veliki Sne\u017eni vrh",
-        "ele": "1972",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.5415901",
           "46.3088586"
         ]
@@ -7317,6 +7337,26 @@
         "top": {
           "pilot": "Igor Kremsar",
           "dist": "3.08 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.5411511",
+          "46.3898871"
+        ]
+      },
+      "properties": {
+        "title": "Mogenza grande / Veliki Sne\u017eni vrh",
+        "ele": "1972",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
         },
         "icon": "marker"
       }
@@ -7353,6 +7393,26 @@
       "properties": {
         "title": "Ko\u0161utica / Loibler Baba",
         "ele": "1968",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.6822355",
+          "46.3539111"
+        ]
+      },
+      "properties": {
+        "title": "Dleskovec",
+        "ele": "1967",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -7406,52 +7466,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6822355",
-          "46.3539111"
-        ]
-      },
-      "properties": {
-        "title": "Dleskovec",
-        "ele": "1967",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.9196018",
           "46.3777593"
         ]
       },
       "properties": {
         "title": "Mre\u017ece",
-        "ele": "1965",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.9314048",
-          "46.386127"
-        ]
-      },
-      "properties": {
-        "title": "Okrogle\u017e",
         "ele": "1965",
         "flights": 0,
         "top": {
@@ -7486,13 +7506,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8652269",
-          "46.2277024"
+          "13.9314048",
+          "46.386127"
         ]
       },
       "properties": {
-        "title": "Rodica",
-        "ele": "1963",
+        "title": "Okrogle\u017e",
+        "ele": "1965",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -7506,13 +7526,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9754474",
-          "46.4981892"
+          "13.8652269",
+          "46.2277024"
         ]
       },
       "properties": {
-        "title": "Lepa Plevelnica",
-        "ele": "1959",
+        "title": "Rodica",
+        "ele": "1963",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -7552,6 +7572,26 @@
       },
       "properties": {
         "title": "Debeli vrh",
+        "ele": "1959",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.9754474",
+          "46.4981892"
+        ]
+      },
+      "properties": {
+        "title": "Lepa Plevelnica",
         "ele": "1959",
         "flights": 0,
         "top": {
@@ -7686,12 +7726,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9030145",
-          "46.3659726"
+          "13.6641125",
+          "46.2707763"
         ]
       },
       "properties": {
-        "title": "Veliki Seli\u0161nik",
+        "title": "Glavica",
         "ele": "1954",
         "flights": 0,
         "top": {
@@ -7706,12 +7746,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6641125",
-          "46.2707763"
+          "13.9030145",
+          "46.3659726"
         ]
       },
       "properties": {
-        "title": "Glavica",
+        "title": "Veliki Seli\u0161nik",
         "ele": "1954",
         "flights": 0,
         "top": {
@@ -7806,12 +7846,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.1228748",
-          "46.4727414"
+          "13.8647101",
+          "46.3712034"
         ]
       },
       "properties": {
-        "title": "B\u00e4rentaler Kotschna / Stru\u0161ka",
+        "title": "Arhova glava",
         "ele": "1944",
         "flights": 0,
         "top": {
@@ -7826,12 +7866,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8647101",
-          "46.3712034"
+          "14.1228748",
+          "46.4727414"
         ]
       },
       "properties": {
-        "title": "Arhova glava",
+        "title": "B\u00e4rentaler Kotschna / Stru\u0161ka",
         "ele": "1944",
         "flights": 0,
         "top": {
@@ -7993,10 +8033,10 @@
       "properties": {
         "title": "Matajurski vrh",
         "ele": "1936",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Lino Dani",
+          "dist": "28.22 km"
         },
         "icon": "marker"
       }
@@ -8166,12 +8206,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7452418",
-          "46.2743659"
+          "14.7548217",
+          "46.4186531"
         ]
       },
       "properties": {
-        "title": "Vrh \u0160krli",
+        "title": "Lane\u017e",
         "ele": "1925",
         "flights": 0,
         "top": {
@@ -8186,12 +8226,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.7548217",
-          "46.4186531"
+          "13.7452418",
+          "46.2743659"
         ]
       },
       "properties": {
-        "title": "Lane\u017e",
+        "title": "Vrh \u0160krli",
         "ele": "1925",
         "flights": 0,
         "top": {
@@ -8226,12 +8266,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.610755",
-          "46.4416041"
+          "13.8125179",
+          "46.238322"
         ]
       },
       "properties": {
-        "title": "Mala Ru\u0161a / Punta dei Camosci",
+        "title": "Vogel",
         "ele": "1922",
         "flights": 0,
         "top": {
@@ -8246,12 +8286,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8125179",
-          "46.238322"
+          "13.610755",
+          "46.4416041"
         ]
       },
       "properties": {
-        "title": "Vogel",
+        "title": "Mala Ru\u0161a / Punta dei Camosci",
         "ele": "1922",
         "flights": 0,
         "top": {
@@ -8326,12 +8366,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.60038",
-          "46.4383392"
+          "13.707085",
+          "46.2916544"
         ]
       },
       "properties": {
-        "title": "Vr\u0161i\u010d / Ursic di Raibl",
+        "title": "Zelena \u0161krbina",
         "ele": "1918",
         "flights": 0,
         "top": {
@@ -8346,12 +8386,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.707085",
-          "46.2916544"
+          "13.60038",
+          "46.4383392"
         ]
       },
       "properties": {
-        "title": "Zelena \u0161krbina",
+        "title": "Vr\u0161i\u010d / Ursic di Raibl",
         "ele": "1918",
         "flights": 0,
         "top": {
@@ -8486,12 +8526,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7264851",
-          "46.4460072"
+          "14.6748121",
+          "46.4506914"
         ]
       },
       "properties": {
-        "title": "Slemenova \u0161pica",
+        "title": "Obel Kamen",
         "ele": "1911",
         "flights": 0,
         "top": {
@@ -8506,12 +8546,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6748121",
-          "46.4506914"
+          "13.7264851",
+          "46.4460072"
         ]
       },
       "properties": {
-        "title": "Obel Kamen",
+        "title": "Slemenova \u0161pica",
         "ele": "1911",
         "flights": 0,
         "top": {
@@ -8726,12 +8766,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7921225",
-          "46.2567216"
+          "13.8095968",
+          "46.2399027"
         ]
       },
       "properties": {
-        "title": "Bohinjski Migovec",
+        "title": "Vrh Krnic",
         "ele": "1896",
         "flights": 0,
         "top": {
@@ -8746,12 +8786,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8095968",
-          "46.2399027"
+          "13.7921225",
+          "46.2567216"
         ]
       },
       "properties": {
-        "title": "Vrh Krnic",
+        "title": "Bohinjski Migovec",
         "ele": "1896",
         "flights": 0,
         "top": {
@@ -8786,8 +8826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6939753",
-          "46.2487178"
+          "13.6941528",
+          "46.2491387"
         ]
       },
       "properties": {
@@ -8886,12 +8926,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7707319",
-          "46.3628934"
+          "13.9353137",
+          "46.3916906"
         ]
       },
       "properties": {
-        "title": "Velika glava",
+        "title": "Zob",
         "ele": "1883",
         "flights": 0,
         "top": {
@@ -8906,12 +8946,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9353137",
-          "46.3916906"
+          "13.7707319",
+          "46.3628934"
         ]
       },
       "properties": {
-        "title": "Zob",
+        "title": "Velika glava",
         "ele": "1883",
         "flights": 0,
         "top": {
@@ -9486,6 +9526,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.5367454",
+          "46.2996823"
+        ]
+      },
+      "properties": {
+        "title": "Krvavec",
+        "ele": "1853",
+        "flights": 42,
+        "top": {
+          "pilot": "Jost Napret",
+          "dist": "219.34 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.4392289",
           "46.3394582"
         ]
@@ -9497,26 +9557,6 @@
         "top": {
           "pilot": "",
           "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.5367454",
-          "46.2996823"
-        ]
-      },
-      "properties": {
-        "title": "Krvavec",
-        "ele": "1853",
-        "flights": 41,
-        "top": {
-          "pilot": "Jost Napret",
-          "dist": "219.34 km"
         },
         "icon": "marker"
       }
@@ -9606,26 +9646,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8042063",
-          "46.2298643"
-        ]
-      },
-      "properties": {
-        "title": "\u017dabi\u0161ki kuk",
-        "ele": "1844",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.9316373",
           "46.2311573"
         ]
@@ -9637,6 +9657,26 @@
         "top": {
           "pilot": "Pavol Tropp",
           "dist": "27.79 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.8042063",
+          "46.2298643"
+        ]
+      },
+      "properties": {
+        "title": "\u017dabi\u0161ki kuk",
+        "ele": "1844",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
         },
         "icon": "marker"
       }
@@ -10086,12 +10126,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6154375",
-          "46.3447999"
+          "13.4436855",
+          "46.3336752"
         ]
       },
       "properties": {
-        "title": "Stani\u010dev vrh",
+        "title": "Mulaz",
         "ele": "1804",
         "flights": 0,
         "top": {
@@ -10106,12 +10146,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.4436855",
-          "46.3336752"
+          "14.6154375",
+          "46.3447999"
         ]
       },
       "properties": {
-        "title": "Mulaz",
+        "title": "Stani\u010dev vrh",
         "ele": "1804",
         "flights": 0,
         "top": {
@@ -10506,26 +10546,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5923173",
-          "46.2893175"
-        ]
-      },
-      "properties": {
-        "title": "Krasji vrh",
-        "ele": "1768",
-        "flights": 5,
-        "top": {
-          "pilot": "Gixn Fly",
-          "dist": "47.63 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.7996414",
           "46.3015092"
         ]
@@ -10546,6 +10566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.5923173",
+          "46.2893175"
+        ]
+      },
+      "properties": {
+        "title": "Krasji vrh",
+        "ele": "1768",
+        "flights": 5,
+        "top": {
+          "pilot": "Gixn Fly",
+          "dist": "47.63 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.5711217",
           "46.2950137"
         ]
@@ -10553,10 +10593,10 @@
       "properties": {
         "title": "Veliki vrh",
         "ele": "1764",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Johannes Juri",
+          "dist": "7.30 km"
         },
         "icon": "marker"
       }
@@ -10746,12 +10786,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8959447",
-          "46.5127988"
+          "14.6404042",
+          "46.3345136"
         ]
       },
       "properties": {
-        "title": "Ti\u0161lerica",
+        "title": "Lu\u010dka kopa",
         "ele": "1755",
         "flights": 0,
         "top": {
@@ -10766,12 +10806,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6404042",
-          "46.3345136"
+          "13.8959447",
+          "46.5127988"
         ]
       },
       "properties": {
-        "title": "Lu\u010dka kopa",
+        "title": "Ti\u0161lerica",
         "ele": "1755",
         "flights": 0,
         "top": {
@@ -10946,6 +10986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.4979261",
+          "46.3716538"
+        ]
+      },
+      "properties": {
+        "title": "Veliki vrh",
+        "ele": "1742",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.7054068",
           "46.430801"
         ]
@@ -11006,12 +11066,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7465664",
-          "46.4340698"
+          "13.8180339",
+          "46.5101636"
         ]
       },
       "properties": {
-        "title": "Vr\u0161i\u010d",
+        "title": "Woschza / Vo\u0161ca",
         "ele": "1737",
         "flights": 0,
         "top": {
@@ -11026,12 +11086,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8180339",
-          "46.5101636"
+          "13.7465664",
+          "46.4340698"
         ]
       },
       "properties": {
-        "title": "Woschza / Vo\u0161ca",
+        "title": "Vr\u0161i\u010d",
         "ele": "1737",
         "flights": 0,
         "top": {
@@ -11286,12 +11346,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.804019",
-          "46.4278104"
+          "14.586933",
+          "46.3989574"
         ]
       },
       "properties": {
-        "title": "Mizica",
+        "title": "Matkov Grintovec",
         "ele": "1711",
         "flights": 0,
         "top": {
@@ -11306,12 +11366,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.586933",
-          "46.3989574"
+          "13.804019",
+          "46.4278104"
         ]
       },
       "properties": {
-        "title": "Matkov Grintovec",
+        "title": "Mizica",
         "ele": "1711",
         "flights": 0,
         "top": {
@@ -11446,17 +11506,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6265662",
-          "46.3177439"
+          "14.9615819",
+          "46.4855653"
         ]
       },
       "properties": {
-        "title": "Vr\u0161i\u010di",
+        "title": "Ur\u0161lja gora",
         "ele": "1699",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Mitja Jug",
+          "dist": "44.99 km"
         },
         "icon": "marker"
       }
@@ -11466,12 +11526,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.9615819",
-          "46.4855653"
+          "13.6265662",
+          "46.3177439"
         ]
       },
       "properties": {
-        "title": "Ur\u0161lja gora",
+        "title": "Vr\u0161i\u010di",
         "ele": "1699",
         "flights": 0,
         "top": {
@@ -11497,26 +11557,6 @@
         "top": {
           "pilot": "Tam\u00e1s Sz\u00e9pe",
           "dist": "29.97 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.4975769",
-          "46.3724237"
-        ]
-      },
-      "properties": {
-        "title": "Veliki vrh",
-        "ele": "1696",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
         },
         "icon": "marker"
       }
@@ -11606,26 +11646,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4199623",
-          "46.3954402"
-        ]
-      },
-      "properties": {
-        "title": "Stegovnik",
-        "ele": "1692",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.8854483",
           "46.2397531"
         ]
@@ -11646,13 +11666,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7068571",
-          "46.2524834"
+          "14.4199623",
+          "46.3954402"
         ]
       },
       "properties": {
-        "title": "Vrh Lipnika",
-        "ele": "1688",
+        "title": "Stegovnik",
+        "ele": "1692",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -11672,6 +11692,26 @@
       },
       "properties": {
         "title": "Studor",
+        "ele": "1688",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.7068571",
+          "46.2524834"
+        ]
+      },
+      "properties": {
+        "title": "Vrh Lipnika",
         "ele": "1688",
         "flights": 0,
         "top": {
@@ -11726,26 +11766,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.8463754",
-          "46.4181107"
-        ]
-      },
-      "properties": {
-        "title": "Komen",
-        "ele": "1684",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.4524959",
           "45.5857151"
         ]
@@ -11772,6 +11792,26 @@
       },
       "properties": {
         "title": "Prednja glava",
+        "ele": "1684",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.8463754",
+          "46.4181107"
+        ]
+      },
+      "properties": {
+        "title": "Komen",
         "ele": "1684",
         "flights": 0,
         "top": {
@@ -11813,7 +11853,7 @@
       "properties": {
         "title": "Orlova glava",
         "ele": "1682",
-        "flights": 236,
+        "flights": 282,
         "top": {
           "pilot": "Pavel Titov",
           "dist": "184.31 km"
@@ -11913,10 +11953,30 @@
       "properties": {
         "title": "Stol",
         "ele": "1673",
-        "flights": 21,
+        "flights": 22,
         "top": {
           "pilot": "Frank Spurfeld",
           "dist": "157.11 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0917417",
+          "46.2375915"
+        ]
+      },
+      "properties": {
+        "title": "Gladki vrh",
+        "ele": "1667",
+        "flights": 248,
+        "top": {
+          "pilot": "Balazs Racz",
+          "dist": "83.20 km"
         },
         "icon": "marker"
       }
@@ -11946,26 +12006,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0917417",
-          "46.2375915"
-        ]
-      },
-      "properties": {
-        "title": "Gladki vrh",
-        "ele": "1667",
-        "flights": 237,
-        "top": {
-          "pilot": "Balazs Racz",
-          "dist": "83.20 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.383631",
           "46.382591"
         ]
@@ -11973,26 +12013,6 @@
       "properties": {
         "title": "Javor\u010de",
         "ele": "1667",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.7624551",
-          "46.4574815"
-        ]
-      },
-      "properties": {
-        "title": "Veliki Kumleh",
-        "ele": "1664",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -12026,13 +12046,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5565105",
-          "46.2977038"
+          "13.7624551",
+          "46.4574815"
         ]
       },
       "properties": {
-        "title": "Pirhovec",
-        "ele": "1663",
+        "title": "Veliki Kumleh",
+        "ele": "1664",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -12052,6 +12072,26 @@
       },
       "properties": {
         "title": "Monte Plagne / Vrh Planje",
+        "ele": "1663",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.5565105",
+          "46.2977038"
+        ]
+      },
+      "properties": {
+        "title": "Pirhovec",
         "ele": "1663",
         "flights": 0,
         "top": {
@@ -12146,12 +12186,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7636107",
-          "46.3944646"
+          "13.6107892",
+          "46.3504189"
         ]
       },
       "properties": {
-        "title": "Vrh nad Velikim Prosekom",
+        "title": "Svinjak",
         "ele": "1653",
         "flights": 0,
         "top": {
@@ -12186,33 +12226,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6107892",
-          "46.3504189"
+          "13.7636107",
+          "46.3944646"
         ]
       },
       "properties": {
-        "title": "Svinjak",
+        "title": "Vrh nad Velikim Prosekom",
         "ele": "1653",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.479378",
-          "46.4133963"
-        ]
-      },
-      "properties": {
-        "title": "Virnikov Grintavec / Kleiner Grintoutz",
-        "ele": "1649",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -12246,6 +12266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.479378",
+          "46.4133963"
+        ]
+      },
+      "properties": {
+        "title": "Virnikov Grintavec / Kleiner Grintoutz",
+        "ele": "1649",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.7031645",
           "46.4317457"
         ]
@@ -12253,6 +12293,26 @@
       "properties": {
         "title": "Na Kumlih",
         "ele": "1648",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.7334441",
+          "46.4609017"
+        ]
+      },
+      "properties": {
+        "title": "Suhi vrh",
+        "ele": "1645",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -12292,26 +12352,6 @@
       },
       "properties": {
         "title": "Turn v Skednju",
-        "ele": "1645",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.7334441",
-          "46.4609017"
-        ]
-      },
-      "properties": {
-        "title": "Suhi vrh",
         "ele": "1645",
         "flights": 0,
         "top": {
@@ -12613,7 +12653,7 @@
       "properties": {
         "title": "Veliki Muzec",
         "ele": "1629",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Leopold Stepan",
           "dist": "159.09 km"
@@ -12666,26 +12706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.449017",
-          "45.5958506"
-        ]
-      },
-      "properties": {
-        "title": "Karolinov vrh",
-        "ele": "1624",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.5959725",
           "46.4368202"
         ]
@@ -12706,13 +12726,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.827391",
-          "46.3162555"
+          "14.449017",
+          "45.5958506"
         ]
       },
       "properties": {
-        "title": "Miz\u010dna glava",
-        "ele": "1622",
+        "title": "Karolinov vrh",
+        "ele": "1624",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -12732,6 +12752,26 @@
       },
       "properties": {
         "title": "Cima Predil / Predelske glave",
+        "ele": "1622",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.827391",
+          "46.3162555"
+        ]
+      },
+      "properties": {
+        "title": "Miz\u010dna glava",
         "ele": "1622",
         "flights": 0,
         "top": {
@@ -12933,7 +12973,7 @@
       "properties": {
         "title": "Mali Muzec",
         "ele": "1612",
-        "flights": 3,
+        "flights": 4,
         "top": {
           "pilot": "Peter Feichtinger",
           "dist": "85.77 km"
@@ -12973,10 +13013,10 @@
       "properties": {
         "title": "Slatnik",
         "ele": "1609",
-        "flights": 2,
+        "flights": 4,
         "top": {
-          "pilot": "HOFFI .",
-          "dist": "51.73 km"
+          "pilot": "Petr Hanka",
+          "dist": "142.79 km"
         },
         "icon": "marker"
       }
@@ -13053,7 +13093,7 @@
       "properties": {
         "title": "Slatnik",
         "ele": "1599",
-        "flights": 14,
+        "flights": 16,
         "top": {
           "pilot": "Francesco Bianchessi",
           "dist": "221.78 km"
@@ -13113,7 +13153,7 @@
       "properties": {
         "title": "Kor",
         "ele": "1597",
-        "flights": 6,
+        "flights": 9,
         "top": {
           "pilot": "Francesco Bianchessi",
           "dist": "213.96 km"
@@ -13166,12 +13206,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4506156",
-          "45.5983654"
+          "13.9555566",
+          "46.4429131"
         ]
       },
       "properties": {
-        "title": "Kali\u0161ki vrh",
+        "title": "Jerebikovec",
         "ele": "1593",
         "flights": 0,
         "top": {
@@ -13186,12 +13226,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9555566",
-          "46.4429131"
+          "14.4506156",
+          "45.5983654"
         ]
       },
       "properties": {
-        "title": "Jerebikovec",
+        "title": "Kali\u0161ki vrh",
         "ele": "1593",
         "flights": 0,
         "top": {
@@ -13213,7 +13253,7 @@
       "properties": {
         "title": "Vratca",
         "ele": "1591",
-        "flights": 8,
+        "flights": 9,
         "top": {
           "pilot": "Rostislav Vondra",
           "dist": "56.93 km"
@@ -13346,8 +13386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.8987387",
-          "46.4180657"
+          "14.8988212",
+          "46.4181212"
         ]
       },
       "properties": {
@@ -13486,12 +13526,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.832945",
-          "46.2618932"
+          "13.7504112",
+          "46.2392423"
         ]
       },
       "properties": {
-        "title": "Rjava skala",
+        "title": "Gru\u0161nica",
         "ele": "1570",
         "flights": 0,
         "top": {
@@ -13506,12 +13546,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7504112",
-          "46.2392423"
+          "13.832945",
+          "46.2618932"
         ]
       },
       "properties": {
-        "title": "Gru\u0161nica",
+        "title": "Rjava skala",
         "ele": "1570",
         "flights": 0,
         "top": {
@@ -13566,26 +13606,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7655461",
-          "46.45013"
-        ]
-      },
-      "properties": {
-        "title": "\u0160pica v Sedelcih",
-        "ele": "1564",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.8906015",
           "46.3650384"
         ]
@@ -13606,13 +13626,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.3990781",
-          "46.2919021"
+          "13.7655461",
+          "46.45013"
         ]
       },
       "properties": {
-        "title": "Nad Ohojami",
-        "ele": "1562",
+        "title": "\u0160pica v Sedelcih",
+        "ele": "1564",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -13646,6 +13666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.3990781",
+          "46.2919021"
+        ]
+      },
+      "properties": {
+        "title": "Nad Ohojami",
+        "ele": "1562",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.45885",
           "45.585411"
         ]
@@ -13653,6 +13693,26 @@
       "properties": {
         "title": "Holarinski vrh",
         "ele": "1559",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.8743184",
+          "46.2417924"
+        ]
+      },
+      "properties": {
+        "title": "Kopica",
+        "ele": "1557",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -13706,26 +13766,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8743184",
-          "46.2417924"
-        ]
-      },
-      "properties": {
-        "title": "Kopica",
-        "ele": "1557",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.8967257",
           "46.3729748"
         ]
@@ -13733,26 +13773,6 @@
       "properties": {
         "title": "Smrekovec",
         "ele": "1556",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.6148275",
-          "46.4262378"
-        ]
-      },
-      "properties": {
-        "title": "Planja",
-        "ele": "1553",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -13786,6 +13806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.6148275",
+          "46.4262378"
+        ]
+      },
+      "properties": {
+        "title": "Planja",
+        "ele": "1553",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.7334012",
           "46.518767"
         ]
@@ -13793,7 +13833,7 @@
       "properties": {
         "title": "Petelinjek / Hahnenwipfel",
         "ele": "1552",
-        "flights": 24,
+        "flights": 25,
         "top": {
           "pilot": "Roman Zechner",
           "dist": "75.02 km"
@@ -13853,7 +13893,7 @@
       "properties": {
         "title": "Lajnar",
         "ele": "1549",
-        "flights": 1633,
+        "flights": 1717,
         "top": {
           "pilot": "Dusan Oroz",
           "dist": "323.93 km"
@@ -13873,10 +13913,10 @@
       "properties": {
         "title": "Dravh",
         "ele": "1548",
-        "flights": 72,
+        "flights": 221,
         "top": {
-          "pilot": "alfio ghezzi",
-          "dist": "262.78 km"
+          "pilot": "Arduino Persello",
+          "dist": "311.96 km"
         },
         "icon": "marker"
       }
@@ -14026,6 +14066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.1150462",
+          "46.167297"
+        ]
+      },
+      "properties": {
+        "title": "\u0160pik",
+        "ele": "1538",
+        "flights": 4,
+        "top": {
+          "pilot": "Marko Kej\u017ear",
+          "dist": "56.42 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.0500708",
           "46.2426708"
         ]
@@ -14037,26 +14097,6 @@
         "top": {
           "pilot": "",
           "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.1150462",
-          "46.167297"
-        ]
-      },
-      "properties": {
-        "title": "\u0160pik",
-        "ele": "1538",
-        "flights": 3,
-        "top": {
-          "pilot": "Borut Lapajne",
-          "dist": "7.28 km"
         },
         "icon": "marker"
       }
@@ -14106,12 +14146,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "15.2539078",
-          "46.4959124"
+          "14.6460675",
+          "46.3244684"
         ]
       },
       "properties": {
-        "title": "Mali \u010crni vrh",
+        "title": "Ja\u0161ka",
         "ele": "1536",
         "flights": 0,
         "top": {
@@ -14126,12 +14166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6460675",
-          "46.3244684"
+          "15.2539078",
+          "46.4959124"
         ]
       },
       "properties": {
-        "title": "Ja\u0161ka",
+        "title": "Mali \u010crni vrh",
         "ele": "1536",
         "flights": 0,
         "top": {
@@ -14366,26 +14406,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6665469",
-          "46.4315682"
-        ]
-      },
-      "properties": {
-        "title": "Turn",
-        "ele": "1513",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.68565",
           "46.3169056"
         ]
@@ -14406,12 +14426,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.8163271",
-          "46.2573627"
+          "13.6665469",
+          "46.4315682"
         ]
       },
       "properties": {
-        "title": "Vivodnik",
+        "title": "Turn",
+        "ele": "1513",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.7631494",
+          "46.4058994"
+        ]
+      },
+      "properties": {
+        "title": "Ru\u0161eva glava",
         "ele": "1508",
         "flights": 0,
         "top": {
@@ -14446,12 +14486,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9406054",
-          "46.48399"
+          "14.8163271",
+          "46.2573627"
         ]
       },
       "properties": {
-        "title": "Plani\u010dca",
+        "title": "Vivodnik",
         "ele": "1508",
         "flights": 0,
         "top": {
@@ -14466,12 +14506,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.7631494",
-          "46.4058994"
+          "13.9406054",
+          "46.48399"
         ]
       },
       "properties": {
-        "title": "Ru\u0161eva glava",
+        "title": "Plani\u010dca",
         "ele": "1508",
         "flights": 0,
         "top": {
@@ -14506,12 +14546,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9567746",
-          "46.239461"
+          "14.401241",
+          "46.3827832"
         ]
       },
       "properties": {
-        "title": "Mali vrh",
+        "title": "Rohotje",
         "ele": "1504",
         "flights": 0,
         "top": {
@@ -14526,12 +14566,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.401241",
-          "46.3827832"
+          "13.9567746",
+          "46.239461"
         ]
       },
       "properties": {
-        "title": "Rohotje",
+        "title": "Mali vrh",
         "ele": "1504",
         "flights": 0,
         "top": {
@@ -14586,26 +14626,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "15.323525",
-          "46.4585083"
-        ]
-      },
-      "properties": {
-        "title": "Ostru\u0161\u010dica",
-        "ele": "1498",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.8911878",
           "46.4234906"
         ]
@@ -14633,10 +14653,30 @@
       "properties": {
         "title": "Kobla",
         "ele": "1498",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Fons de Leeuw",
           "dist": "205.75 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "15.323525",
+          "46.4585083"
+        ]
+      },
+      "properties": {
+        "title": "Ostru\u0161\u010dica",
+        "ele": "1498",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
         },
         "icon": "marker"
       }
@@ -14733,30 +14773,10 @@
       "properties": {
         "title": "Nizki vrh",
         "ele": "1488",
-        "flights": 2,
+        "flights": 3,
         "top": {
           "pilot": "pavol sliva",
           "dist": "50.97 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.9092607",
-          "46.3392872"
-        ]
-      },
-      "properties": {
-        "title": "Mi\u0161\u010dovec",
-        "ele": "1486",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
         },
         "icon": "marker"
       }
@@ -14772,6 +14792,26 @@
       },
       "properties": {
         "title": "\u010crni vrh",
+        "ele": "1486",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.9092607",
+          "46.3392872"
+        ]
+      },
+      "properties": {
+        "title": "Mi\u0161\u010dovec",
         "ele": "1486",
         "flights": 0,
         "top": {
@@ -14813,7 +14853,7 @@
       "properties": {
         "title": "Viso\u010d vrh",
         "ele": "1482",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Jindra Sedlacek",
           "dist": "33.53 km"
@@ -15013,10 +15053,10 @@
       "properties": {
         "title": "Vrh Lipnika",
         "ele": "1476",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Peter \u0160imek",
-          "dist": "18.99 km"
+          "pilot": "Christian Furrer",
+          "dist": "41.13 km"
         },
         "icon": "marker"
       }
@@ -15033,7 +15073,7 @@
       "properties": {
         "title": "Kobilja glava",
         "ele": "1475",
-        "flights": 76,
+        "flights": 82,
         "top": {
           "pilot": "Viera Stieberova",
           "dist": "103.61 km"
@@ -15053,7 +15093,7 @@
       "properties": {
         "title": "Kri\u0161ka gora",
         "ele": "1472",
-        "flights": 109,
+        "flights": 110,
         "top": {
           "pilot": "Jure Kurnik",
           "dist": "135.66 km"
@@ -15166,26 +15206,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.6618374",
-          "46.2814707"
-        ]
-      },
-      "properties": {
-        "title": "Debeli rob",
-        "ele": "1459",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.5248422",
           "46.3851867"
         ]
@@ -15206,13 +15226,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4034624",
-          "45.5419403"
+          "14.6618374",
+          "46.2814707"
         ]
       },
       "properties": {
-        "title": "Zatrep",
-        "ele": "1458",
+        "title": "Debeli rob",
+        "ele": "1459",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -15232,6 +15252,26 @@
       },
       "properties": {
         "title": "Nad Pe\u010dem",
+        "ele": "1458",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.4034624",
+          "45.5419403"
+        ]
+      },
+      "properties": {
+        "title": "Zatrep",
         "ele": "1458",
         "flights": 0,
         "top": {
@@ -15266,12 +15306,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5925412",
-          "46.4120668"
+          "15.3158222",
+          "46.4478139"
         ]
       },
       "properties": {
-        "title": "Kolovrat",
+        "title": "Kragulji\u0161\u010de",
         "ele": "1454",
         "flights": 0,
         "top": {
@@ -15286,12 +15326,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "15.3158222",
-          "46.4478139"
+          "13.5925412",
+          "46.4120668"
         ]
       },
       "properties": {
-        "title": "Kragulji\u0161\u010de",
+        "title": "Kolovrat",
         "ele": "1454",
         "flights": 0,
         "top": {
@@ -15626,12 +15666,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.1388223",
-          "46.2754133"
+          "13.9834339",
+          "46.169273"
         ]
       },
       "properties": {
-        "title": "Partizanski vrh (Kotli\u010d)",
+        "title": "Medrce",
         "ele": "1411",
         "flights": 0,
         "top": {
@@ -15646,12 +15686,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9834339",
-          "46.169273"
+          "14.1388223",
+          "46.2754133"
         ]
       },
       "properties": {
-        "title": "Medrce",
+        "title": "Partizanski vrh (Kotli\u010d)",
         "ele": "1411",
         "flights": 0,
         "top": {
@@ -15766,26 +15806,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0124523",
-          "46.3428766"
-        ]
-      },
-      "properties": {
-        "title": "Koko\u0161injca",
-        "ele": "1393",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.1402218",
           "46.1760027"
         ]
@@ -15806,13 +15826,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.8514253",
-          "46.425963"
+          "14.0124523",
+          "46.3428766"
         ]
       },
       "properties": {
-        "title": "Ko\u010dnikov vrh",
-        "ele": "1391",
+        "title": "Koko\u0161injca",
+        "ele": "1393",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -15832,6 +15852,26 @@
       },
       "properties": {
         "title": "Lavrihov vrh",
+        "ele": "1391",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.8514253",
+          "46.425963"
+        ]
+      },
+      "properties": {
+        "title": "Ko\u010dnikov vrh",
         "ele": "1391",
         "flights": 0,
         "top": {
@@ -16006,12 +16046,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9572905",
-          "46.3541544"
+          "13.9628946",
+          "46.3594072"
         ]
       },
       "properties": {
-        "title": "Lipen\u0161\u010di vrh",
+        "title": "Jerebikovec",
         "ele": "1375",
         "flights": 0,
         "top": {
@@ -16026,12 +16066,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9628946",
-          "46.3594072"
+          "13.9572905",
+          "46.3541544"
         ]
       },
       "properties": {
-        "title": "Jerebikovec",
+        "title": "Lipen\u0161\u010di vrh",
         "ele": "1375",
         "flights": 0,
         "top": {
@@ -16226,6 +16266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.4138265",
+          "45.55511"
+        ]
+      },
+      "properties": {
+        "title": "Kameni vrh",
+        "ele": "1362",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.9437971",
           "46.35717"
         ]
@@ -16266,26 +16326,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4138265",
-          "45.55511"
-        ]
-      },
-      "properties": {
-        "title": "Kameni vrh",
-        "ele": "1362",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.695249",
           "46.2190157"
         ]
@@ -16293,7 +16333,7 @@
       "properties": {
         "title": "Mrzli vrh",
         "ele": "1360",
-        "flights": 16,
+        "flights": 17,
         "top": {
           "pilot": "simon oberrauner",
           "dist": "181.36 km"
@@ -16333,10 +16373,10 @@
       "properties": {
         "title": "Mrzli vrh",
         "ele": "1358",
-        "flights": 32,
+        "flights": 201,
         "top": {
-          "pilot": "Leopold Stepan",
-          "dist": "63.08 km"
+          "pilot": "Peter Wallner",
+          "dist": "91.12 km"
         },
         "icon": "marker"
       }
@@ -16353,6 +16393,26 @@
       "properties": {
         "title": "Ojstrovica",
         "ele": "1358",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.9438867",
+          "46.3099248"
+        ]
+      },
+      "properties": {
+        "title": "Javorski vrh",
+        "ele": "1355",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -16406,13 +16466,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9438867",
-          "46.3099248"
+          "14.4327199",
+          "45.5280787"
         ]
       },
       "properties": {
-        "title": "Javorski vrh",
-        "ele": "1355",
+        "title": "Timani vrh",
+        "ele": "1351",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -16432,26 +16492,6 @@
       },
       "properties": {
         "title": "Bi\u0161\u010dekova glava",
-        "ele": "1351",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.4327199",
-          "45.5280787"
-        ]
-      },
-      "properties": {
-        "title": "Timani vrh",
         "ele": "1351",
         "flights": 0,
         "top": {
@@ -16546,46 +16586,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "15.448188",
-          "46.443306"
-        ]
-      },
-      "properties": {
-        "title": "Veliki vrh",
-        "ele": "1344",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.9903907",
-          "46.1733969"
-        ]
-      },
-      "properties": {
-        "title": "Konjsko brdo",
-        "ele": "1344",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.7637073",
           "46.2539071"
         ]
@@ -16606,12 +16606,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "15.448188",
+          "46.443306"
+        ]
+      },
+      "properties": {
+        "title": "Veliki vrh",
+        "ele": "1344",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.0072893",
           "46.168056"
         ]
       },
       "properties": {
         "title": "\u010crtov rob",
+        "ele": "1344",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.9903907",
+          "46.1733969"
+        ]
+      },
+      "properties": {
+        "title": "Konjsko brdo",
         "ele": "1344",
         "flights": 0,
         "top": {
@@ -16813,30 +16853,10 @@
       "properties": {
         "title": "Srednji vrh",
         "ele": "1323",
-        "flights": 251,
+        "flights": 257,
         "top": {
           "pilot": "Richard Fritz",
           "dist": "104.12 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.3841183",
-          "45.6116027"
-        ]
-      },
-      "properties": {
-        "title": "Javor",
-        "ele": "1323",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
         },
         "icon": "marker"
       }
@@ -16852,6 +16872,26 @@
       },
       "properties": {
         "title": "Robni\u0161ke pe\u010di",
+        "ele": "1323",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.3841183",
+          "45.6116027"
+        ]
+      },
+      "properties": {
+        "title": "Javor",
         "ele": "1323",
         "flights": 0,
         "top": {
@@ -16966,26 +17006,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8536081",
-          "45.9302568"
-        ]
-      },
-      "properties": {
-        "title": "Mali Modrasovec",
-        "ele": "1306",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.9648803",
           "46.1667967"
         ]
@@ -17006,13 +17026,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0892213",
-          "46.2700578"
+          "13.8536081",
+          "45.9302568"
         ]
       },
       "properties": {
-        "title": "Javorjev vrh",
-        "ele": "1303",
+        "title": "Mali Modrasovec",
+        "ele": "1306",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -17032,6 +17052,26 @@
       },
       "properties": {
         "title": "Kojca",
+        "ele": "1303",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0892213",
+          "46.2700578"
+        ]
+      },
+      "properties": {
+        "title": "Javorjev vrh",
         "ele": "1303",
         "flights": 0,
         "top": {
@@ -17106,12 +17146,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8327945",
-          "46.0097766"
+          "14.4358313",
+          "45.5230361"
         ]
       },
       "properties": {
-        "title": "Poldanovec",
+        "title": "Orlovica",
         "ele": "1299",
         "flights": 0,
         "top": {
@@ -17146,12 +17186,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4358313",
-          "45.5230361"
+          "13.8327945",
+          "46.0097766"
         ]
       },
       "properties": {
-        "title": "Orlovica",
+        "title": "Poldanovec",
         "ele": "1299",
         "flights": 0,
         "top": {
@@ -17253,7 +17293,7 @@
       "properties": {
         "title": "Dr\u017eetina",
         "ele": "1291",
-        "flights": 43,
+        "flights": 44,
         "top": {
           "pilot": "P\u00e1l Tarpataki",
           "dist": "47.04 km"
@@ -17466,12 +17506,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.7883594",
-          "46.4095107"
+          "14.0889932",
+          "46.1756503"
         ]
       },
       "properties": {
-        "title": "Sedlo",
+        "title": "Kovk",
         "ele": "1274",
         "flights": 0,
         "top": {
@@ -17486,12 +17526,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0889932",
-          "46.1756503"
+          "14.7883594",
+          "46.4095107"
         ]
       },
       "properties": {
-        "title": "Kovk",
+        "title": "Sedlo",
         "ele": "1274",
         "flights": 0,
         "top": {
@@ -17566,6 +17606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.011767",
+          "46.4217257"
+        ]
+      },
+      "properties": {
+        "title": "Oblek",
+        "ele": "1269",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.2949783",
           "45.7580588"
         ]
@@ -17592,26 +17652,6 @@
       },
       "properties": {
         "title": "Robija",
-        "ele": "1269",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.011767",
-          "46.4217257"
-        ]
-      },
-      "properties": {
-        "title": "Oblek",
         "ele": "1269",
         "flights": 0,
         "top": {
@@ -17666,26 +17706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0370227",
-          "46.3314138"
-        ]
-      },
-      "properties": {
-        "title": "Galetovec",
-        "ele": "1265",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.8064915",
           "45.9360777"
         ]
@@ -17697,6 +17717,26 @@
         "top": {
           "pilot": "Stanislav T\u0159ebe\u0161ka",
           "dist": "38.21 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0370227",
+          "46.3314138"
+        ]
+      },
+      "properties": {
+        "title": "Galetovec",
+        "ele": "1265",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
         },
         "icon": "marker"
       }
@@ -17733,10 +17773,10 @@
       "properties": {
         "title": "Ple\u0161a",
         "ele": "1262",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "dean lozei",
+          "dist": "11.11 km"
         },
         "icon": "marker"
       }
@@ -17786,12 +17826,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0363539",
-          "46.3391119"
+          "14.5798137",
+          "46.2879294"
         ]
       },
       "properties": {
-        "title": "Turn",
+        "title": "Kamni\u0161ki vrh",
         "ele": "1259",
         "flights": 0,
         "top": {
@@ -17806,12 +17846,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.5798137",
-          "46.2879294"
+          "14.0363539",
+          "46.3391119"
         ]
       },
       "properties": {
-        "title": "Kamni\u0161ki vrh",
+        "title": "Turn",
         "ele": "1259",
         "flights": 0,
         "top": {
@@ -17946,12 +17986,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5630151",
-          "46.2012288"
+          "14.5721672",
+          "46.2881941"
         ]
       },
       "properties": {
-        "title": "Monte Nalasco/Sleme",
+        "title": "Planjava",
         "ele": "1251",
         "flights": 0,
         "top": {
@@ -17966,12 +18006,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.5721672",
-          "46.2881941"
+          "13.5630151",
+          "46.2012288"
         ]
       },
       "properties": {
-        "title": "Planjava",
+        "title": "Monte Nalasco/Sleme",
         "ele": "1251",
         "flights": 0,
         "top": {
@@ -18013,10 +18053,10 @@
       "properties": {
         "title": "Jesenovec",
         "ele": "1247",
-        "flights": 0,
+        "flights": 1,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Istv\u00e1n P\u00e1l",
+          "dist": "51.79 km"
         },
         "icon": "marker"
       }
@@ -18033,7 +18073,7 @@
       "properties": {
         "title": "Kuk",
         "ele": "1243",
-        "flights": 111,
+        "flights": 113,
         "top": {
           "pilot": "Poje Jo\u017ee",
           "dist": "143.38 km"
@@ -18086,12 +18126,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3018785",
-          "45.7472041"
+          "14.0569118",
+          "45.7927875"
         ]
       },
       "properties": {
-        "title": "Veliki Ko\u017eljek",
+        "title": "Boljunov vrh",
         "ele": "1240",
         "flights": 0,
         "top": {
@@ -18106,12 +18146,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0569118",
-          "45.7927875"
+          "14.3018785",
+          "45.7472041"
         ]
       },
       "properties": {
-        "title": "Boljunov vrh",
+        "title": "Veliki Ko\u017eljek",
         "ele": "1240",
         "flights": 0,
         "top": {
@@ -18166,6 +18206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.4778032",
+          "46.3190946"
+        ]
+      },
+      "properties": {
+        "title": "Slaparjeva gora",
+        "ele": "1237",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.4786332",
           "46.2216914"
         ]
@@ -18193,10 +18253,10 @@
       "properties": {
         "title": "Veliki rob",
         "ele": "1237",
-        "flights": 1,
+        "flights": 2,
         "top": {
-          "pilot": "Vlastimil Kricnar Jr",
-          "dist": "18.58 km"
+          "pilot": "Stanislav T\u0159ebe\u0161ka",
+          "dist": "38.21 km"
         },
         "icon": "marker"
       }
@@ -18206,13 +18266,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4778032",
-          "46.3190946"
+          "14.316226",
+          "45.7546895"
         ]
       },
       "properties": {
-        "title": "Slaparjeva gora",
-        "ele": "1237",
+        "title": "Kali\u010d",
+        "ele": "1236",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -18246,13 +18306,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.316226",
-          "45.7546895"
+          "14.3689289",
+          "45.5439898"
         ]
       },
       "properties": {
-        "title": "Kali\u010d",
-        "ele": "1236",
+        "title": "Mali Razbor",
+        "ele": "1235",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -18266,13 +18326,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3689289",
-          "45.5439898"
+          "14.6732488",
+          "45.6655893"
         ]
       },
       "properties": {
-        "title": "Mali Razor",
-        "ele": "1235",
+        "title": "Su\u0161ni breg",
+        "ele": "1231",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -18306,46 +18366,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.5240995",
-          "46.2638995"
-        ]
-      },
-      "properties": {
-        "title": "Na Vrhu",
-        "ele": "1231",
-        "flights": 1,
-        "top": {
-          "pilot": "Richard Fritz",
-          "dist": "57.81 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.6732488",
-          "45.6655893"
-        ]
-      },
-      "properties": {
-        "title": "Su\u0161ni breg",
-        "ele": "1231",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.7136199",
           "45.6884049"
         ]
@@ -18357,6 +18377,26 @@
         "top": {
           "pilot": "",
           "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.5240995",
+          "46.2638995"
+        ]
+      },
+      "properties": {
+        "title": "Na Vrhu",
+        "ele": "1231",
+        "flights": 1,
+        "top": {
+          "pilot": "Richard Fritz",
+          "dist": "57.81 km"
         },
         "icon": "marker"
       }
@@ -18393,6 +18433,26 @@
       "properties": {
         "title": "Kozamur\u0161ki vrh",
         "ele": "1227",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.6374369",
+          "46.2675173"
+        ]
+      },
+      "properties": {
+        "title": "Kuk",
+        "ele": "1224",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -18446,26 +18506,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6374369",
-          "46.2675173"
-        ]
-      },
-      "properties": {
-        "title": "Kuk",
-        "ele": "1224",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.0767979",
           "46.4477763"
         ]
@@ -18473,46 +18513,6 @@
       "properties": {
         "title": "Len\u010dkov \u0160pik",
         "ele": "1223",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.7869714",
-          "46.451907"
-        ]
-      },
-      "properties": {
-        "title": "Kne\u017eeva \u0161pica",
-        "ele": "1222",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.2878861",
-          "45.7618593"
-        ]
-      },
-      "properties": {
-        "title": "Urhov gri\u010d",
-        "ele": "1222",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -18566,6 +18566,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.2878861",
+          "45.7618593"
+        ]
+      },
+      "properties": {
+        "title": "Urhov gri\u010d",
+        "ele": "1222",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.7869714",
+          "46.451907"
+        ]
+      },
+      "properties": {
+        "title": "Kne\u017eeva \u0161pica",
+        "ele": "1222",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.3559659",
           "45.5543536"
         ]
@@ -18573,6 +18613,46 @@
       "properties": {
         "title": "Kljunovec",
         "ele": "1221",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "15.0741663",
+          "46.0883324"
+        ]
+      },
+      "properties": {
+        "title": "Kum",
+        "ele": "1220",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.9316751",
+          "46.4327397"
+        ]
+      },
+      "properties": {
+        "title": "Osekani vrh",
+        "ele": "1220",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -18612,46 +18692,6 @@
       },
       "properties": {
         "title": "Rakitni vrh",
-        "ele": "1220",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.9316751",
-          "46.4327397"
-        ]
-      },
-      "properties": {
-        "title": "Osekani vrh",
-        "ele": "1220",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "15.0741663",
-          "46.0883324"
-        ]
-      },
-      "properties": {
-        "title": "Kum",
         "ele": "1220",
         "flights": 0,
         "top": {
@@ -18706,26 +18746,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.1763569",
-          "46.1705354"
-        ]
-      },
-      "properties": {
-        "title": "Stari vrh",
-        "ele": "1217",
-        "flights": 4,
-        "top": {
-          "pilot": "Andrej Erzno\u017enik",
-          "dist": "115.65 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.0792218",
           "45.8898894"
         ]
@@ -18737,6 +18757,26 @@
         "top": {
           "pilot": "",
           "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.1763569",
+          "46.1705354"
+        ]
+      },
+      "properties": {
+        "title": "Stari vrh",
+        "ele": "1217",
+        "flights": 5,
+        "top": {
+          "pilot": "Andrej Erzno\u017enik",
+          "dist": "115.65 km"
         },
         "icon": "marker"
       }
@@ -18906,7 +18946,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3460524",
+          "14.3461653",
           "45.5589294"
         ]
       },
@@ -18966,12 +19006,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.5166864",
-          "46.3071322"
+          "14.7645238",
+          "45.5465578"
         ]
       },
       "properties": {
-        "title": "Turna",
+        "title": "Cerk",
         "ele": "1192",
         "flights": 0,
         "top": {
@@ -18986,12 +19026,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.7645238",
-          "45.5465578"
+          "14.5166864",
+          "46.3071322"
         ]
       },
       "properties": {
-        "title": "Cerk",
+        "title": "Turna",
         "ele": "1192",
         "flights": 0,
         "top": {
@@ -19046,12 +19086,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3675369",
-          "45.6080621"
+          "14.7138061",
+          "46.4173941"
         ]
       },
       "properties": {
-        "title": "Gomila",
+        "title": "Mali vrh",
         "ele": "1190",
         "flights": 0,
         "top": {
@@ -19066,12 +19106,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.7138061",
-          "46.4173941"
+          "14.3675369",
+          "45.6080621"
         ]
       },
       "properties": {
-        "title": "Mali vrh",
+        "title": "Gomila",
         "ele": "1190",
         "flights": 0,
         "top": {
@@ -19113,26 +19153,6 @@
       "properties": {
         "title": "Tolsti vrh",
         "ele": "1185",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.6121249",
-          "46.3224675"
-        ]
-      },
-      "properties": {
-        "title": "Belska kopa",
-        "ele": "1184",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -19192,6 +19212,26 @@
       },
       "properties": {
         "title": "Police",
+        "ele": "1184",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.6121249",
+          "46.3224675"
+        ]
+      },
+      "properties": {
+        "title": "Belska kopa",
         "ele": "1184",
         "flights": 0,
         "top": {
@@ -19306,26 +19346,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0016239",
-          "46.1781411"
-        ]
-      },
-      "properties": {
-        "title": "Lom",
-        "ele": "1176",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.0574774",
           "45.9022359"
         ]
@@ -19352,6 +19372,26 @@
       },
       "properties": {
         "title": "Sladki vrh",
+        "ele": "1176",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0016239",
+          "46.1781411"
+        ]
+      },
+      "properties": {
+        "title": "Lom",
         "ele": "1176",
         "flights": 0,
         "top": {
@@ -19466,26 +19506,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3475008",
-          "45.5962121"
-        ]
-      },
-      "properties": {
-        "title": "Konj",
-        "ele": "1170",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.9643166",
           "46.1923151"
         ]
@@ -19526,13 +19546,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3924088",
-          "45.6917623"
+          "14.3475008",
+          "45.5962121"
         ]
       },
       "properties": {
-        "title": "Javorje",
-        "ele": "1169",
+        "title": "Konj",
+        "ele": "1170",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -19552,6 +19572,26 @@
       },
       "properties": {
         "title": "Konfinov vrh",
+        "ele": "1169",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.3924088",
+          "45.6917623"
+        ]
+      },
+      "properties": {
+        "title": "Javorje",
         "ele": "1169",
         "flights": 0,
         "top": {
@@ -19666,12 +19706,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0537662",
-          "45.8723982"
+          "14.0331915",
+          "46.3167011"
         ]
       },
       "properties": {
-        "title": "Kri\u017ena gora",
+        "title": "Plesnarca",
         "ele": "1162",
         "flights": 0,
         "top": {
@@ -19686,12 +19726,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0331915",
-          "46.3167011"
+          "14.0537662",
+          "45.8723982"
         ]
       },
       "properties": {
-        "title": "Plesnarca",
+        "title": "Kri\u017ena gora",
         "ele": "1162",
         "flights": 0,
         "top": {
@@ -19713,6 +19753,26 @@
       "properties": {
         "title": "Rjavi vrh",
         "ele": "1158",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.9619989",
+          "46.1556045"
+        ]
+      },
+      "properties": {
+        "title": "Ritov\u0161\u010dica",
+        "ele": "1156",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -19766,26 +19826,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9413177",
-          "46.1779351"
-        ]
-      },
-      "properties": {
-        "title": "Durnik",
-        "ele": "1152",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.3614322",
           "45.6175196"
         ]
@@ -19812,6 +19852,26 @@
       },
       "properties": {
         "title": "Rjavi vrh",
+        "ele": "1152",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.9413177",
+          "46.1779351"
+        ]
+      },
+      "properties": {
+        "title": "Durnik",
         "ele": "1152",
         "flights": 0,
         "top": {
@@ -19933,7 +19993,7 @@
       "properties": {
         "title": "Starijski vrh",
         "ele": "1147",
-        "flights": 7,
+        "flights": 8,
         "top": {
           "pilot": "Jodi Kelt",
           "dist": "69.23 km"
@@ -19946,12 +20006,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.869505",
-          "45.9577982"
+          "13.8612335",
+          "46.2010322"
         ]
       },
       "properties": {
-        "title": "Suhi hrib",
+        "title": "Luken",
         "ele": "1146",
         "flights": 0,
         "top": {
@@ -19986,12 +20046,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8612335",
-          "46.2010322"
+          "13.869505",
+          "45.9577982"
         ]
       },
       "properties": {
-        "title": "Luken",
+        "title": "Suhi hrib",
         "ele": "1146",
         "flights": 0,
         "top": {
@@ -20046,13 +20106,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.491462",
-          "46.3129508"
+          "14.71325",
+          "45.6234136"
         ]
       },
       "properties": {
-        "title": "\u0160krbina",
-        "ele": "1142",
+        "title": "Goteni\u0161ki vrh",
+        "ele": "1143",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -20072,6 +20132,26 @@
       },
       "properties": {
         "title": "Hrbce",
+        "ele": "1142",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.491462",
+          "46.3129508"
+        ]
+      },
+      "properties": {
+        "title": "\u0160krbina",
         "ele": "1142",
         "flights": 0,
         "top": {
@@ -20126,26 +20206,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6510648",
-          "46.1873059"
-        ]
-      },
-      "properties": {
-        "title": "Monte Piatto cima ovest / Trin\u0161ki Vrh",
-        "ele": "1138",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.6570734",
           "46.1862805"
         ]
@@ -20166,13 +20226,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0966567",
-          "45.8708047"
+          "13.6510648",
+          "46.1873059"
         ]
       },
       "properties": {
-        "title": "Javorjev gric'",
-        "ele": "1137",
+        "title": "Monte Piatto cima ovest / Trin\u0161ki Vrh",
+        "ele": "1138",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -20192,6 +20252,26 @@
       },
       "properties": {
         "title": "Znojilski vrh",
+        "ele": "1137",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0966567",
+          "45.8708047"
+        ]
+      },
+      "properties": {
+        "title": "Javorjev gric'",
         "ele": "1137",
         "flights": 0,
         "top": {
@@ -20226,52 +20306,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.1701591",
-          "46.304572"
-        ]
-      },
-      "properties": {
-        "title": "Mali Gregorjevec",
-        "ele": "1134",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.6912307",
           "45.7128883"
         ]
       },
       "properties": {
         "title": "Veliki vrh",
-        "ele": "1134",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.6955434",
-          "46.4012188"
-        ]
-      },
-      "properties": {
-        "title": "Su\u0161na",
         "ele": "1134",
         "flights": 0,
         "top": {
@@ -20306,6 +20346,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.1701591",
+          "46.304572"
+        ]
+      },
+      "properties": {
+        "title": "Mali Gregorjevec",
+        "ele": "1134",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.6955434",
+          "46.4012188"
+        ]
+      },
+      "properties": {
+        "title": "Su\u0161na",
+        "ele": "1134",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "15.0164885",
           "46.1826537"
         ]
@@ -20313,10 +20393,10 @@
       "properties": {
         "title": "Javor",
         "ele": "1133",
-        "flights": 0,
+        "flights": 2,
         "top": {
-          "pilot": "",
-          "dist": ""
+          "pilot": "Jernej Juvan",
+          "dist": "26.09 km"
         },
         "icon": "marker"
       }
@@ -20526,92 +20606,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.7198301",
-          "45.6922792"
-        ]
-      },
-      "properties": {
-        "title": "Bela stena",
-        "ele": "1122",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.0353556",
-          "46.4627349"
-        ]
-      },
-      "properties": {
-        "title": "Kogel",
-        "ele": "1122",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "15.1074494",
-          "46.1875175"
-        ]
-      },
-      "properties": {
-        "title": "Mrzlica",
-        "ele": "1122",
-        "flights": 1,
-        "top": {
-          "pilot": "Mitja Jancic",
-          "dist": "41.24 km"
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.183803",
           "46.3942644"
         ]
       },
       "properties": {
         "title": "Smoku\u0161ki vrh",
-        "ele": "1122",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.7717922",
-          "45.5367397"
-        ]
-      },
-      "properties": {
-        "title": "Krokar",
         "ele": "1122",
         "flights": 0,
         "top": {
@@ -20646,17 +20646,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.347474",
-          "45.6302279"
+          "14.0353556",
+          "46.4627349"
         ]
       },
       "properties": {
-        "title": "Vrh Vil",
-        "ele": "1121",
+        "title": "Kogel",
+        "ele": "1122",
         "flights": 0,
         "top": {
           "pilot": "",
           "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.7717922",
+          "45.5367397"
+        ]
+      },
+      "properties": {
+        "title": "Krokar",
+        "ele": "1122",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.7198301",
+          "45.6922792"
+        ]
+      },
+      "properties": {
+        "title": "Bela stena",
+        "ele": "1122",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "15.1074494",
+          "46.1875175"
+        ]
+      },
+      "properties": {
+        "title": "Mrzlica",
+        "ele": "1122",
+        "flights": 1,
+        "top": {
+          "pilot": "Mitja Jancic",
+          "dist": "41.24 km"
         },
         "icon": "marker"
       }
@@ -20686,13 +20746,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9514612",
-          "46.2129125"
+          "14.347474",
+          "45.6302279"
         ]
       },
       "properties": {
-        "title": "Kalarsko brdo",
-        "ele": "1120",
+        "title": "Vrh Vil",
+        "ele": "1121",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -20712,6 +20772,26 @@
       },
       "properties": {
         "title": "Travni vrh",
+        "ele": "1120",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.9514612",
+          "46.2129125"
+        ]
+      },
+      "properties": {
+        "title": "Kalarsko brdo",
         "ele": "1120",
         "flights": 0,
         "top": {
@@ -20813,10 +20893,10 @@
       "properties": {
         "title": "Velika Slivnica",
         "ele": "1114",
-        "flights": 30,
+        "flights": 39,
         "top": {
-          "pilot": "Poje Jo\u017ee",
-          "dist": "108.17 km"
+          "pilot": "Andrej Erznoznik",
+          "dist": "133.10 km"
         },
         "icon": "marker"
       }
@@ -20886,12 +20966,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3439442",
-          "45.6424749"
+          "14.352023",
+          "45.6269556"
         ]
       },
       "properties": {
-        "title": "\u010crni vrh",
+        "title": "Po\u017eupov vrh",
         "ele": "1110",
         "flights": 0,
         "top": {
@@ -20906,12 +20986,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.352023",
-          "45.6269556"
+          "14.3439442",
+          "45.6424749"
         ]
       },
       "properties": {
-        "title": "Po\u017eupov vrh",
+        "title": "\u010crni vrh",
         "ele": "1110",
         "flights": 0,
         "top": {
@@ -21026,6 +21106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.2713437",
+          "45.7251276"
+        ]
+      },
+      "properties": {
+        "title": "Sveta Trojica",
+        "ele": "1106",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.3270125",
           "45.7564534"
         ]
@@ -21066,33 +21166,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.2713437",
-          "45.7251276"
+          "14.0490613",
+          "45.9130501"
         ]
       },
       "properties": {
-        "title": "Sveta Trojica",
+        "title": "\u010celkov vrh",
         "ele": "1106",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.0323299",
-          "46.1716014"
-        ]
-      },
-      "properties": {
-        "title": "Bi\u010dkarjev vrh",
-        "ele": "1105",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -21132,6 +21212,26 @@
       },
       "properties": {
         "title": "\u0160o\u0161tarjev kovk",
+        "ele": "1105",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0323299",
+          "46.1716014"
+        ]
+      },
+      "properties": {
+        "title": "Bi\u010dkarjev vrh",
         "ele": "1105",
         "flights": 0,
         "top": {
@@ -21186,12 +21286,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.5997623",
-          "46.3260183"
+          "14.3095853",
+          "45.5944755"
         ]
       },
       "properties": {
-        "title": "Me\u0161enik",
+        "title": "Velika Milanja",
         "ele": "1099",
         "flights": 0,
         "top": {
@@ -21206,12 +21306,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3095853",
-          "45.5944755"
+          "14.5997623",
+          "46.3260183"
         ]
       },
       "properties": {
-        "title": "Velika Milanja",
+        "title": "Me\u0161enik",
         "ele": "1099",
         "flights": 0,
         "top": {
@@ -21266,6 +21366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.5697848",
+          "46.1927824"
+        ]
+      },
+      "properties": {
+        "title": "Breza",
+        "ele": "1096",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.0770742",
           "46.4391202"
         ]
@@ -21292,26 +21412,6 @@
       },
       "properties": {
         "title": "Hribarica",
-        "ele": "1096",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.5697848",
-          "46.1927824"
-        ]
-      },
-      "properties": {
-        "title": "Breza",
         "ele": "1096",
         "flights": 0,
         "top": {
@@ -21466,12 +21566,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3161047",
-          "45.5772696"
+          "14.0362421",
+          "45.7951124"
         ]
       },
       "properties": {
-        "title": "Devin",
+        "title": "Su\u017eni rovt",
         "ele": "1088",
         "flights": 0,
         "top": {
@@ -21486,12 +21586,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0362421",
-          "45.7951124"
+          "14.3161047",
+          "45.5772696"
         ]
       },
       "properties": {
-        "title": "Su\u017eni rovt",
+        "title": "Devin",
         "ele": "1088",
         "flights": 0,
         "top": {
@@ -21546,26 +21646,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.2742096",
-          "45.7536362"
-        ]
-      },
-      "properties": {
-        "title": "Baba",
-        "ele": "1085",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.1537499",
           "46.202102"
         ]
@@ -21586,13 +21666,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0592439",
-          "45.4938559"
+          "14.2742096",
+          "45.7536362"
         ]
       },
       "properties": {
-        "title": "Razsu\u0161ica (Glavi\u010dorka)",
-        "ele": "1083",
+        "title": "Baba",
+        "ele": "1085",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -21612,6 +21692,26 @@
       },
       "properties": {
         "title": "Gumana\u010dka",
+        "ele": "1083",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0592439",
+          "45.4938559"
+        ]
+      },
+      "properties": {
+        "title": "Razsu\u0161ica (Glavi\u010dorka)",
         "ele": "1083",
         "flights": 0,
         "top": {
@@ -21766,12 +21866,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3158019",
-          "45.7048232"
+          "14.1443001",
+          "46.419915"
         ]
       },
       "properties": {
-        "title": "Debela gora",
+        "title": "Smolnik",
         "ele": "1075",
         "flights": 0,
         "top": {
@@ -21786,12 +21886,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.1443001",
-          "46.419915"
+          "14.3158019",
+          "45.7048232"
         ]
       },
       "properties": {
-        "title": "Smolnik",
+        "title": "Debela gora",
         "ele": "1075",
         "flights": 0,
         "top": {
@@ -21866,6 +21966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.7799002",
+          "46.1070341"
+        ]
+      },
+      "properties": {
+        "title": "Veliki vrh",
+        "ele": "1071",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.772968",
           "46.0790514"
         ]
@@ -21873,6 +21993,26 @@
       "properties": {
         "title": "La\u0161\u010dek",
         "ele": "1071",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.8859547",
+          "46.1721254"
+        ]
+      },
+      "properties": {
+        "title": "Kori\u0161ka gora",
+        "ele": "1070",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -21912,26 +22052,6 @@
       },
       "properties": {
         "title": "Slevec",
-        "ele": "1070",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "13.8859547",
-          "46.1721254"
-        ]
-      },
-      "properties": {
-        "title": "Kori\u0161ka gora",
         "ele": "1070",
         "flights": 0,
         "top": {
@@ -22086,6 +22206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "14.7258753",
+          "45.5790981"
+        ]
+      },
+      "properties": {
+        "title": "Belski vrh",
+        "ele": "1059",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.5269941",
           "45.8938606"
         ]
@@ -22213,10 +22353,10 @@
       "properties": {
         "title": "Vodel",
         "ele": "1053",
-        "flights": 9,
+        "flights": 14,
         "top": {
-          "pilot": "Martin Jansa",
-          "dist": "26.18 km"
+          "pilot": "Thomas Hofbauer",
+          "dist": "66.51 km"
         },
         "icon": "marker"
       }
@@ -22233,6 +22373,26 @@
       "properties": {
         "title": "Lajtnik",
         "ele": "1053",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.3366321",
+          "45.737345"
+        ]
+      },
+      "properties": {
+        "title": "Ko\u017ejek",
+        "ele": "1052",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -22286,12 +22446,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3366321",
-          "45.737345"
+          "14.2866436",
+          "45.7284245"
         ]
       },
       "properties": {
-        "title": "Ko\u017ejek",
+        "title": "Kutlovca",
         "ele": "1052",
         "flights": 0,
         "top": {
@@ -22306,13 +22466,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.2866436",
-          "45.7284245"
+          "15.0187801",
+          "46.1843239"
         ]
       },
       "properties": {
-        "title": "Kutlovca",
-        "ele": "1052",
+        "title": "Zmrzlakova Medvednica",
+        "ele": "1051",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0068259",
+          "46.086652"
+        ]
+      },
+      "properties": {
+        "title": "Bevkov vrh",
+        "ele": "1051",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -22352,46 +22532,6 @@
       },
       "properties": {
         "title": "Mirna gora",
-        "ele": "1051",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.0068259",
-          "46.086652"
-        ]
-      },
-      "properties": {
-        "title": "Bevkov vrh",
-        "ele": "1051",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "15.0187801",
-          "46.1843239"
-        ]
-      },
-      "properties": {
-        "title": "Zmrzlakova Medvednica",
         "ele": "1051",
         "flights": 0,
         "top": {
@@ -22446,12 +22586,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9901982",
-          "46.220009"
+          "13.8354977",
+          "46.2014005"
         ]
       },
       "properties": {
-        "title": "Kup",
+        "title": "Lisec",
         "ele": "1046",
         "flights": 0,
         "top": {
@@ -22466,12 +22606,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.8354977",
-          "46.2014005"
+          "13.9901982",
+          "46.220009"
         ]
       },
       "properties": {
-        "title": "Lisec",
+        "title": "Kup",
         "ele": "1046",
         "flights": 0,
         "top": {
@@ -22513,7 +22653,7 @@
       "properties": {
         "title": "Mariborsko Pohorje",
         "ele": "1042",
-        "flights": 97,
+        "flights": 98,
         "top": {
           "pilot": "Andrej Erzno\u017enik",
           "dist": "76.01 km"
@@ -22606,26 +22746,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.6659141",
-          "46.1810864"
-        ]
-      },
-      "properties": {
-        "title": "Platena",
-        "ele": "1038",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.635687",
           "45.7074424"
         ]
@@ -22646,13 +22766,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.3108915",
-          "45.5735947"
+          "13.6659141",
+          "46.1810864"
         ]
       },
       "properties": {
-        "title": "\u017dupnica",
-        "ele": "1037",
+        "title": "Platena",
+        "ele": "1038",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -22672,6 +22792,26 @@
       },
       "properties": {
         "title": "Na vrhu",
+        "ele": "1037",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.3108915",
+          "45.5735947"
+        ]
+      },
+      "properties": {
+        "title": "\u017dupnica",
         "ele": "1037",
         "flights": 0,
         "top": {
@@ -22846,6 +22986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "13.9008925",
+          "46.3013901"
+        ]
+      },
+      "properties": {
+        "title": "Kamen",
+        "ele": "1028",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "13.9759258",
           "45.5338932"
         ]
@@ -22866,13 +23026,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9008925",
-          "46.3013901"
+          "14.0616395",
+          "45.68828"
         ]
       },
       "properties": {
-        "title": "Kamen",
-        "ele": "1028",
+        "title": "Velika Vrem\u0161\u010dica",
+        "ele": "1027",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -22906,12 +23066,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0616395",
-          "45.68828"
+          "13.7672274",
+          "46.1004342"
         ]
       },
       "properties": {
-        "title": "Velika Vrem\u0161\u010dica",
+        "title": "\u0160tosovec",
         "ele": "1027",
         "flights": 0,
         "top": {
@@ -22966,26 +23126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.2611534",
-          "46.1710695"
-        ]
-      },
-      "properties": {
-        "title": "Lubnik",
-        "ele": "1025",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "14.0543635",
           "46.4449928"
         ]
@@ -23006,13 +23146,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4278822",
-          "45.7954919"
+          "14.2611534",
+          "46.1710695"
         ]
       },
       "properties": {
-        "title": "Medvednica",
-        "ele": "1024",
+        "title": "Lubnik",
+        "ele": "1025",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -23026,12 +23166,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4934178",
-          "46.2918376"
+          "14.49323",
+          "46.291934"
         ]
       },
       "properties": {
         "title": "Kopa",
+        "ele": "1024",
+        "flights": 1,
+        "top": {
+          "pilot": "Jirka T",
+          "dist": "8.89 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.4278822",
+          "45.7954919"
+        ]
+      },
+      "properties": {
+        "title": "Medvednica",
         "ele": "1024",
         "flights": 0,
         "top": {
@@ -23126,12 +23286,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0804322",
-          "45.7914026"
+          "13.7792929",
+          "46.1144287"
         ]
       },
       "properties": {
-        "title": "Maj",
+        "title": "\u0160pile",
         "ele": "1020",
         "flights": 0,
         "top": {
@@ -23152,6 +23312,26 @@
       },
       "properties": {
         "title": "Pasja ravan",
+        "ele": "1020",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0804322",
+          "45.7914026"
+        ]
+      },
+      "properties": {
+        "title": "Maj",
         "ele": "1020",
         "flights": 0,
         "top": {
@@ -23206,6 +23386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "15.1669107",
+          "46.6358273"
+        ]
+      },
+      "properties": {
+        "title": "Bricnik",
+        "ele": "1017",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "14.6170117",
           "45.7293069"
         ]
@@ -23246,13 +23446,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "15.1669107",
-          "46.6358273"
+          "14.8923532",
+          "46.598564"
         ]
       },
       "properties": {
-        "title": "Bricnik",
-        "ele": "1017",
+        "title": "Stantnarjev vrh",
+        "ele": "1016",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -23272,26 +23472,6 @@
       },
       "properties": {
         "title": "Vol\u010dji vrh",
-        "ele": "1016",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.8923532",
-          "46.598564"
-        ]
-      },
-      "properties": {
-        "title": "Stantnarjev vrh",
         "ele": "1016",
         "flights": 0,
         "top": {
@@ -23413,10 +23593,10 @@
       "properties": {
         "title": "Partizanski vrh",
         "ele": "1011",
-        "flights": 1,
+        "flights": 2,
         "top": {
           "pilot": "Jernej Juvan",
-          "dist": "5.69 km"
+          "dist": "9.74 km"
         },
         "icon": "marker"
       }
@@ -23433,6 +23613,26 @@
       "properties": {
         "title": "Stranski vrh",
         "ele": "1009",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.0477714",
+          "46.0572081"
+        ]
+      },
+      "properties": {
+        "title": "Sivka",
+        "ele": "1008",
         "flights": 0,
         "top": {
           "pilot": "",
@@ -23486,32 +23686,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4630718",
-          "45.9156313"
+          "14.4137966",
+          "45.6876442"
         ]
       },
       "properties": {
-        "title": "Koren",
-        "ele": "1005",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "14.5293117",
-          "45.8808744"
-        ]
-      },
-      "properties": {
-        "title": "Lomnik",
+        "title": "Ostri vrh",
         "ele": "1005",
         "flights": 0,
         "top": {
@@ -23546,12 +23726,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.4137966",
-          "45.6876442"
+          "14.5293117",
+          "45.8808744"
         ]
       },
       "properties": {
-        "title": "Ostri vrh",
+        "title": "Lomnik",
+        "ele": "1005",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "14.4630718",
+          "45.9156313"
+        ]
+      },
+      "properties": {
+        "title": "Koren",
         "ele": "1005",
         "flights": 0,
         "top": {
@@ -23586,26 +23786,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.0143276",
-          "46.1512677"
-        ]
-      },
-      "properties": {
-        "title": "Drnova",
-        "ele": "1004",
-        "flights": 0,
-        "top": {
-          "pilot": "",
-          "dist": ""
-        },
-        "icon": "marker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "13.8935324",
           "45.947359"
         ]
@@ -23626,12 +23806,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "14.8587905",
-          "45.6015611"
+          "14.0143276",
+          "46.1512677"
         ]
       },
       "properties": {
-        "title": "Suhi hrib",
+        "title": "Drnova",
+        "ele": "1004",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "13.9373158",
+          "45.9083054"
+        ]
+      },
+      "properties": {
+        "title": "Sinji vrh",
         "ele": "1002",
         "flights": 0,
         "top": {
@@ -23666,12 +23866,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9373158",
-          "45.9083054"
+          "14.8587905",
+          "45.6015611"
         ]
       },
       "properties": {
-        "title": "Sinji vrh",
+        "title": "Suhi hrib",
         "ele": "1002",
         "flights": 0,
         "top": {
@@ -23686,12 +23886,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "15.3498576",
-          "45.7693463"
+          "13.9673567",
+          "45.5387221"
         ]
       },
       "properties": {
-        "title": "Ravna gora",
+        "title": "Grmada",
         "ele": "1001",
         "flights": 0,
         "top": {
@@ -23726,12 +23926,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "13.9673567",
-          "45.5387221"
+          "15.3498576",
+          "45.7693463"
         ]
       },
       "properties": {
-        "title": "Grmada",
+        "title": "Ravna gora",
         "ele": "1001",
         "flights": 0,
         "top": {
