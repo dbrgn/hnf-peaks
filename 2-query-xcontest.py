@@ -13,7 +13,7 @@ import requests
 
 # Config
 
-RADIUS = 300
+RADIUS = 350
 
 
 # Functions
