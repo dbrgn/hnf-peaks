@@ -48,7 +48,7 @@ if __name__ == '__main__':
         print(f'Usage: {sys.argv[0]} <country>')
         sys.exit(1)
 
-    country = sys.argv[1]
+    country = sys.argv[1].lower()
 
     # Connect
     conn = psycopg2.connect(f'dbname=peaks_{country}')
