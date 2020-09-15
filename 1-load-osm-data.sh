@@ -13,7 +13,7 @@ if [ "$#" -ne 1 ]; then
     loge "Example: $0 switzerland"
     exit 1
 fi
-COUNTRY=$1
+COUNTRY=${1,,}
 DB="peaks_$COUNTRY"
 
 # Check whether database exists
