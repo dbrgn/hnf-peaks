@@ -37,6 +37,7 @@
             <h1>Alpine Hike & Fly Peaks</h1>
             <select name="country">
                 <option value="austria">Austria</option>
+                <option value="liechtenstein">Liechtenstein</option>
                 <option value="slovenia">Slovenia</option>
                 <option value="switzerland" selected>Switzerland</option>
             </select>
@@ -77,6 +78,10 @@
                 'slovenia': {
                     center: [14.6, 46.0],
                     zoom: 8,
+                },
+                'liechtenstein': {
+                    center: [9.55, 47.1],
+                    zoom: 10,
                 },
             };
 
@@ -183,6 +188,10 @@
                 map.addSource('peaks_slovenia', {
                     type: 'geojson',
                     data: 'geojson-slovenia-2020-08-29.json',
+                });
+                map.addSource('peaks_liechtenstein', {
+                    type: 'geojson',
+                    data: 'geojson-liechtenstein-2020-09-15.json',
                 });
 
                 // Show
