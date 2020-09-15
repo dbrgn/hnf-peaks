@@ -5,6 +5,7 @@ OSMOSIS_VERSION=0.48.2
 
 function log() { echo -e "\e[32m$1\e[0m"; }
 function loge() { echo -e "\e[31m$1\e[0m"; }
+function download() { curl -L -O --fail --show-error "$1"; }
 
 # Determine country
 if [ "$#" -ne 1 ]; then
@@ -30,7 +31,7 @@ if [ -f "$DATA" ]; then
     log "Data: $DATA already present"
 else
     log "Downloading $DATA..."
-    curl -L -O "$URL"
+    download "$URL"
 fi
 
 log "Removing and recreating outdir \"$DB\"..."
@@ -41,7 +42,7 @@ mkdir "$DB"
 if [ ! -d "osmosis" ]; then
     if [ ! -f "osmosis-${OSMOSIS_VERSION}.tgz" ]; then
         log "Osmosis not found. Downloading..."
-        curl -L -O https://github.com/openstreetmap/osmosis/releases/download/${OSMOSIS_VERSION}/osmosis-${OSMOSIS_VERSION}.tgz
+        download https://github.com/openstreetmap/osmosis/releases/download/${OSMOSIS_VERSION}/osmosis-${OSMOSIS_VERSION}.tgz
     fi
     mkdir -p osmosis/
     tar xfz osmosis-${OSMOSIS_VERSION}.tgz -C osmosis/
