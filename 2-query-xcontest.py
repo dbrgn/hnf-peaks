@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup
 import csv
 from datetime import date
+import os
 import re
 import sys
 from typing import Any, Dict
@@ -14,15 +15,20 @@ import requests
 # Config
 
 RADIUS = 350
+XCONTEST_USER = os.environ.get('XCONTEST_USER', 'dbrgn')
+XCONTEST_PASS = os.environ.get('XCONTEST_PASS')
+assert XCONTEST_PASS, 'Did not find XCONTEST_PASS env var'
 
 
 # Functions
 
-def query_xcontest(lng: float, lat: float) -> Dict[str, Any]:
+def query_xcontest(session: requests.Session, lng: float, lat: float) -> Dict[str, Any]:
     data = {}  # type: Dict[str, Any]
 
     url = f'https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D={lng}+{lat}&filter%5Bradius%5D={RADIUS}&list%5Bsort%5D=pts&list%5Bdir%5D=down'
-    r = requests.get(url)
+    r = session.get(url, headers={
+        'user-agent': 'github.com/dbrgn/hnf-peaks',
+    })
     soup = BeautifulSoup(r.text, 'html.parser')
 
     flights = int(soup.find('form', class_='filter').find('div', class_='wsw').find('p').find('strong').text)
@@ -67,6 +73,16 @@ if __name__ == '__main__':
          ORDER BY tags->'ele' DESC;
     """)
 
+    # Authenticate against XContest
+    session = requests.Session()
+    auth_response = session.post('https://www.xcontest.org/world/en/', data={
+        'login[username]': XCONTEST_USER,
+        'login[password]': XCONTEST_PASS,
+        'login[persist_login]': 'Y',
+    })
+    assert auth_response.status_code == 200, f'Auth failed, status code {auth_response.status_code}'
+    assert XCONTEST_USER in auth_response.text, 'Auth failed, username not found in auth response body'
+
     # Open CSV file
     filename = 'data-{}-{}.csv'.format(country, date.today().isoformat())
     with open(filename, 'w') as csvfile:
@@ -85,7 +101,7 @@ if __name__ == '__main__':
             lat = float(lnglat[1])
 
             print(f'{name} ({ele}) {lat},{lng}')
-            data = query_xcontest(lng, lat)
+            data = query_xcontest(session, lng, lat)
             print(f'- Flights: {data["flights"]}')
             if 'top' in data:
                 top_pilot = data['top']['pilot']

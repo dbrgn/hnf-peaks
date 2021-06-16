@@ -9,6 +9,7 @@ Map: https://dbrgn.github.io/hnf-peaks/
 - Bash
 - PostgreSQL + PostGIS
 - Python 3
+- The following Python packages: beautifulsoup4, psycopg2
 
 ## 1: Download OSM Data
 
@@ -22,9 +23,16 @@ elevation >1000m:
 This will process all peaks and query XContest for the number of flights that
 launched from within 350 m around the peak:
 
+    export XCONTEST_USER=...
+    export XCONTEST_PASS=...
     ./2-query-xcontest.py <country>
 
 The data will be written to a file called `data-YYYY-MM-DD.csv`.
+
+**WARNING:** X-Contest does rate limiting, so unless you are whitelisted by
+them, you will probably get blocked after a while. Furthermore, do not run this
+command on the evening of a hammer day, choose a time when XContest is not
+busy.
 
 ## 3: Postprocess Data
 
