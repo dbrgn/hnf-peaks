@@ -1,0 +1,702 @@
+pilot,records,peaks
+David Hasko,45,Hochkönig;Sandbodenkopf;Hohe Gamsfeldspitze;Schmiedstock;Kramkogel;Hochhaide;Sinabell;Torkopf;Sommerstein;Höllwand;Hochgschirr;Riffelkopf;Sandkogel;Rauchkogel;Spielkogel;Hochegg;Austuhl;Košutnikov turn / Koschutnikturm;Ostrv / Kainradlturm;Weinasch / Vajnež;Kamplnock;Heukareck;Schiedreitspitz;Veliki vrh / Hochturm;Seidleckkopf;Schober;Gasteiner Höhe;Tennköpfl;Kleinobir;Schneebergkreuz;Schneeberg;Liechtensteinkopf;Frommerkogel;Ferlacher Horn;Hochgründeck;Hochegg;Rauchkögerl;Kreuzkögerl;Gamskögerl;Filzkogel;Matzen;Hochglocker;Schleichkogel;Palfnerkogel;Bretterstein
+simon oberrauner,18,Gjaidtroghöhe;Zinizachspitze;Griften (Zupalkogel);Hohe Munde Ostgipfel;Seekogel;Hochschwab;Kleiner Hochschwab;Hochschwung;Eismauer;Multereck;Dorfberg;Nazogl;Klingspitz;Halserspitz;Kleiner Griesstein;Hochlantsch;Schöckl;Gelände
+Gerald Kernstock,15,Hochalmspitze;Vorderer Kesselkopf;Fluh;Großer Bösenstein;Breitspitze;Großer Speikkogel;Kaiserschild;Rether Kopf;Elferkogel;Zwölferkogel;Hirschkogel;Dürrnbacheck;Kletschachkogel;Windhofkogel;Harterberg
+Mario Mayr,15,Torsäule;Großer Priel;Kreuzkogel (Döferl);Rotgschirr;Rotgschirr (Südgipfel);Grubereck;Großer Wildenkogel;Schönberg (Wildenkogel);Großer Rabenstein;Großer Woising;Kasberg;Alberfeldkogel;Traunstein;Leistenstein;Löckenkogel
+Andreas Reisinger,13,Großer Hochkasten;Kleiner Hochkasten;Schwarzkogel;Kleiner Pyhrgas;Roßschopf;Kremsmauer;Pyramide;Rotgsol;Haderlauskögerl;Blosskogel;Rauer Kalbling;Nackter Kalbling;Kampleck
+Sebastian Huber,13,Mittlere Guslarspitze;Vordere Guslarspitze;Grawandkofel;Tauernkopf;Gamskarkogel;Helm - Monte Elmo;Putzen;Golzentipp;Aineck;Sausteigen;Zinken;Eislochkogel;Bärenfeuchtmölbing
+Herbert Holaus,10,Wilder Freiger - Cima Libera;Rötenspitze;Kemacher;Westliche Kaminspitze;Mittlere Kaminspitze;Schartenkogel;Patscherkofel;Alplköpfl;Hamberg;Joelspitze
+Johannes Juri,10,Kreuzspitze/Eggeberg;Demut - La Muta;Spitzkofel;Graslitzen;Möschacher Wipfel;Mitterwipfel;Kirchbacher Wipfel;Nölblinger Höhe;Steinberg / Kamnati vrh;Wabenriedel
+Manus Pig,10,Straßkopf;Strasskopf;Steinfeldspitze;Bernkogel;Sladinkopf;Baukogel;Throneck;2. Lauskopf;Hochfeld;Mooseckhöhe
+Mario Schmaranzer,10,8. Turm;Sonnenjoch;Mandlkogel;Vordere Goinger Halt;Großer Donnerkogel;Hochkopf;Steinriesenkogel;Freyaturm;Russberg;Hornspitz
+Andreas Marihart,9,Hochalter;Muttenkopf;Mislkopf;Gilfert;Füllhorn - Corno Copia;Riepenkopf;Seblaskreuz;Hundskopf;Nederjoch
+Andreas Viehböck,9,Großer Höllkogel;Grubhörndl;Dürrenschöberl;Predigkogel;Schwarzer Berg;Langwandkogel;Käferwandl;Sommerauerstein;Kotzalm
+Chris Stoni,9,Raucheck;Mallnock;Mittlerer Kesselgupf;Hinterer Kesselgupf;Gennerhorn;Elferkogel;Jodlstein;Windkogel;Feuerkogel
+Martin Taschler,9,Kärlskopf;Großer Heimwald;Hochkreuzspitze;Hochkreuz;Mitterhochkreuz;Unterhochkreuz;Saile (Nockspitze);Saile (Nockspitze) Vorgipfel;Widdersberg
+christian amon,9,Hoher Dachstein;Niederer Dachstein;Mittlerer Ochsenkogl;Hoher Trog;Speikberg (Maisenberger Hirzberg);Niederer Krippenstein;Plassen;Vorderer Plassen;Langgangkogel
+Gavin McClurg,8,Zwölferkopf;Höllkopf;Schlaberstatt;Wiesboden;Gozman;Schmittenstein;Gütenbergkopf;Feilkopf
+Johann Schmidlechner,8,Fenneregg;Hoher Kopf;Spinnerin;Dürlstein;Kugelzipf;Illingerberg;Apfelkoch;Aignerriedel
+Johann Tockner,8,Lärchkogel;Geierkogel;Großer Hengst;Größenberg;Gruber-Hirnkogel;Schleifeck;Rosenkogel;Hölzelkogel
+Johannes Zettler,8,Hunerkogel;Schreinl;Seekoppe;Schoberspitze;Karlspitze;Schaabspitze;Totenkarspitz;Fuchsriedl
+Reinhold Korak,8,Habicht;Schöberspitzen;Pleisen;Trunajoch;Guffertspitze;Padauner Kogel;Klobenjoch;Roßkogel
+Werner Luidolt,8,Großer Miesberg;Kleines Tragl;Kleinmölbing;Lawinenstein;Schafberg;Riesnerkrispen;Betstein;Nojer
+Daniel Oberauer,7,Grünleitennock;Angerstein;Riffl;Edelweißkogel;Schober;Schober;Ostermaisspitz
+Ernst Fanzoy,7,Schareck;Martischnigspitze;Lonzaköpfl;Ebeneck;Zaneberg;Ebeneck;Seetalnock
+Erwin Moosbrugger,7,Dachsteinwarte;Kammspitz;Pleschnitzzinken;Mitterstein;Kochofen;Winterstein;Greimuth
+Franz Altmann,7,Seegrubenspitze;Gasselhöhe;Hochwurzen;Kleine Hochwurzen;Admonter Warte;Brunnkogel;Bischofsmütze
+Hans Peter Ullmann,7,Spitzmauer;Temlberg (Greßtenberg);Weitgrubenkopf;Großer Pyhrgas;Hoher Nock;Hochsengs;Trämpl
+Markus Griesberger,7,Grimming;Mitterhorn;Hochreithhöhe;Westliche Mitterspitze;Fahnenköpfl;Feistererhorn;Lärchkogel
+Pius Josef,7,Deneck;Zinken;Triebenstein;Hochglegt;Trisselwand;Dachsteinblick;Saukogel
+Sigmund Hopfgartner,7,Großer Kaserer;Falscher Kaserer;Großer Leppleskofel;Rotenkogel;Gagenhöhe;Penzenkopf;Sagzahn
+Alexander Klünsner,6,Hochobir;Schober;Tschierwegernock;Freibachturm;Roverkreuz;Übering
+Bernhard Plasser,6,Schafkögel;Gscheidriedel;Pfannstein;Herrentisch;Hirschwaldstein;Zederbauerspitz
+Daniel Wastl,6,Riebenkofel;Jaukenhöhe;Gartnerkofel;Gartnerkofel Südgipfel;Däumling;Poludnig
+Paolo Miani,6,Torre Ursella;Creta di Collinetta / Frischenkofel;Creta di Timau;Blaustein / Cima Avostanis;Monte Zermula;Großer Pal / Pal Grande
+Peter Stadler,6,Hocharn;Schreiberwand;Silberpfennig;Widerlechnerstein;Hoher First;Zwölferhorn
+Roman Zechner,6,Weißer Knopf;Mittagskogel / Kepa;Tschekelnock;Schwarzkogel / Kresišče;Petelinjek / Hahnenwipfel;Peč / Ofen / Monte Forno
+Siegfried Steixner,6,Pfaffenkogel;Jochgrubenkopf;Schönlahnerspitze;Morgenköpfl;Wildangerspitze;Thaurer Rosskopf
+Wolfgang Haslinger,6,Kammerlinghorn;Türchelkopf;Ochsenkopf;Pfarrachhöhe;Pfarrachhöhe;Pichlkampen
+Bernhard Kratzer,5,Kemetstein;Vordere Lucke;Hundegg;Guschen;Kühstein
+Bruno Bayer,5,Knittelkarspitze;Schmaßkofel;Engelspitze;Säuling;Säuling
+Dietmar Ehrenberger,5,Rinnerkogel (Augstkogel);Eibenberg;Neukirchner Turm;Hohes Grenzeck;Jausenstein
+Dominik Asteiner,5,Mittlerer Wieselstein;Laubkogel;Großer Tanzkogel;Losegg;Berliner Kreuz
+Egon Assmair,5,Knappenspitze;Speikboden;Schaufelspitze;Brunnerkogel;Burg
+Gixn Fly,5,Dachskofel;Seidernitztörl;Gamsfeld;Regenspitz;Elferstein
+Harald Falschlunger,5,Hoher Burgstall;Elferspitze;Östlicher Elferturm;Padaster Kogl;Jochkreuz
+Jakob Son,5,Steinfeldspitze;Sturzhahn;Hinkareck;Brandangerkogel;Großer Otter
+Klaus Drexel,5,Sünser Spitze;Mörzelspitze;Großer Löwenzahn;Mittlerer Löwenzahn;Kleiner Löwenzahn
+Loris Filippini,5,Großglockner;Kleinglockner;Sagranberg / Monte Sagran;Dovška Baba / Frauenkogel;Monte Acomizza
+Marcel Duerr,5,Upsspitze;Westlicher Wengenkopf;Haidachstellwand;Rinnkogel;Predigtstuhl
+Marco Exenberger,5,Leuchsturm;Kaiserkopf;Friedrichsturm;Kaindl-Stewart-Turm;Kitzbüheler Horn
+Martin Gaisl,5,Hoher Sonnblick;Kleiner Koppenkarstein;Grosser Knallstein;Hohe Scheichen;Haßeck
+Mathias Neyer,5,Saulakopf;Mottakopf;Langeck;Mondspitze;Gantekopf
+Michael Pingert,5,Großes Mandl;Salzburger Hochthron;Großer Heubergkopf;Geiereck;Donneregg
+Michael Schwarz,5,Seekareck;Karlhochkogel;Mieserkogel;Hochanger;Kaiserstein
+Peter Holzer,5,Gmeineck;Salzkofel;Naßfeldriegel;Kleiner Speikkofel;Hochpalfennock
+Raimund Mair,5,Olperer;Bendelstein;Sumpfkopf;Nösslachjoch (Kreuz);Rauschkogel
+Raphael Würtl,5,Karstein;Steinplatte - Ostgipfel;Steinplattengipfel;Lärchfilzkogel;Buchensteinwand
+Rick Brezina,5,Schwarzerspitz;Simmering;Graslitzen Ostgipfel;Dreiwallnerhöhe;Maiskogel
+Sebastian Benz,5,Hollbrucker Kreuz;Hollbrucker Spitze - Cima di Pontegrotta;Hohe Pressing;Kleiner Königstuhl;Würflinghöhe
+Stanislav Mayer,5,Zugspitze;Kaiserköpfe;Dobratsch;Golz;Nockstein
+Walter Wilding,5,Admonter Kalbling;Stein am Mandl;Hauser Kaibling;Seegupf;Herrenwartkogel
+Wolfgang Dummer,5,Lämpersberg;Schwaigberghorn;Breitegg Gern;Wildkarspitze;Jahnhügel
+al mo,5,Hoher Göll;Königstuhl;Schilchernock;Niederer Gernkogel;Wenghofköpfl
+Achim Groh,4,Ruitelspitze;Schwarzhanskarspitze;Mutte;Galtjoch
+Alfred Grundner,4,Gumpeneck;Großes Tragl;Schrettenkarspitz;Jauereck
+Bernhard Schachinger,4,Hochgrößen;Krämerkogel;Schallwand;Mathias Kogl
+Christian Berger,4,Schrocken;Traunkirchner Kogel;Erlakogel;Bischofsmütze Vorgipfel
+David Lankmayer,4,Speiereck;Aineck Nord;Großeck;Zwölfernock
+Egon Schwarz,4,Sandkogel;Frauenalpe;Krautschwellereck;Oberberg
+Fabian Bendlin,4,Elmer Muttekopf;Leilachspitze;Bschießer;Gaichtspitze
+Ferdinand Vogel,4,Öfenspitze;Gschöllkopf;Spitzstein;Rote Wand
+Franco Baccara,4,Torrione SAF;Torre dei Fiori;Torre Gabriele;Torre Peralba
+Friedrich Bloße,4,Hochrappenkopf;Muttlerkopf;Rappenköpfle;Kemptner Kopf
+Giuseppe Lizzi,4,Monte Peralba;Torre Tolmezzo;Campanile dell'Amicizia;Torrione Gennaro
+Gottfried Kaschnig,4,Kordeževa glava;Großer Asitz;Golica/Kahlkogel;Gitschenwand
+Günter Heigl,4,Brettspitze;Walcherkogel;Hüttenkogel;Maißzinken
+Günther Tschurnig,4,Glinzzipf;Pledigupf;Feuerkogel;Graskogel
+Helmut Hofer,4,Frauenkogel;Frunstberg;Filbling;Weinkogel
+Honza Novák,4,Kleiner Bösenstein;Zinkenkogel;Breiteckkoppe;Hintergullingspitz
+Janne Ali-Tolppa,4,Kleines Degenhorn;Hochwand;Schafsiedel;Steinbergstein
+Jürgen Kirchner,4,Hocheiser;Edelweißspitze;Edelweißspitze;Schusterkogel
+Karl Mauracher,4,Hochzeiger;Karlspitz;Bärfallspitze;Kalteck
+Karlo Pavlovic,4,Medelspitze;Grünberg;Käfereck;Rauhenstein
+Klaus Heimhofer,4,Strabelebenkopf;Salesen-Kogel;Hirschkarkogel;Kettingkopf
+Lukas Thöni,4,Kröndlhorn;Kröndlberg;Hochplatte;Kleine Salve
+Lukas Zangl-Jagiello,4,Karleck;Trübeck;Gstoder;Pleschaitz
+Mag. Leopold Walder,4,Hoher Bösring;Parggenspitze;Scheibenegg;Rauchegg
+Markus Waltl,4,Spielberghorn;Heimkehrerkreuz;Pfeiferkogel;Gerstberg
+Martin Zettler,4,Mölbegg;Jochspitze;Edelweißspitze;Unterkarspitz (Waidhofspitz)
+Matthias Grünwald,4,Tagweidegg;Lackenkogel;Kreuzkogel;Grießenkareck
+Matthias Sommer,4,Kohlbergspitze;Hönig;Zigerstein;Schönfeldjoch
+Michael Kessler,4,Schafgufel;Breithorn;Hoher Fraßen;Loischkopf
+Moritz Kampelmühler,4,Roter Turm;Schöttnerspitze;Laserzwand;Kleine Laserzwand
+Nick Neynens,4,Gamskogel;Hundskopf;Latschur;Roßkopf
+Peter Siller,4,Wilder Pfaff - Cima del Prete;Sonklarspitze - Cima di Malavalle;Signalgipfel;Aglsspitze - Cima dell Accla
+Reinhard Müllner,4,Stubnerkogel;Urkübel;Kieserl;Dorfer Himmel
+Rob S,4,Pirchkogel;Hornischegg - Monte Arnese;Eggerberg;Vorderes Sonnwendjoch
+Sandro Traussnig,4,Scharfes Eck;Maieranger Kogel;Weissenstein;Karleck
+Uli Straßer,4,Hüttenkogel;Wiesberg;Gruttenkopf;Kranzhorn
+hermann stimitzer,4,Weichselbachhöhe;Wasserinnerschneid;Handgender Kogel;Hochanger
+Alexander König,3,Schneibstein;Schwalbenwand;Reinsberg
+Alois Resinger,3,Ochsenbug;Bretterwandspitze;Bunzkögele
+Andreas Krapf,3,Eisenerzer Reichenstein;Frießenkogel;Himbergereck
+Bernhard Fuschlberger,3,Bischlingshöhe;Trattberg;Spielberg
+Bernhard Hofer,3,Festenkogel;Pfaffenstein;Donnersalpe
+Bernhard Korber,3,Bruderkogel;Großer Ringkogel;Lamprechthöhe
+Christoph Bessei,3,Grubreisentürme;Grubreisentürme;Grubreisentürme
+Enrico Erlach,3,Wintertalernock;Rindernock;Lierzberger Alpenspitz
+Flo Grillitsch,3,Rennfeld;Zöberer Höhe;Tulzerhöhe
+Franz Heim,3,Hochkar;Schwarzkogel;Schöfsteinkogel
+Franz Holzknecht,3,Hemerkogel;Lauser;Brand
+Fritz Mairitsch,3,Großer Sauofen;Sandofen;Zauberkogel
+Gerald Ameseder,3,Zietenkopf;Steinermandl;Hochstein
+Guenter Mair,3,Hinterer Brunnenkogel;Glanderspitze;Hausberg
+Hannes Bstieler,3,Figerhorn;Hintereggkogel;Planlißbichl
+Hannes Fleckl,3,Eiskarlspitz;Windlegerkopf;Windlegerspitz
+Harald Hilbinger,3,Westliches Dirndl;Östliches Dirndl;Almkopf
+Helmut Schröck,3,Gorner;Beißenkogel;Gelderkogel
+Heribert Hackl,3,Zagelkogel;Hochalm;Fressenberg
+Ingo Kallmeyer,3,Brentenjoch;Sefenspitze;Gamskopf
+Johann Wurzenberger,3,Ötscher;Taubenstein;Kleiner Ötscher
+Johannes Staufer,3,Hochschneid;Heumahdgupf;Scharnsteiner Spitze
+Juhana Lampinen,3,Pietrach;Tauernkogel;Birkkogel
+Kevin Fischer,3,Arnoldhöhe;Rameter Spitz;Staff
+Klemens Wilhelm,3,Wassertalkogel;Felderkogel;Hauerseekogel
+Lukas Ratz,3,Hoher Ifen;Üntschenspitze;Diedamskopf
+Manfred Marte,3,Končnikov vrh/Knieps;Wildensteiner Turm;Freiberg
+Manuel Fuetsch,3,Gasser Hörndle;Tögischer Berg;Happ
+Marcel Treue,3,Kreuzbühel;Hummelkopf;Matzelsdorfer Berg
+Markus Eder,3,Großer Breitstein;Schwarzenegg;Retschegg
+Markus Greimel,3,`s Gerennte;Göller;Türnitzer Höger
+Markus Grünseis,3,Hoher Sarstein;Schlenken;Königsberger Horn
+Martin Dietrich,3,Noten;Rosskopf;Kleinerberg
+Martin Persch,3,Leobner;Großer Schober;Rössel
+Martin Thomas,3,Schafreuter;Feldalphorn;Lanerköpfl
+Matthias Mayair,3,Bartlmann;Stubeck;Tschiernock
+Michael Rajakowitsch,3,Vorderer Wöllaner Nock;Priedröf;Palnock
+Michael Riess,3,Kahlwandspitze;Speikbichl (Schwaigerhöhe);Mitterkogel (Feuerstein)
+Moritz Schultes,3,Sinnesjoch;Aggenstein;Erzberg
+Patrick Freudenthaler,3,Almkogel;Hirscheck;Benn-Nock
+Paul Ehgarter,3,Hoher Zinken;Niederer Zinken;Roßloch
+Peter Wallner,3,Hoferkopf;Goldeck;Oisternig Ostgipfel
+Remie Denehy,3,Königsleitenspitze;Falkert;Tschaneck
+Rene Podpinka,3,Hochvogel;Östlicher Hüttenkopf;Westlicher Hüttenkopf
+Richard Spörer,3,Zwiesel;Hinteralm;Muckenkogel
+Robert Martl,3,Hirschkarspitze;Elfernock;Feldkofel
+Robert Schwaiger,3,Roßkopf;Hochfeld;Hochfeld
+Roland Fanzoy,3,Gurglitzen;Steinernes Mandl;Lassacher Höhe
+Stefan Gorbach,3,Pfrondhorn;Tristenkopf;Hochhäderich
+Timon Jahn,3,Gimpel;Rote Flüh;Kühgundspitze
+Tom Wagner,3,Hochiss;Streichkopf;Dalfazer Joch
+Torsten Hahne,3,Zwölferkopf;Mitterhorn;Jungfrau
+Udo Egger,3,Rappenköpfle;Madonnakopf;Kopes
+Vitus Auer,3,Narrenkogel;Wenderkogl;Stanser Joch
+Walter Elsner,3,Hohe Zölz;Hühnerkogel;Gutweinhöhe
+Walter Wöhrer,3,Kitzsteinhorn;Keuchenkogel;Wildenkarkogel
+Wolfgang Raffler,3,Niederer Eichham;Hochrast - Pausa Alta;Bunköpfl
+martin gruber,3,Mirnock;Martennock;Hohe Lins
+simon penz,3,Valluga;Galzig;Galzig
+stefan gleinser,3,Gaislachkogel;Hafelekarspitze;Blaser
+Achim Rasser,2,Glattmar;Falvkopf
+Adam J. Doležal,2,Großes Fieberhorn;Kleines Fieberhorn
+Adolf Perner,2,Warscheneck;Geigenkogel
+Alexander Vikulin,2,Isskogel;Gerloskogerl
+Alexandra Teufel,2,Innerer Kesselkopf;Türndl
+Alfred Hörmann,2,Großer Koppenkarstein;Hinterer Türlspitz
+Alois Zauner,2,Planspitze;Zaunerkogel
+Andrea Raninger,2,Mittleres Streitmandl;Vorderes Streitmandl
+Andreas Brünner,2,Aflenzer Bürgeralm;Hochegg
+Andreas Wonisch,2,Terzer Göller;Rührerberg
+Armin Matzl,2,Hoher Stand;Törl
+Barry Zeldenrust,2,Dolzer;Ederplan
+Beat Keller,2,Hochgerach (Laternser Gipfel);Leuenkopf
+Benedikt Dornauer,2,Felsköpfl - Punta del Balzo;Gfallenspitz
+Bernhard Peßl,2,Plankogel;Aibelhöhe
+Chrigel Maurer,2,Schüttalkopf;Gruberhorn
+Christian Barthelmann,2,Hinteres Sonnwendjoch;Christlumkopf
+Christian Ellmauer,2,Schafberg;Kampl
+Christian Löschenkohl,2,Planai;Kreuzleitenkopf
+Christian Schartner,2,Großvenediger;Hinteres Freieck
+Christian Schäffer,2,Heulantsch;Madereck
+Christoph Salcher,2,Zwölferkogel;Kuhfeldhörndl
+Christoph Wolf,2,Hohe Veitsch;Pretul
+Clemens Schrempf,2,Preber;Dromeisspitze
+Daniel Guttenberg,2,Galtviehkopf;Hochkeil
+Daniel Schmitt,2,Hochunnütz;Seekarspitze
+Daniel Tyrkas,2,Westliche Karwendelspitze;Nördliche Linderspitze
+David Bengtsson,2,Schattberg-Ost;Zwölferkogel
+David März,2,Rauhenkopf;Schrambachkopf (Sonnkogel)
+Eduardo Gellner,2,Tabor;Eibleck
+Emanuel Pixner,2,Zeiritzkampel;Kreuzspitze
+Erwin Ebner,2,Mittelgipfel;Breiter Kopf
+Fabiano Paolini,2,Monte Carnizza / Garnitzenberg;Gugga
+Felix Bellinghausen,2,Rosskopf;Markbachjoch
+Florian Klein,2,Öfakopf;Kreuzkogel
+Franz Josef Schögl,2,Stangenkogel;Fahnenkogel
+Franz Marcher,2,Spitzegel;Gerlitzen
+Franz Sailer,2,Mitterberg;Nad Rakouskou loukou
+Franz Tockner,2,Klamperschrofen;Schwarzkopf
+Friedl Peschl,2,Natterriegel;Mittagskogel
+Fritz Dorninger,2,Tischkogel;Gernkogel
+Gerald Gold,2,Hochturm;Jöchl
+Gerhard Neuhold,2,Ebenschlag;Buchkogel
+Gernot Völkl,2,Stadelstein;TAC-Spitze
+Gotti Fly,2,Faistenauer Schafberg;Rannberg
+Günther Hedl,2,Polster;Lahngang
+Hannes Kapferer,2,Serles;Alpkopf
+Hannes Ortmayr,2,Zwölferkogel;Tamischbachturm
+Harald Geiger,2,Hochlicht;Zafernhorn
+Heimo Novakovic,2,Sonntagskogel;Mitterstein
+Helmut Kirchmeyr,2,Kleiner Helmeskogel;Kleiner Steinkogel
+Helmut Kurt Schrempf,2,Scheichenspitze;Kühofenspitz
+Herbert Schoberegger,2,Greim;Rossalm
+Herbert Tamegger,2,Rauhe-Nadel-Kopf;Exenberg
+Igor Kremsar,2,Vellacherturm;Ledinski vrh
+Johann Stirmayr,2,Burgspitz;Smrčina / Hochficht
+Johannes Duschl,2,Rostizkogel;K2
+Johannes Haim,2,Kniekogel;Bräuningzinken
+Johannes Oberwalder,2,Cimaroß;Arbiskopf
+Josef Brandner,2,Schauerköpfl;Aukopf
+Josef Fuchsberger,2,Zechnerkarspitz;Samspitze
+Jugo Lenz,2,Miesriegel;Aibel
+Juraj Koreň,2,Wildspitze;Wildspitze (Nordgipfel)
+Jörg Grabner,2,Schermberg;Jägerspitz
+Jörg Leibiger,2,Hochtristen;Schneiderkogel
+Jörg Müller,2,Maurerkogel;Messnerin
+Klaus Lampert,2,Hochjoch;Gurtisspitze
+Lainer Roman,2,Schwarzwand;Hofer Plattl
+Lisa Bauer,2,Mahdspitze;Kleiner Mittagskogel / Koroška Mala Kepa
+Lode Spruyt,2,Ahornstein;Öbristkopf
+Lois Grugger,2,Aperes Schareck;Schultersbachhöhe
+Lukas Müller,2,Hochgerach;Goppeskopf
+Maria Edlbauer,2,Großes Wiesbachhorn;Augustinkogel
+Marius Wigge,2,Kugelhorn;Tristmahlnschneid
+Markus Fuchs,2,Schafelkopf;Breitkopf
+Markus Gappmaier,2,Rettenstein;Langweidkogel
+Markus Tranninger,2,Krippenstein;Solingerkogel
+Martin Brunn,2,Latschätzkopf;Baumgarten
+Martin Gassner,2,Galinakopf;Spitztäle
+Martin Graf,2,Hartkaiser;Juffinger Jöchl / Paisslberg
+Martin Jeßner,2,Gumma;Lachriegel
+Martin Petz,2,Vogelhörnle;Neunerköpfle
+Martin Piehslinger,2,Sternspitze;Teuerlnock
+Martin Röck,2,Finsterkopf;Tagkopf
+Matthias Hohlrieder,2,Möslalmkogel;Möslalmkreuz
+Matthias Wieser,2,Kühbodenspitze;Auf der Mussen
+Maximilian Loidl,2,Plattiger Habach;Steinkogel
+Michael Gollner,2,Henne;Hochhörndlerspitze
+Michael Lechtermann,2,Zwölferkopf;Einerkopf
+Michael Malchereck,2,Schleinitz;Hefferthorn
+Michael Prägant,2,Wöllaner Nock;Kaiserburg
+Michael Untersteiner,2,Gensgitsch;Wildfeld
+Michal Gierlach,2,Penkkopf;Hochrohkopf
+Norbert Breitler,2,Hühnereck;Kohlanger
+Oliver Binna,2,Wannejöchl;Gschwandtkopf
+Oliver Teubert,2,Sonntagshorn;Wiesegg
+Paul Guschlbauer,2,Brandhorn;Kareck
+Paul Paier,2,Heukuppe;Törlkopf
+Paul Schmuck,2,Seckauer Zinken;Wörschacher Reidling
+Peer Markwardt,2,Kl. Schöberl;Kleines Schöberl
+Peter Freydl,2,Übelsteinberg;Rabnitzberg
+Peter Schaller,2,Rödresnock (Moschelitzen);Gertrusk
+Philipp Berger,2,Kleiner Priel;Tamberg
+Philipp Wiltsche,2,Bielerspitze;Bieler Kopf
+Philipp Zellner,2,Voldöpper Spitze;Voldöpper Spitze (Brandenberg)
+Pál Takáts,2,Großer Möseler - Grande Mèsule;Sonnenspitze
+Raphael Pongratz 🪂,2,Sulzfluh;Hohe Kugel
+René Aglas,2,Rossbrand;Hochsalm
+Richard Fritz,2,Reiningspitz;Bierfasselkopf
+Robert Blum,2,Kreuzeck;Nebelhorn
+Robert Streitberger,2,Dörfler Höhe;Payerhöhe
+Roland Rodler,2,Kampalpe;Hocheck
+Rolf Erhardt,2,Karhorn;Wannenkopf
+Roli Sat,2,Scheckbühel;Niederer Burgstall
+Sebastian Witzmann,2,Stuckkogel;Ehrenbachhöhe
+Severin Puschkarski 🌤,2,Gampberg;Saroja
+Simon Prüller,2,Hinterer Polster;Riegerin
+Stefan Hofer,2,Kesselspitze;Hammerspitze
+Stefan Kirchner,2,Rescheskogel;Oberer Gernkogel
+Thomas Bergmüller,2,Neubirg;Wastlhöhe
+Thomas Hofbauer,2,Fölzstein;Achnerkuchel
+Thomas Höller,2,Hohe Schrott;Häsing
+Thomas Leitner,2,Blößenegg;Bärnerkogel
+Thomas Schnöll,2,Balonspitze;Kaltenfeldspitze
+Thomas Walder,2,Filzenkogel;Penken
+Till Gottbrath,2,Nesselberg;Wirtsalpkopf
+Uli Wiesmeier,2,Südliche Linderspitze;Mittlere Linderspitze
+Walter Herz,2,Winterstaude;Brendler Lug
+Werner Jäger,2,Tschaggunser Mittagsspitze;Hintere Niedere
+Werner Weissmann,2,Stol;Mali Stol
+Wilfried Blaas,2,Grawand - Croda delle Cornacchie;Graue Wand - Croda Grigia
+Wolfg. Kothgasser,2,Spieljoch;Schöcklkopf
+Wolfgang Plaickner,2,Wieserhörndl;Jägernase
+Wolfgang Steinbichler,2,Helmeskogel;Elexenberg
+Wolfgang Steininger,2,Paulnriedl;Latschenkogel
+christopher manzl,2,Hohe Salve;Hahnenkamm
+herbert warth,2,Spieljoch;Onkeljoch
+karl steinegger,2,Elm;Reichenstein
+michael kraeftner,2,Kaiserstein;Donnerkogel
+nemtom eztse,2,Bodeneck;Radentheiner Kreuz
+robert heim,2,Hohe Stuhl;Ahornkogel
+willi ludwig,2,Gföllhörndl;Gschaidberg
+Albert Lukasser,1,Schoberköpfl
+Alberto Dal Maso,1,Similaun
+Alex Schalber,1,Baumbachspitze
+Alexander Lang,1,Rote Säule
+Alexander Robé,1,Loneskopf
+Alexander Stracker,1,Trelebitschkopf
+Alois Ralser,1,Gefrorene-Wand-Spitzen
+Andreas Haberl,1,Zetz
+Andreas Komorowski,1,Lodron
+Andreas Pranzl,1,Scheiblingstein
+Andreas Sanner,1,Amberger Alm
+Andreas Schmidthaler,1,Schoberstein
+Andreas Stauder,1,Laba
+Anton Holly-Röck,1,Ochsenriedel
+Armin Seeberger,1,Kreuzjoch
+Arnel Fazlic,1,Alpl
+Barış Çelik,1,Grinnköpfl
+Ben Döm,1,Preiner Wand
+Benjamin Jordan,1,Vorderes Labeneck
+Benjo Schmid,1,Gößeck
+Benno Nennhuber,1,Wildkogel
+Bernd Ohm,1,Schneegruben
+Bernd Weitzel,1,Plattenkogel
+Bernhard Fercher,1,Bretterspitze
+Bernhard Kirnbauer,1,Hochbrand
+Bernhard Maruschek,1,Schoberkogel
+Berni Koller,1,Hahnenkamm
+Berthold Opferkuch,1,Zehnerkopf
+Blasius Bachhammer,1,Wetterfahne
+Bogdan Baziuk,1,Steinbergkogel
+Bohus Kolesar,1,Kreuzkofel
+Boris Kalisch,1,Goiselemandl
+Brigitte Hofer,1,Bleckwand
+Brigitte Kurbel,1,Lachenkopf
+Brooke Whatnall,1,Laubkogel
+Bryan Moore,1,Osternig / Oisternig
+Cassian Gajda,1,Kanzelwand
+Christian Falch jun.,1,Wankspitze
+Christian Grohs,1,Hochblaser
+Christian Habich,1,Schwarzkofel
+Christian Hochegger,1,Kragelschinken
+Christian Lamm,1,Harschbichl
+Christian Opetnik,1,Feistritzerspitze
+Christian Ruf,1,Kühgundkopf (DE) - Wannenjoch (AT)
+Christian Schöll,1,Lüneregg
+Christian Tamegger,1,Hochälpelekopf
+Christine Pucher,1,Draiacher B.
+Christoph Burger,1,Gruttenköpfl
+Christoph Eder,1,Schareck
+Christoph Hilgärtner,1,Kumpfkarspitze
+Christoph Zacher,1,Zeiger
+Dan Krejci,1,Hoarbergkarspitze
+Daniel Renner,1,Blaseneck
+Daniel Schiffner,1,Hochstaff
+David Astl,1,Platte
+David Schmid,1,Mugel
+Dieter Buchmann,1,Langstein
+Dietmar Baumann,1,Buchbergkogel
+Dietmar Hammer,1,Kanzelhöhe
+Dietmar Steiner,1,Radhausberg
+Dominic Rohner,1,Gammerspitze
+Dominik Taurer,1,Stagor
+Dominika Kasieczko,1,Grafenberg
+Edith Riedler,1,Gamseck
+Eduard Stiegler,1,Lackner Miesberg
+Egon Haberler,1,Bründlkogel
+Elisabeth Egger,1,Glutserberg
+Erich Heigl,1,Schwarzkogel
+Ernesto Hinestroza,1,Großer Gundkopf
+Erwin Holzer,1,Schießling
+Evgeny Leontyev,1,Hundstein
+Ewald Lidl,1,Kufstein
+Fabian Reichholf,1,Taghaube
+Fabian Reiner,1,Staufen
+Felix Hoff,1,Zwölferkopf
+Ferdinand Gmeiner,1,Jöchelspitze
+Florian Gastelsberger,1,Hoher Spielberg
+Florian Hauser,1,Krinnenköpfe
+Florian Knoll,1,First
+Florian Sukup,1,Schneeberg
+Frank Schmidt,1,Pfannegg
+Franz Breitwieser,1,Nasen
+Franz Martin lang,1,Stotzkopf
+Franz Suppan,1,Dürre Leiten
+Fred Forcher,1,Gurlspitze
+Friedrich Kostersitz,1,Brettstein
+Furtner Michael,1,Fritzerkogel
+Georg Auer,1,Einberg
+Georg Czermak,1,Ruderhofspitze
+Georg Perner,1,Kampspitze
+Gerald Danner,1,Steinkogel
+Gerald Haas,1,Brennert
+Gerhard Gassner,1,Sonnwendköpperl
+Gerhard Peuker,1,Kalte Mauer
+Gerhard Pfeffer,1,Schattberg West
+Gernot Pixner,1,Gerlerkogel
+Gino Kaidisch,1,Kapin / Capin di levante
+Gino Münch,1,Rohnenspitze
+Giovanni Negro,1,Costone Stella
+Gregor Liebisch,1,Haneggkogel
+Gregor Sulzbacher,1,Lahnerkogel
+Guntram Büchel,1,Dünser Horn
+Gábor Szalai,1,Kemahdhöhe
+Hannah Müller,1,Zererköpfle
+Hannes Kuenzer,1,Hoher Weißzint - Punta Bianca
+Hans Gabriel,1,Hraničník / Reischlberg
+Hans Jürgen Brechtler,1,Traweng
+Hans Keim,1,Predigtstuhl
+Hans Nüesch,1,Schafköpfe
+Hans Platzer,1,Seeleiten
+Hans Staubmann,1,Geigerkogel
+Hansjörg Auer,1,Wetterkreuzkogel
+Harald Khek,1,Hocheck
+Harald Maier-Kern,1,Hochetzkogel
+Harald Rimml,1,Rossköpfe
+Harald Vollmer,1,Kegelstattkegele
+Hartweger Robert,1,Schuhflicker
+Helmut Berger,1,Speiereck
+Helmut Eichholzer,1,Kreuzkogel
+Helmut Forstner,1,Spielkogel
+Helmut Gappmaier,1,Salersbachköpfl
+Helmut Glasenhardt,1,Wetterkogel
+Helmut Knabe,1,Nob
+Helmut Kreuzhuber,1,Koglerstein
+Helmut Mariner,1,Kleines Mandl
+Herbert Pfeffer,1,Maurerkogel
+Hermann Klein,1,Gehrenspitze
+Hermann Pfister,1,Roßfeld
+Hermann Raninger,1,Dürrenstein
+Jack Garett Leavers,1,Napf
+Jacob Krammer,1,Zinkenkopf
+Jarek Vanc,1,Mokarspitz
+Jerome Mertens,1,Hohe Mut
+Jiří Hlavatý,1,Schartenspitze
+Jiří Kutil,1,Atterkogel
+Jo H,1,Gernkogel
+Jochen Schweizer,1,Geißfuß
+Joerg Nuber,1,Golmer Joch
+Johann Drack,1,Farrenaubühel (Hochberg)
+Johann Kronberger,1,Knoten
+Johann Sulzbacher,1,Kalcherberg
+Johann Weisenberger,1,Rosseck
+Johannes Ferner,1,Kleines Gurpitscheck
+Johannes Gschwandtl,1,Saukarkopf
+Johannes Karu,1,Elsenkopf
+Johannes Klackl,1,Leonsberg
+Johannes Lindmoser,1,Gründegg
+Johannes Schantl,1,Brennwald
+Johannes Stolba,1,Hornfeldspitz
+Johannes Weinberger,1,Ilgner Alpl
+Josef Nindl,1,Östliche Kaminspitze
+Juan Carlos Kraihammer,1,Hochkarfelderkopf
+Julian Kaufmann,1,Schesaplana
+Julian Obergruber,1,Rippetegg
+Jörg Lechner,1,Gamskogel
+Jürgen Klein,1,Gedrechter
+Jürgen Thomas,1,Stemmerkogel
+Karl Ebelsberger,1,Wimmersberg
+Karl Leh,1,Almkogel
+Karl Schögl,1,Riffel
+Karol Ladoš,1,Klenitzen
+Karsten Dobritz,1,Brennköpfl
+Katharina Herdegen,1,Lämmerbichl
+Katrin Tanner,1,Bschlaber Kreuzspitze
+Kevin Halle,1,Vorderunnütz
+Klaus Dieter Lechner,1,Spitzplaneck
+Klaus Maier,1,Schneefernerkopf
+Klaus Santner,1,Golzhöhe
+Kurosch Borhanian,1,Hoher Zinken
+Kurt Burger,1,Burg
+Kurt Eder,1,Kleiner Tauernkopf
+Kurt Schöggl,1,Gemeindealpe
+Leopold Stepan,1,Rauchkofel
+Linus Watzenegger,1,Hoher Freschen
+Lorenz Brusa,1,Naafkopf
+Louis Seidl,1,Linsberg
+Lukas Haas,1,Mauereck
+Lukas Höck,1,Schwarzkogel
+Lukas Smejkal,1,Jakobskogel
+Lukáš Kunovský,1,Marchreisenspitze
+M C,1,Breitbichl
+Maarten Swart,1,Gripp
+Manfred Böttinger Böttinger,1,Gamsstein
+Manfred Geier,1,Waxriegel
+Manfred Koppatz,1,Niederpolster
+Manuel Nübel,1,Neualpspitze
+Manuel Oka,1,Kirchl
+Marcin Duszynski,1,Hochkasern
+Marco Senegacnik,1,Sparafeld
+Marcos Artner de Lucas,1,Gartner Joch
+Marcus Winkler,1,Niederer Türlspitz
+Mario Gaschnig,1,Kornock
+Mario Linemayr,1,Rüfikopf
+Marius Laux,1,Speikbichl
+Markus Ahrer,1,Hohe Penhab
+Markus Aichstill,1,Gurpitschnock
+Markus Anders,1,Diereck
+Markus Brunner,1,Kosiak
+Markus Dobernig,1,Millstätter Alpe
+Markus Ebenfeld,1,Schmittenhöhe
+Markus Kroiss,1,Riedlberg
+Markus Loss,1,Alpwegkopf
+Markus Oberwalder,1,Innerer Knorrkogel
+Markus Pfister,1,Bärenkopf
+Markus Schafferhofer,1,Schauerstein
+Markus Schnöll,1,Tanzboden
+Markus Smeykal,1,Herndleck
+Markus Tripolt,1,Breitenstein
+Markus Umseher,1,Bleispitze
+Markus Wild,1,Mohar
+Martin Aglibut,1,Sechszeiger
+Martin Fleischhacker,1,Frühmesser
+Martin Fürbaß,1,Krakaberg
+Martin Grill,1,Weißkogel
+Martin Gräfling,1,Roßbachkogel
+Martin Kopecký,1,Hochsonnberg
+Martin Lifka,1,Wandberg
+Martin Madleitner,1,Großer Schmiedinger
+Martin Milleder,1,Mühlbacher Kogel
+Martin Morak,1,Lippekogel
+Martin Oberrauner,1,Lahnernock
+Martin Postl,1,Große Scheibe
+Martin Wörther,1,Sonnenwendkogel
+Marvin Wibmer,1,Arlthöhe
+Mate Szomjak,1,Erzkogel
+Matteo Vitale,1,Gritzer Riegel
+Matthias Göbel,1,Oberer Daunbichl
+Matthias Helm,1,Manlitzkogel
+Matthias Langanger,1,Lueg
+Matthias Leitner-Bartussek,1,Windgrube
+Matthäus Eberharter,1,Knorren
+Max Schmid,1,Schönberg
+Maximilian Rotter,1,Ladenberg
+Meinhard Assmair,1,Berger Kogel
+Michael Eder,1,Gappenkopf
+Michael Grünebach,1,Feichteck
+Michael Lacher,1,Schlappolteck
+Michael Laur,1,Gilmenkopf
+Michael Pohl,1,Böses Weibele
+Michael Rüdisser,1,Zamangspitze
+Michael Sommerauer,1,Stoderzinken
+Michael Stranig,1,Koppen
+Michael Sölle,1,Hohenwart
+Michael Zürnstein,1,Hochgruben - Tovo Alto
+Michaela Ammerl,1,Veitsberg
+Michaela Brandstätter,1,Alblittköpfe
+Michi Šlachta,1,Schlageck
+Miran Kreuzer,1,Zoderkogel
+Monika Schapmann,1,Hälekopf
+Nick Bither,1,Haidnerhöhe
+Nicky Thomas,1,Rabenkopf
+Nik Haminger,1,Vormauerstein
+Nikolaus Gfrerer,1,Spielkogel
+Norbert Winkler,1,Lammersdorfer Berg
+Oberreiter Rupert,1,Koreinhöhe
+Olga Batyshkina,1,Großes Pfuitjöchle
+Oliver Kronawithleithner,1,Mittlerer Sattelkopf
+Oliver Ogris,1,Kofce gora / Hüttenberg
+Ondrej Prochazka,1,Haller Zunterkopf
+Ondřej Johanovský,1,Langkofel
+Ondřej Pavlík,1,Leckkogel
+Oskar Weissteiner,1,Schwarzenstein - Sasso Nero
+Otto Voigt,1,Gräsakopf
+Pascal Arnet,1,Rote Wand
+Patrick Dünser,1,Kuhgrat
+Patrick Gollnhuber,1,Stuhleck
+Patrick Robier,1,Braggstein
+Pauline Müller,1,Mühlwaldköpfl / Gartigköpfl
+Pavel Holan,1,Lochner Horn
+Pavel Valasek,1,Egger-Wiesen-Kopf
+Peter (Bene) Rainer,1,Böse Nase
+Peter Auer,1,Rudersburg
+Peter Behofsics,1,Bromberg
+Peter Bergmüller,1,Korein
+Peter Brandlehner,1,Tagweide
+Peter Dullnig,1,Kleiner Asitz
+Peter Egger,1,Pleschberg
+Peter Gründler,1,Brennkopf
+Peter Gutschi,1,Steinschneider
+Peter Koeck,1,Hochkogel
+Peter Moser,1,Hocheck
+Peter Schaffer,1,Kuhalm
+Peter Schlatzer,1,Thalerkogel
+Peter Wais,1,Fellhorn
+Peter Weitzbauer,1,Sonnwendstein
+Peter Wipplinger,1,Älpelekopf
+Petr Chromec,1,Lackentörlspitz
+Petr Kostrhun,1,Schafkopf
+Petr Vlas,1,Resterhöhe
+Philip Sauren,1,Achselkopf
+Philipp Dönz,1,Zimba
+Philipp Rimkus,1,Lochgehrenspitze
+Philipp Schiefer,1,Fulseck
+Philipp Stubner,1,Großer Wildkamm
+Philipp Zwicker,1,Reißkofel
+Pochiu Adrian,1,Napfe
+Radek Frolík,1,Naglköpfl
+Ralf Eichelsdörfer,1,Pitzenegg
+Ralf Sieg,1,Vorderes Alpjoch
+Raumauf Anton,1,Hornköpfl
+Rebecca Tsukalas,1,Hirschberg
+Richard Maltan,1,Pfaffenkegel
+Richard Söser,1,Thorhöhe
+Rinaldo Vuerich,1,Deferegger Riegel
+Robert Klammer,1,Kanzel
+Robert Wagner,1,Schwarzwaldeck
+Roger Gubler,1,Unterer Sattelkopf
+Roland Lämmerer,1,Törl
+Roland Oberlercher,1,Schlafkogel
+Roman Jöchl,1,Prostkögerl
+Roman Reisinger,1,Wetterin
+Ronald Reinisch,1,Grüblspitze
+Rosemarie Claudia Szilagyi,1,Kleines Pfuitjöchle
+Rudolf Koll,1,Durcheckkopf
+Rudolf Niedermühlbichler,1,Guggenkögele
+Rudolf Zwillilng,1,Arlspitze
+Sabine Schwartz,1,Krahbergzinken
+Samuel Blocher,1,Kapall
+Samuel Gamsjäger,1,Loser
+Samuel Landolt,1,Lazidkopf
+Sasha Serebrennikova,1,Thurntaler
+Sebastian Gruber,1,Vöttleck
+Sebastian Hyvönen,1,Rotspitz
+Sebastian Rommel,1,Speikkogel
+Sebastian Schaidreiter,1,Mooskopf
+Simon Arnold,1,Brandstadl
+Simon Hofmarcher,1,Prochenberg
+Simon Volker,1,Imbachhorn
+Stefan Brandlehner,1,Walmendinger Horn
+Stefan Fercher,1,Kuhhaut
+Stefan Horngacher,1,Gaisberg
+Stefan Petzner,1,Grebenzen
+Stefan Plach,1,Härmelekopf
+Stefan Puchegger,1,Schwarzriegel
+Stefan Schröder,1,Roßkopf
+Stefan Taxer,1,Tennkogel
+Stefan Thaler,1,Großer Solstein
+Stefano Morettini,1,Rumer Nadel
+Stephanie Westerhuis,1,Geiereck
+Tamara Hoebinger,1,Kleiner Bosruck
+Theresia Brüggl,1,Eiskogel
+Thomas Piok,1,Hoadl
+Thomas Wolfger,1,Zirbitzkogel
+Tim Bek,1,Hinterer Spiegelkogel
+Tobias Brandl,1,Rofanspitze
+Tobias Römer,1,Kraxentrager
+Tobias Trinker,1,Moaralmspitze
+Tom Hoffmann,1,Grubigstein
+Tom Tschinkel,1,Roßkogel
+Tom Weissenberger,1,Gaisberg
+Tomas Vidlák,1,Strimskogel
+Tomáš Valenta,1,Dreimarkstein
+Ulf Huegel,1,Krahberg
+Ulrike Plech,1,Triebenkogel
+Umut Tuncer,1,Zirleseck
+Urs König,1,Gratlspitze
+Uwe Schönwälder,1,Krenspitze
+Valentin Platzer,1,Weißkugel - Palla Bianca
+Voithofer Gregor,1,Breitkopf
+Vojtech Jonak,1,Wankrautkopf
+Václav Lukeš,1,Blaubergschneid
+Walter Schmaranzer,1,Hoher Kalmberg
+Walter Tritthart,1,Rosennock
+Wendelin Ortner,1,Gabesitten
+Werner Obereder,1,Kohlmais
+Werner Raschböck,1,Zitterauer Tisch
+Werner Schütz,1,Zinnenberg
+Wolfgang Bernhard,1,Graskögerl
+Wolfgang Fritz,1,Gaugen
+Wolfgang Graf,1,Gschwandtnerberg
+Wolfgang Haertl,1,Krinnenspitze
+Wolfgang Köchler,1,Wiedersberger Horn
+Wolfgang Muehlhans,1,Ranstein
+Wolfgang Neiss,1,Hohe Weichsel
+Wolfgang Schrank,1,Schwarzkogel
+Wolfgang Stamm,1,Lärchkogel
+Yanick Dickbauer,1,Großer Schoberstein
+Yauhen Leukavets,1,Stongerhöhe
+Yoshi Pasha,1,Unterberghorn
+Zdenka Chromcová,1,Sonntagskogel
+claus eberharter,1,Karspitz
+cosy cosy,1,Zehner-Nock
+erwin brandstaetter,1,Toter Mann
+florian hutter,1,Mittagskogel
+gerhard Scheffknecht,1,Schwarzer Turm
+guenther hutterer,1,Sonnwendkogel
+günther walcher,1,Brandnerkogel
+hannes salomon,1,Mittagsjoch
+hans poscher,1,Teufelskirche
+ivanripoll nebelhorn,1,Gaisalphorn
+javad akbari,1,Stroß
+leonhard tieber,1,Grieskogel
+michael witschi,1,Ascherjoch (Semmelkopf)
+norbert schmiderer,1,Lachfeldkopf
+siegfr hagen,1,Sulzspitze
+stefan hollenstein,1,Scheienfluh
+steffen lehmann,1,Wannaköpfle
+werner resel,1,Kleiner Dürrenstein
+werner schweiger,1,Schleifkogel
+wolfgang hasenknopf,1,Hohes Brett
