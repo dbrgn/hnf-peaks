@@ -70,3 +70,6 @@ $psql -f osmosis/script/pgsnapshot_schema_0.6.sql
 # Load data
 log "Loading data into database \"$DB\"..."
 $psql -c "\copy nodes FROM '$DB/nodes.txt';"
+
+# Fix data
+$psql -c "UPDATE nodes SET tags['ele'] = '2686' WHERE id = 2688736131;"
