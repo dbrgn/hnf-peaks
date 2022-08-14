@@ -1,0 +1,805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5812795",
+          "47.0527317"
+        ]
+      },
+      "properties": {
+        "title": "Vorder Grauspitz",
+        "ele": "2599",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5874533",
+          "47.0548251"
+        ]
+      },
+      "properties": {
+        "title": "Hinter Grauspitz",
+        "ele": "2574",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.6070544",
+          "47.060772500000006"
+        ]
+      },
+      "properties": {
+        "title": "Naafkopf",
+        "ele": "2571",
+        "flights": 1,
+        "top": {
+          "pilot": "Lorenz Brusa",
+          "dist": "64.87 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5640342",
+          "47.050440200000004"
+        ]
+      },
+      "properties": {
+        "title": "Falknis",
+        "ele": "2565",
+        "flights": 7,
+        "top": {
+          "pilot": "Johannes Engewald",
+          "dist": "48.92 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5569179",
+          "47.0485148"
+        ]
+      },
+      "properties": {
+        "title": "Mazorakopf",
+        "ele": "2452",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5764741",
+          "47.036272000000004"
+        ]
+      },
+      "properties": {
+        "title": "Glegghorn",
+        "ele": "2447",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.6101097",
+          "47.0823936"
+        ]
+      },
+      "properties": {
+        "title": "Augstenberg",
+        "ele": "2359",
+        "flights": 8,
+        "top": {
+          "pilot": "Martin B\u00fchler",
+          "dist": "175.56 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5776558",
+          "47.0659585"
+        ]
+      },
+      "properties": {
+        "title": "Plasteikopf",
+        "ele": "2345",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.6186837",
+          "47.078138200000005"
+        ]
+      },
+      "properties": {
+        "title": "Gorfion",
+        "ele": "2308",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.6246738",
+          "47.114693"
+        ]
+      },
+      "properties": {
+        "title": "Ochsenkopf",
+        "ele": "2286",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5713592",
+          "47.073272700000004"
+        ]
+      },
+      "properties": {
+        "title": "Hochspeler",
+        "ele": "2226",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.565981",
+          "47.076840600000004"
+        ]
+      },
+      "properties": {
+        "title": "Rappastein",
+        "ele": "2222",
+        "flights": 4,
+        "top": {
+          "pilot": "Kurt M\u00fcller",
+          "dist": "16.77 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.6205943",
+          "47.151639200000005"
+        ]
+      },
+      "properties": {
+        "title": "Galinakopf",
+        "ele": "2198",
+        "flights": 2,
+        "top": {
+          "pilot": "Martin Gassner",
+          "dist": "14.60 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.623966900000001",
+          "47.086608700000006"
+        ]
+      },
+      "properties": {
+        "title": "Spitz",
+        "ele": "2187",
+        "flights": 4,
+        "top": {
+          "pilot": "Hermann Lenherr",
+          "dist": "38.77 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.6358519",
+          "47.1283449"
+        ]
+      },
+      "properties": {
+        "title": "Scheienkopf",
+        "ele": "2159",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.6055122",
+          "47.0871307"
+        ]
+      },
+      "properties": {
+        "title": "Silberhorn",
+        "ele": "2150",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5524",
+          "47.057900000000004"
+        ]
+      },
+      "properties": {
+        "title": "Rot Spitz",
+        "ele": "2127",
+        "flights": 1,
+        "top": {
+          "pilot": "Rolf Erhardt",
+          "dist": "8.87 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5608307",
+          "47.1666716"
+        ]
+      },
+      "properties": {
+        "title": "Kuhgrat",
+        "ele": "2122",
+        "flights": 4,
+        "top": {
+          "pilot": "Patrick D\u00fcnser",
+          "dist": "23.68 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5675293",
+          "47.082143200000004"
+        ]
+      },
+      "properties": {
+        "title": "Goldlochspitz",
+        "ele": "2110",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.564618900000001",
+          "47.170281"
+        ]
+      },
+      "properties": {
+        "title": "Garsellikopf",
+        "ele": "2104",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.593016",
+          "47.1303811"
+        ]
+      },
+      "properties": {
+        "title": "Sch\u00f6nberg",
+        "ele": "2104",
+        "flights": 2,
+        "top": {
+          "pilot": "Rolf Erhardt",
+          "dist": "24.45 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5981153",
+          "47.0931366"
+        ]
+      },
+      "properties": {
+        "title": "Nospitz",
+        "ele": "2091",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.588753",
+          "47.124486600000004"
+        ]
+      },
+      "properties": {
+        "title": "Drei Kapuziner",
+        "ele": "2085",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5729714",
+          "47.1755681"
+        ]
+      },
+      "properties": {
+        "title": "Drei Schwestern",
+        "ele": "2051",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.569741200000001",
+          "47.1699652"
+        ]
+      },
+      "properties": {
+        "title": "Garselli-Turm 1",
+        "ele": "2049",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5734963",
+          "47.1764512"
+        ]
+      },
+      "properties": {
+        "title": "Wolan",
+        "ele": "2034",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.559697100000001",
+          "47.079423500000004"
+        ]
+      },
+      "properties": {
+        "title": "Langspitz",
+        "ele": "2006",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.561883400000001",
+          "47.1485896"
+        ]
+      },
+      "properties": {
+        "title": "Helwangspitz",
+        "ele": "2000",
+        "flights": 1,
+        "top": {
+          "pilot": "Hermann Lenherr",
+          "dist": "17.40 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5721006",
+          "47.0876195"
+        ]
+      },
+      "properties": {
+        "title": "Kolm",
+        "ele": "1993",
+        "flights": 2,
+        "top": {
+          "pilot": "Matthias G\u00f6bel",
+          "dist": "20.41 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5549163",
+          "47.158919700000006"
+        ]
+      },
+      "properties": {
+        "title": "Gafleispitz",
+        "ele": "1982",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5539036",
+          "47.148701300000006"
+        ]
+      },
+      "properties": {
+        "title": "Alpspitz",
+        "ele": "1942",
+        "flights": 9,
+        "top": {
+          "pilot": "Peter Haltiner",
+          "dist": "97.62 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.556748500000001",
+          "47.0794598"
+        ]
+      },
+      "properties": {
+        "title": "Koraspitz",
+        "ele": "1927",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5569425",
+          "47.1680665"
+        ]
+      },
+      "properties": {
+        "title": "Wissa Schrofa",
+        "ele": "1923",
+        "flights": 1,
+        "top": {
+          "pilot": "Rolf Erhardt",
+          "dist": "9.77 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5397424",
+          "47.065124000000004"
+        ]
+      },
+      "properties": {
+        "title": "Mittlerspitz",
+        "ele": "1897",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5341049",
+          "47.069261100000006"
+        ]
+      },
+      "properties": {
+        "title": "Mittagspitze",
+        "ele": "1856",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5313049",
+          "47.063087900000006"
+        ]
+      },
+      "properties": {
+        "title": "W\u00f6rznerhorn",
+        "ele": "1713",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.565642500000001",
+          "47.1064589"
+        ]
+      },
+      "properties": {
+        "title": "Chr\u00fcppel",
+        "ele": "1706",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.558683700000001",
+          "47.1331726"
+        ]
+      },
+      "properties": {
+        "title": "Plattenspitz",
+        "ele": "1702",
+        "flights": 3,
+        "top": {
+          "pilot": "Patrick D\u00fcnser",
+          "dist": "102.12 km"
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.5735465",
+          "47.1851014"
+        ]
+      },
+      "properties": {
+        "title": "Sattelspitz",
+        "ele": "1688",
+        "flights": 0,
+        "top": {
+          "pilot": "",
+          "dist": ""
+        },
+        "icon": "marker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "9.572669300000001",
+          "47.1907596"
+        ]
+      },
+      "properties": {
+        "title": "Saroja",
+        "ele": "1659",
+        "flights": 15,
+        "top": {
+          "pilot": "Severin Puschkarski \ud83c\udf24",
+          "dist": "66.07 km"
+        },
+        "icon": "marker"
+      }
+    }
+  ]
+}
