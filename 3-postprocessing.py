@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 import collections
 import csv
+from dataclasses import dataclass, field
 import json
 import sys
-from typing import Dict, List
+from typing import Dict, List, Literal, Tuple, TypedDict
 
 
+@dataclass
 class PilotData:
-    def __init__(self):
-        self.count = 0
-        self.peaks = []
+    count: int = 0
+    peaks: List[str] = field(default_factory=list)
 
 
 def pilots(argv: List[str], data: csv.DictReader):
@@ -27,17 +28,48 @@ def pilots(argv: List[str], data: csv.DictReader):
                 writer.writerow((pilot, pdata.count, ';'.join(pdata.peaks)))
 
 
+class Geometry(TypedDict):
+    type: Literal['Point']
+    coordinates: Tuple[str, str]
+
+
+class TopFlight(TypedDict):
+    pilot: str
+    dist: str
+
+
+class Properties(TypedDict):
+    title: str
+    ele: str
+    flights: int
+    top: TopFlight
+    icon: str
+
+
+class Feature(TypedDict):
+    type: Literal['Feature']
+    geometry: Geometry
+    properties: Properties
+
+
+class FeatureCollection(TypedDict):
+    type: Literal['FeatureCollection']
+    features: List[Feature]
+
+
 def geojson(argv: List[str], data: csv.DictReader):
-    out = {
+    out: FeatureCollection = {
         'type': 'FeatureCollection',
         'features': [],
     }
     for line in data:
+        assert line['lng'], 'longitude missing'
+        assert line['lat'], 'latitude missing'
         out['features'].append({
             'type': 'Feature',
             'geometry': {
                 'type': 'Point',
-                'coordinates': [line['lng'], line['lat']],
+                'coordinates': (line['lng'], line['lat']),
             },
             'properties': {
                 'title': line['name'],
