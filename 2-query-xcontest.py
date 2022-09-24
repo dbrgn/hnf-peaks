@@ -6,7 +6,7 @@ from datetime import date
 import os
 import re
 import sys
-from typing import Any, Dict, Optional
+from typing import Any, Optional
 
 from bs4 import BeautifulSoup
 import psycopg2
@@ -44,14 +44,14 @@ def query_xcontest(session: requests.Session, lng: float, lat: float) -> PeakDat
     })
     soup = BeautifulSoup(r.text, 'html.parser')
 
-    flights = int(soup.find('form', class_='filter').find('div', class_='wsw').find('p').find('strong').text)
+    flights = int(soup.find('form', class_='filter').find('div', class_='wsw').find('p').find('strong').text)  # type: ignore
     data = PeakData(flights=flights)
     if flights == 0:
         return data
 
     if flights > 0:
         table = soup.find('table', class_='flights')
-        top = table.find('tbody').find_all('tr')[0]
+        top = table.find('tbody').find_all('tr')[0]  # type: ignore
         pilot = top.find(class_='plt').text
         distance = top.find('td', class_='km').text
         data.top = TopFlight(pilot=pilot, distance=distance)
