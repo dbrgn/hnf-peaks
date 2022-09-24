@@ -3,10 +3,11 @@
 from dataclasses import dataclass
 import csv
 from datetime import date
+from itertools import count
 import os
 import re
 import sys
-from typing import Any, Optional
+from typing import Optional
 
 from bs4 import BeautifulSoup
 import psycopg2
@@ -19,6 +20,18 @@ RADIUS = 350
 XCONTEST_USER = os.environ.get('XCONTEST_USER', 'dbrgn')
 XCONTEST_PASS = os.environ.get('XCONTEST_PASS')
 assert XCONTEST_PASS, 'Did not find XCONTEST_PASS env var'
+
+# Here flights can be ignored which should not be considered.
+# For example, this can be applied to flights where the start coordinates are wrong.
+IGNORED_FLIGHTS = {
+    1372641349: [  # Höchst
+        'FLID:2533749',  # Not launched here
+    ],
+    5359585024: [  # Wändlispitz
+        'FLID:2308128',  # Launch from Diethelm
+        'FLID:1537294',  # Launch from Diethelm
+    ],
+}
 
 
 # Data classes
@@ -37,7 +50,7 @@ class PeakData:
 
 # Functions
 
-def query_xcontest(session: requests.Session, lng: float, lat: float) -> PeakData:
+def query_xcontest(session: requests.Session, osm_node_id: int, lng: float, lat: float) -> PeakData:
     url = f'https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D={lng}+{lat}&filter%5Bradius%5D={RADIUS}&list%5Bsort%5D=pts&list%5Bdir%5D=down'
     r = session.get(url, headers={
         'user-agent': 'github.com/dbrgn/hnf-peaks',
@@ -46,15 +59,22 @@ def query_xcontest(session: requests.Session, lng: float, lat: float) -> PeakDat
 
     flights = int(soup.find('form', class_='filter').find('div', class_='wsw').find('p').find('strong').text)  # type: ignore
     data = PeakData(flights=flights)
-    if flights == 0:
+    if data.flights == 0:
         return data
 
-    if flights > 0:
-        table = soup.find('table', class_='flights')
-        top = table.find('tbody').find_all('tr')[0]  # type: ignore
-        pilot = top.find(class_='plt').text
-        distance = top.find('td', class_='km').text
-        data.top = TopFlight(pilot=pilot, distance=distance)
+    ignored = IGNORED_FLIGHTS.get(osm_node_id)
+    for i in count():
+        if data.flights > 0:
+            table = soup.find('table', class_='flights')
+            top = table.find('tbody').find_all('tr')[i]  # type: ignore
+            flight_id = top.find('td').attrs['title']
+            if ignored is not None and flight_id in ignored:
+                data.flights -= 1
+                continue
+            pilot = top.find(class_='plt').text
+            distance = top.find('td', class_='km').text
+            data.top = TopFlight(pilot=pilot, distance=distance)
+        break
 
     return data
 
@@ -111,7 +131,7 @@ if __name__ == '__main__':
             lat = float(lnglat[1])
 
             print(f'{name} ({ele}) {lat},{lng}')
-            data = query_xcontest(session, lng, lat)
+            data = query_xcontest(session, nid, lng, lat)
             print(f'- Flights: {data.flights}')
             if data.top:
                 top_pilot = data.top.pilot
