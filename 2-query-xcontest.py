@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 
-from bs4 import BeautifulSoup
+from dataclasses import dataclass
 import csv
 from datetime import date
 import os
 import re
 import sys
-from typing import Any, Dict
+from typing import Any, Dict, Optional
 
+from bs4 import BeautifulSoup
 import psycopg2
 import requests
 
@@ -20,11 +21,23 @@ XCONTEST_PASS = os.environ.get('XCONTEST_PASS')
 assert XCONTEST_PASS, 'Did not find XCONTEST_PASS env var'
 
 
+# Data classes
+
+@dataclass
+class TopFlight:
+    pilot: str
+    distance: float
+
+
+@dataclass
+class PeakData:
+    flights: int
+    top: Optional[TopFlight] = None
+
+
 # Functions
 
-def query_xcontest(session: requests.Session, lng: float, lat: float) -> Dict[str, Any]:
-    data = {}  # type: Dict[str, Any]
-
+def query_xcontest(session: requests.Session, lng: float, lat: float) -> PeakData:
     url = f'https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D={lng}+{lat}&filter%5Bradius%5D={RADIUS}&list%5Bsort%5D=pts&list%5Bdir%5D=down'
     r = session.get(url, headers={
         'user-agent': 'github.com/dbrgn/hnf-peaks',
@@ -32,7 +45,7 @@ def query_xcontest(session: requests.Session, lng: float, lat: float) -> Dict[st
     soup = BeautifulSoup(r.text, 'html.parser')
 
     flights = int(soup.find('form', class_='filter').find('div', class_='wsw').find('p').find('strong').text)
-    data['flights'] = flights
+    data = PeakData(flights=flights)
     if flights == 0:
         return data
 
@@ -41,10 +54,7 @@ def query_xcontest(session: requests.Session, lng: float, lat: float) -> Dict[st
         top = table.find('tbody').find_all('tr')[0]
         pilot = top.find(class_='plt').text
         distance = top.find('td', class_='km').text
-        data['top'] = {
-            'pilot': pilot,
-            'distance': distance,
-        }
+        data.top = TopFlight(pilot=pilot, distance=distance)
 
     return data
 
@@ -102,13 +112,13 @@ if __name__ == '__main__':
 
             print(f'{name} ({ele}) {lat},{lng}')
             data = query_xcontest(session, lng, lat)
-            print(f'- Flights: {data["flights"]}')
-            if 'top' in data:
-                top_pilot = data['top']['pilot']
-                top_dist = data['top']['distance']
+            print(f'- Flights: {data.flights}')
+            if data.top:
+                top_pilot = data.top.pilot
+                top_dist = str(data.top.distance)
                 print(f'- Top flight: {top_pilot} ({top_dist})')
             else:
                 top_pilot = ''
                 top_dist = ''
 
-            writer.writerow((nid, name, ele, lng, lat, data['flights'], top_pilot, top_dist))
+            writer.writerow((nid, name, ele, lng, lat, data.flights, top_pilot, top_dist))
