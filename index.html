@@ -115,6 +115,28 @@
                 const tier1 = '#FFDA20'; // 1-3
                 const tier2 = '#F46F22'; // 4-9
                 const tier3 = '#E92028'; // 10+
+                const metersRadius = 350;
+                map.addLayer({
+                    id: 'circles',
+                    source: `peaks_${country}`,
+                    type: 'circle',
+                    // https://stackoverflow.com/a/70458439/284318
+                    paint: {
+                        'circle-radius': [
+                            'interpolate',
+                            ['exponential', 2],
+                            ['zoom'],
+                            0, 0,
+                            20, [
+                              '/',
+                              ['/', metersRadius, 0.075],
+                              ['cos', ['*', ['get', 'lat'], ['/', Math.PI, 180]]],
+                            ],
+                        ],
+                        'circle-color': '#444444',
+                        'circle-opacity': 0.1,
+                    },
+                });
                 map.addLayer({
                     id: 'markers',
                     source: `peaks_${country}`,
