@@ -109,6 +109,7 @@
 
                 // Update marker layer
                 if (loaded) {
+                    map.removeLayer('circles');
                     map.removeLayer('markers');
                 }
                 const tier0 = '#4059AD'; // 0
@@ -128,9 +129,9 @@
                             ['zoom'],
                             0, 0,
                             20, [
-                              '/',
-                              ['/', metersRadius, 0.075],
-                              ['cos', ['*', ['get', 'lat'], ['/', Math.PI, 180]]],
+                                '/',
+                                ['/', metersRadius, 0.075],
+                                ['cos', ['*', ['get', 'lat'], ['/', Math.PI, 180]]],
                             ],
                         ],
                         'circle-color': '#444444',
