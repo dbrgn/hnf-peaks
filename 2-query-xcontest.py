@@ -27,6 +27,11 @@ IGNORED_FLIGHTS = {
     1372641349: [  # Höchst
         'FLID:2533749',  # Not launched here
     ],
+    1372641668: [  # Schafchopf
+        'FLID:2533749',  # Not launched here
+        'FLID:3348575',  # Not launched here
+        'FLID:3348628',  # Not launched here
+    ],
     5359585024: [  # Wändlispitz
         'FLID:2308128',  # Launch from Diethelm
         'FLID:1537294',  # Launch from Diethelm
