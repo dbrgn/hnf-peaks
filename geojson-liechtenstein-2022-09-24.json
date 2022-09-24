@@ -13,6 +13,7 @@
       "properties": {
         "title": "Vorder Grauspitz",
         "ele": "2599",
+        "lat": 47.0527317,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -33,6 +34,7 @@
       "properties": {
         "title": "Hinter Grauspitz",
         "ele": "2574",
+        "lat": 47.0548251,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -53,6 +55,7 @@
       "properties": {
         "title": "Naafkopf",
         "ele": "2571",
+        "lat": 47.060772500000006,
         "flights": 1,
         "top": {
           "pilot": "Lorenz Brusa",
@@ -73,6 +76,7 @@
       "properties": {
         "title": "Falknis",
         "ele": "2565",
+        "lat": 47.050440200000004,
         "flights": 7,
         "top": {
           "pilot": "Johannes Engewald",
@@ -93,6 +97,7 @@
       "properties": {
         "title": "Mazorakopf",
         "ele": "2452",
+        "lat": 47.0485148,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -113,6 +118,7 @@
       "properties": {
         "title": "Glegghorn",
         "ele": "2447",
+        "lat": 47.036272000000004,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -133,6 +139,7 @@
       "properties": {
         "title": "Augstenberg",
         "ele": "2359",
+        "lat": 47.0823936,
         "flights": 8,
         "top": {
           "pilot": "Martin B\u00fchler",
@@ -153,6 +160,7 @@
       "properties": {
         "title": "Plasteikopf",
         "ele": "2345",
+        "lat": 47.0659585,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -173,6 +181,7 @@
       "properties": {
         "title": "Gorfion",
         "ele": "2308",
+        "lat": 47.078138200000005,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -193,6 +202,7 @@
       "properties": {
         "title": "Ochsenkopf",
         "ele": "2286",
+        "lat": 47.114693,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -213,6 +223,7 @@
       "properties": {
         "title": "Hochspeler",
         "ele": "2226",
+        "lat": 47.073272700000004,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -233,6 +244,7 @@
       "properties": {
         "title": "Rappastein",
         "ele": "2222",
+        "lat": 47.076840600000004,
         "flights": 4,
         "top": {
           "pilot": "Kurt M\u00fcller",
@@ -253,6 +265,7 @@
       "properties": {
         "title": "Galinakopf",
         "ele": "2198",
+        "lat": 47.151639200000005,
         "flights": 2,
         "top": {
           "pilot": "Martin Gassner",
@@ -273,6 +286,7 @@
       "properties": {
         "title": "Spitz",
         "ele": "2187",
+        "lat": 47.086608700000006,
         "flights": 4,
         "top": {
           "pilot": "Hermann Lenherr",
@@ -293,6 +307,7 @@
       "properties": {
         "title": "Scheienkopf",
         "ele": "2159",
+        "lat": 47.1283449,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -313,6 +328,7 @@
       "properties": {
         "title": "Silberhorn",
         "ele": "2150",
+        "lat": 47.0871307,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -333,6 +349,7 @@
       "properties": {
         "title": "Rot Spitz",
         "ele": "2127",
+        "lat": 47.057900000000004,
         "flights": 1,
         "top": {
           "pilot": "Rolf Erhardt",
@@ -353,6 +370,7 @@
       "properties": {
         "title": "Kuhgrat",
         "ele": "2122",
+        "lat": 47.1666716,
         "flights": 4,
         "top": {
           "pilot": "Patrick D\u00fcnser",
@@ -373,6 +391,7 @@
       "properties": {
         "title": "Goldlochspitz",
         "ele": "2110",
+        "lat": 47.082143200000004,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -393,6 +412,7 @@
       "properties": {
         "title": "Garsellikopf",
         "ele": "2104",
+        "lat": 47.170281,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -413,6 +433,7 @@
       "properties": {
         "title": "Sch\u00f6nberg",
         "ele": "2104",
+        "lat": 47.1303811,
         "flights": 2,
         "top": {
           "pilot": "Rolf Erhardt",
@@ -433,6 +454,7 @@
       "properties": {
         "title": "Nospitz",
         "ele": "2091",
+        "lat": 47.0931366,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -453,6 +475,7 @@
       "properties": {
         "title": "Drei Kapuziner",
         "ele": "2085",
+        "lat": 47.124486600000004,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -473,6 +496,7 @@
       "properties": {
         "title": "Drei Schwestern",
         "ele": "2051",
+        "lat": 47.1755681,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -493,6 +517,7 @@
       "properties": {
         "title": "Garselli-Turm 1",
         "ele": "2049",
+        "lat": 47.1699652,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -513,6 +538,7 @@
       "properties": {
         "title": "Wolan",
         "ele": "2034",
+        "lat": 47.1764512,
         "flights": 1,
         "top": {
           "pilot": "Hubert STEPHAN \ud83d\udc26",
@@ -533,6 +559,7 @@
       "properties": {
         "title": "Langspitz",
         "ele": "2006",
+        "lat": 47.079423500000004,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -553,6 +580,7 @@
       "properties": {
         "title": "Helwangspitz",
         "ele": "2000",
+        "lat": 47.1485896,
         "flights": 1,
         "top": {
           "pilot": "Hermann Lenherr",
@@ -573,6 +601,7 @@
       "properties": {
         "title": "Kolm",
         "ele": "1993",
+        "lat": 47.0876195,
         "flights": 2,
         "top": {
           "pilot": "Matthias G\u00f6bel",
@@ -593,6 +622,7 @@
       "properties": {
         "title": "Gafleispitz",
         "ele": "1982",
+        "lat": 47.158919700000006,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -613,6 +643,7 @@
       "properties": {
         "title": "Alpspitz",
         "ele": "1942",
+        "lat": 47.148701300000006,
         "flights": 9,
         "top": {
           "pilot": "Peter Haltiner",
@@ -633,6 +664,7 @@
       "properties": {
         "title": "Koraspitz",
         "ele": "1927",
+        "lat": 47.0794598,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -653,6 +685,7 @@
       "properties": {
         "title": "Wissa Schrofa",
         "ele": "1923",
+        "lat": 47.1680665,
         "flights": 1,
         "top": {
           "pilot": "Rolf Erhardt",
@@ -673,6 +706,7 @@
       "properties": {
         "title": "Mittlerspitz",
         "ele": "1897",
+        "lat": 47.065124000000004,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -693,6 +727,7 @@
       "properties": {
         "title": "Mittagspitze",
         "ele": "1856",
+        "lat": 47.069261100000006,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -713,6 +748,7 @@
       "properties": {
         "title": "W\u00f6rznerhorn",
         "ele": "1713",
+        "lat": 47.063087900000006,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -733,6 +769,7 @@
       "properties": {
         "title": "Chr\u00fcppel",
         "ele": "1706",
+        "lat": 47.1064589,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -753,6 +790,7 @@
       "properties": {
         "title": "Plattenspitz",
         "ele": "1702",
+        "lat": 47.1331726,
         "flights": 3,
         "top": {
           "pilot": "Patrick D\u00fcnser",
@@ -773,6 +811,7 @@
       "properties": {
         "title": "Sattelspitz",
         "ele": "1688",
+        "lat": 47.1851014,
         "flights": 0,
         "top": {
           "pilot": "",
@@ -793,6 +832,7 @@
       "properties": {
         "title": "Saroja",
         "ele": "1659",
+        "lat": 47.1907596,
         "flights": 16,
         "top": {
           "pilot": "Severin Puschkarski \ud83c\udf24",
