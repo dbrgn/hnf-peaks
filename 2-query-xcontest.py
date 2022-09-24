@@ -96,7 +96,7 @@ if __name__ == '__main__':
     # Open CSV file
     filename = 'data-{}-{}.csv'.format(country, date.today().isoformat())
     with open(filename, 'w') as csvfile:
-        writer = csv.writer(csvfile)
+        writer = csv.writer(csvfile, lineterminator='\n')
         writer.writerow(('id', 'name', 'ele', 'lng', 'lat', 'flights', 'top_pilot', 'top_dist'))
 
         # Iterate over keys
