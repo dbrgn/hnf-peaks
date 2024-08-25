@@ -7,6 +7,7 @@ from itertools import count
 import os
 import re
 import sys
+import time
 from typing import Optional
 
 from bs4 import BeautifulSoup
@@ -17,6 +18,7 @@ import requests
 # Config
 
 RADIUS = 350
+DELAY = 3  # How many seconds to sleep in between requests, to avoid rate limiting
 XCONTEST_USER = os.environ.get('XCONTEST_USER', 'dbrgn')
 XCONTEST_PASS = os.environ.get('XCONTEST_PASS')
 assert XCONTEST_PASS, 'Did not find XCONTEST_PASS env var'
@@ -147,3 +149,5 @@ if __name__ == '__main__':
                 top_dist = ''
 
             writer.writerow((nid, name, ele, lng, lat, data.flights, top_pilot, top_dist))
+
+            time.sleep(DELAY)
