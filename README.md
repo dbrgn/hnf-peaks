@@ -11,6 +11,16 @@ Map: https://dbrgn.github.io/hnf-peaks/
 - Python 3
 - The following Python packages: beautifulsoup4, psycopg2
 
+## 0: Start services
+
+The easiest way to run PostGIS is through Docker:
+
+    docker run -d --name hnf-peaks-pg \
+          -e POSTGRES_USER=$(id -u -n) \
+          -e POSTGRES_HOST_AUTH_METHOD=trust \
+          -p 127.0.0.1:5432:5432 \
+          docker.io/postgis/postgis:16-3.4-alpine
+
 ## 1: Download OSM Data
 
 This will download the OpenStreetMap database and extract all peaks with an

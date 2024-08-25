@@ -17,12 +17,12 @@ COUNTRY=${1,,}
 DB="peaks_$COUNTRY"
 
 # Check whether database exists
-dbs=$(psql -lqt | cut -d \| -f 1)
+dbs=$(psql -h localhost -lqt | cut -d \| -f 1)
 if (echo "$dbs" | grep -qw "$DB"); then
     loge "Database \"$DB\" already exists. Please drop it first."
     exit 1
 fi
-psql="psql -d $DB"
+psql="psql -h localhost -d $DB"
 
 # Download data
 DATA=$COUNTRY-latest.osm.pbf
@@ -62,7 +62,7 @@ echo ""
 
 # Create database
 log "Creating database \"$DB\"..."
-createdb "$DB"
+createdb -h localhost "$DB"
 $psql -c "CREATE EXTENSION hstore;"
 $psql -c "CREATE EXTENSION postgis;"
 $psql -f osmosis/script/pgsnapshot_schema_0.6.sql

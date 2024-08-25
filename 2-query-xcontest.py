@@ -92,7 +92,7 @@ if __name__ == '__main__':
     country = sys.argv[1].lower()
 
     # Connect
-    conn = psycopg2.connect(f'dbname=peaks_{country}')
+    conn = psycopg2.connect(f'host=localhost dbname=peaks_{country}')
 
     # Query database
     cur = conn.cursor()
