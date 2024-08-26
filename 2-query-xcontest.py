@@ -138,7 +138,14 @@ if __name__ == '__main__':
             lat = float(lnglat[1])
 
             print(f'{name} ({ele}) {lat},{lng}')
-            data = query_xcontest(session, nid, lng, lat)
+            try:
+                data = query_xcontest(session, nid, lng, lat)
+            except Exception as e:
+                # Try again once
+                print(f'ERROR: {e}')
+                print('Retrying again in 30s...')
+                time.sleep(30)
+                data = query_xcontest(session, nid, lng, lat)
             print(f'- Flights: {data.flights}')
             if data.top:
                 top_pilot = data.top.pilot
